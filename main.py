@@ -1,19 +1,11 @@
-import html2text
 import pandas as pd
-from bs4 import BeautifulSoup
 
+file = open('naddpod/c3-e1.txt', mode = 'r', encoding = 'utf-8-sig')
+lines = file.readlines()
+file.close()
 
-with open('test/cr2-1.html', 'r') as file:
-    html_content = file.read()
+# for line in lines:
     
-# html = open('test/cr2-1.html','r')
-# html_file_path = 'test/cr2-1.html'
-
-# Read HTML file using read_html() function
-# df = read_html_with_beautiful_soup(html_file_path)
-
-# html = #import file here
-text = html2text.html2text(html_content)
-
-print(text)
-
+    # remove empty lines
+    # split by the colon
+    # create data frame with speaker name and line (potentially any given speech tags for the line?)
