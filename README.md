@@ -1,1 +1,1 @@
-# crit-role-sentiment
+# ttrpg-sentiment
