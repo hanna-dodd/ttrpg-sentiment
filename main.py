@@ -1,29 +1,43 @@
 import pandas as pd
 import re
 from bs4 import BeautifulSoup
+import os
 
 def parse_critrole():
     
-    file = open('critrole/cr1-1.html', mode = 'r', encoding = 'utf-8-sig')
-    lines = file.readlines()
-    file.close()
+    directory = 'critrole/c1'
+    c1df = pd.DataFrame({"name": [], "line": [], "episode": [], "arc": []})
     
-    df = pd.DataFrame({"name": [], "line": []})
-    
-    for line in lines:
+    for filename in os.listdir(directory):
         
-        line = line.strip()
-        
-        if line.startswith("<dt>"):
-            name = find_name(line)
-        elif line.startswith("<dd"):
-            # add name as first column
-            speech = find_speech(line)
-            row = {"name": name, "line": speech}
-            df = df._append(row, ignore_index=True)
+        f = os.path.join(directory, filename)
     
-    df.to_csv("cr1-1.csv", index=False)
+        file = open(f, mode = 'r', encoding = 'utf-8-sig')
+        lines = file.readlines()
+        file.close()
+        
+        
+        for line in lines:
+            
+            line = line.strip()
+            if line.startswith("<h3>"):
+                episode = find_episode(line)
+            elif line.startswith("<dt>"):
+                name = find_name(line)
+            elif line.startswith("<dd"):
+                # add name as first column
+                speech = find_speech(line)
+                row = {"name": name, "line": speech, "episode": episode}
+                c1df = c1df._append(row, ignore_index=True)
+            
+                print(episode)
+    
+    csv = 'c1.csv'
+    c1df.to_csv(csv, index=False)
 
+def find_episode(input_text):
+    soup = BeautifulSoup(input_text, 'html.parser')
+    return soup.get_text()
 
 def find_name(input_text):
     text = re.findall(r"[\w']+", input_text)
