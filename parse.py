@@ -5,7 +5,7 @@ import os
 
 def parse_critrole():
     
-    directory = 'critrole/test'
+    directory = 'critrole/c3'
     critroledf = pd.DataFrame({"episode #": [], "episode": [], "name": [], "line": [], "arc #": [], "arc": []})
     
     for filename in os.listdir(directory):
@@ -33,32 +33,29 @@ def parse_critrole():
                 speech = find_speech(line)
                 episode_num = int((re.findall(r'\d+', episode))[1])
                 
-                if 1 <= episode_num and episode_num <= 25:
+                if 1 <= episode_num and episode_num <= 23:
                     arc_num = "A1"
-                    arc = "Arc 1: Come Together"
-                elif 26 <= episode_num and episode_num <= 47:
+                    arc = "Arc 1: Jrusar"
+                elif 24 <= episode_num and episode_num <= 51:
                     arc_num = "A2"
-                    arc = "Arc 2: The Bad Guys"
+                    arc = "Arc 2: Ruidus Rising"
                     break
-                elif 48 <= episode_num and episode_num <= 69:
+                elif 52 <= episode_num and episode_num <= 75:
                     arc_num = "A3"
-                    arc = "Arc 3: The Bright Queen's Favor"
-                elif 70 <= episode_num and episode_num <= 91:
+                    arc = "Arc 3: Separations and Explorations"
+                elif 76 <= episode_num and episode_num <= 98:
                     arc_num = "A4"
-                    arc = "Arc 4: Swords and Angels"
-                elif 92 <= episode_num and episode_num <= 112:
+                    arc = "Arc 4: Ruidus to Aeor"
+                elif 99 <= episode_num and episode_num <= 101:
                     arc_num = "A5"
-                    arc = "Arc 5: Family Ties"
-                elif 113 <= episode_num and episode_num <= 141:
-                    arc_num = "A6"
-                    arc = "Arc 6: Weird Magic"
+                    arc = "Arc 5: Downfall"
                 
                 row = {"episode #": "E" + str(episode_num), "episode": episode, "name": name, "line": speech, "arc #": arc_num, "arc": arc}
                 critroledf = critroledf._append(row, ignore_index=True)
     
         print(episode_num)
         
-    csv = 'test.csv'
+    csv = 'c3.csv'
     critroledf.to_csv(csv, index=False)
 
 def find_episode(input_text):
