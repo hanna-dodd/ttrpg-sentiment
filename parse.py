@@ -3,10 +3,10 @@ import re
 from bs4 import BeautifulSoup
 import os
 
-def parse_critrole():
+def parse_critrolec1():
     
-    directory = 'critrole/c3'
-    critroledf = pd.DataFrame({"episode #": [], "episode": [], "name": [], "line": [], "arc #": [], "arc": []})
+    directory = 'critrole/c1'
+    critroledf = pd.DataFrame({"Index": [], "Episode_Num": [], "Episode_Name": [], "Arc_Num": [], "Arc_Name": [], "Speaker": [], "Line": []})
     
     for filename in os.listdir(directory):
         
@@ -20,6 +20,7 @@ def parse_critrole():
         episode_num = ""
         arc = ""
         arc_num = ""
+        line_num = 1
         
         for line in lines:
             
@@ -35,27 +36,28 @@ def parse_critrole():
                 
                 if 1 <= episode_num and episode_num <= 23:
                     arc_num = "A1"
-                    arc = "Arc 1: Jrusar"
-                elif 24 <= episode_num and episode_num <= 51:
+                    arc = "Arc 1: Kraghammer and Vasselheim"
+                elif 24 <= episode_num and episode_num <= 38:
                     arc_num = "A2"
-                    arc = "Arc 2: Ruidus Rising"
+                    arc = "Arc 2: The Briarwoods"
                     break
-                elif 52 <= episode_num and episode_num <= 75:
+                elif 39 <= episode_num and episode_num <= 83:
                     arc_num = "A3"
-                    arc = "Arc 3: Separations and Explorations"
-                elif 76 <= episode_num and episode_num <= 98:
+                    arc = "Arc 3: The Chroma Conclave"
+                elif 84 <= episode_num and episode_num <= 99:
                     arc_num = "A4"
-                    arc = "Arc 4: Ruidus to Aeor"
-                elif 99 <= episode_num and episode_num <= 101:
+                    arc = "Arc 4: Taryon Darrington"
+                elif 100 <= episode_num and episode_num <= 115:
                     arc_num = "A5"
-                    arc = "Arc 5: Downfall"
+                    arc = "Arc 5: Vecna"
                 
-                row = {"episode #": "E" + str(episode_num), "episode": episode, "name": name, "line": speech, "arc #": arc_num, "arc": arc}
+                row = {"Index": line_num, "Episode_Num": "E" + str(episode_num), "Episode_Name": episode, "Arc_Num": arc_num, "Arc_Name": arc, "Speaker": name, "Line": speech}
+                line_num = line_num + 1
                 critroledf = critroledf._append(row, ignore_index=True)
     
         print(episode_num)
         
-    csv = 'c3.csv'
+    csv = 'c1.csv'
     critroledf.to_csv(csv, index=False)
 
 def find_episode(input_text):
@@ -70,4 +72,4 @@ def find_speech(input_text):
     soup = BeautifulSoup(input_text, 'html.parser')
     return soup.get_text()
 
-parse_critrole()
+parse_critrolec1()
