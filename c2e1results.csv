@@ -1,0 +1,928 @@
+Index,Speaker,Section,Scene,Category,Character,text,pred,label,score,anger,disgust,fear,joy,neutral,sadness,surprise
+142,SAM,Part One,1,Dialogue,NOTT,"Oh! You're finally awake, I see.",6,surprise,0.8771235,0.029428462,0.018477196,0.00412561,0.034323078,0.031333335,0.005188835,0.8771235
+144,SAM,Part One,1,Dialogue,NOTT,"You were out for quite some time, there. Rough day, eh?",4,neutral,0.8027432,0.0102141965,0.079111226,0.06054894,0.007528251,0.8027432,0.030531088,0.0093230875
+145,LIAM,Part One,1,Dialogue,CALEB,"Not our best day, no. ",5,sadness,0.58124644,0.031539764,0.07921314,0.25943676,0.0038397529,0.041201785,0.58124644,0.003522324
+146,SAM,Part One,1,Dialogue,NOTT,"No, I mean, usually you're so good at everything, but yesterday you were just-- maybe you needed the sleep, is what you needed. ",4,neutral,0.7753555,0.035300493,0.11725246,0.037986062,0.008864873,0.7753555,0.015267614,0.009973018
+147,LIAM,Part One,1,Dialogue,CALEB,Thank you. ,4,neutral,0.6749895,0.029116739,0.015293459,0.015140659,0.23756412,0.6749895,0.009810394,0.018085139
+147,LIAM,Part One,1,Dialogue,CALEB,Thank you. ,4,neutral,0.6749896,0.02911674,0.01529346,0.015140661,0.23756407,0.6749896,0.009810395,0.018085139
+148,SAM,Part One,1,Dialogue,NOTT,"Well, don't thank me yet. I should probably tell you what happened while you were asleep. I mean, you were asleep for so long. I got bored, frankly. I was going through my pack and reorganizing. ",4,neutral,0.683183,0.055836763,0.1714653,0.04045233,0.007668679,0.683183,0.030379696,0.011014154
+149,LIAM,Part One,1,Dialogue,CALEB,Has anybody seen you-- seen you seen you? ,2,fear,0.3825114,0.068573385,0.046770383,0.3825114,0.00889899,0.2687786,0.012428084,0.21203913
+150,SAM,Part One,1,Dialogue,NOTT,"Well, I mean, many people? I got bored. ",4,neutral,0.45341474,0.06388247,0.3497039,0.041434314,0.0073228315,0.45341474,0.033343628,0.05089816
+151,SAM,Part One,1,Dialogue,NOTT,"You've never slept that long, so I left, I went downstairs, I thought I'd do a bit of window-shopping, and you know how sometimes I get the itch, you know? ",2,fear,0.40452954,0.034139328,0.11684414,0.40452954,0.005176532,0.36033285,0.017942853,0.06103469
+152,LIAM,Part One,1,Dialogue,CALEB,"I do. Did you make it back here okay, at night? ",4,neutral,0.43191522,0.081624344,0.047359325,0.3669708,0.0060481085,0.43191522,0.038325824,0.027756356
+153,SAM,Part One,1,Dialogue,NOTT,"I'm here, aren't I? ",2,fear,0.6400208,0.08318255,0.033442024,0.6400208,0.0050408146,0.05818743,0.013666421,0.16646
+154,LIAM,Part One,1,Dialogue,CALEB,"Yeah, you are. ",4,neutral,0.75405353,0.061612055,0.14067243,0.020269306,0.009339704,0.75405353,0.010816894,0.003236057
+155,SAM,Part One,1,Dialogue,NOTT,"Yeah, I did. But I might have been spotted by a few of the Crown's Guard. ",4,neutral,0.9058223,0.0096885655,0.0235855,0.030634971,0.00358141,0.9058223,0.007546999,0.019140296
+156,LIAM,Part One,1,Dialogue,CALEB,Did you have the mask on? ,6,surprise,0.4315699,0.052194815,0.08058774,0.08666962,0.0027810403,0.33697045,0.009226442,0.4315699
+157,SAM,Part One,1,Dialogue,NOTT,"No? No, I didn't. But they didn't catch me, so. Listen, I'm sorry, sometimes I get the urge, I've got to take something, you know? I was trying to replentish what you lost yesterday, and I failed. ",2,fear,0.29371086,0.08248977,0.1869061,0.29371086,0.0034420819,0.26261708,0.1502245,0.020609567
+158,LIAM,Part One,1,Dialogue,CALEB,"Well, we-- (sighs)-- discussed coming to a bigger town. It's going to be a little more difficult now. You can't go-- it was easier on outskirts, it was easier in farms, but we can't do that here. ",4,neutral,0.34449878,0.03320832,0.3100569,0.15336758,0.008219173,0.34449878,0.13759026,0.013059025
+159,SAM,Part One,1,Dialogue,NOTT,"I know, I'm sorry. Yeah. I know. You're right. Yep. I just got a little bit squiggly. ",1,disgust,0.31224713,0.021476101,0.31224713,0.15214942,0.010480905,0.27947077,0.19389634,0.030279335
+160,SAM,Part One,1,Dialogue,NOTT,That's all. ,4,neutral,0.8962279,0.02565567,0.052416682,0.010109661,0.0060197082,0.8962279,0.0046364577,0.004933928
+161,LIAM,Part One,1,Dialogue,CALEB,"Okay. Well, I think today you should have the mask on at all times. ",4,neutral,0.82574636,0.027919302,0.07053569,0.053942636,0.006486764,0.82574636,0.012902983,0.0024662311
+162,SAM,Part One,1,Dialogue,NOTT,"Yeah, good idea, Caleb. ",3,joy,0.5301097,0.043879196,0.13176061,0.013375795,0.5301097,0.2709621,0.006199119,0.0037134364
+163,LIAM,Part One,1,Dialogue,CALEB,"It's better when we're working together. If you need to steal something, do it with my help, all right? ",4,neutral,0.3371336,0.30978125,0.11149127,0.21294448,0.01213171,0.3371336,0.014683362,0.0018343036
+164,SAM,Part One,1,Dialogue,NOTT,"Yeah, yeah, of course. Yeah. ",4,neutral,0.50951487,0.07998584,0.2700345,0.08683018,0.017028408,0.50951487,0.03474323,0.0018629815
+165,LIAM,Part One,1,Dialogue,CALEB,Back up the conversation a minute. Thank you. I would not be alive if you had not-- you saved my life. So thank you. ,4,neutral,0.586785,0.030822229,0.010918241,0.027246716,0.31752017,0.586785,0.010013727,0.016693892
+166,SAM,Part One,1,Dialogue,NOTT,"Ah, no problem. ",4,neutral,0.24733056,0.24118511,0.22531357,0.22475646,0.007966251,0.24733056,0.051442403,0.002005629
+167,LIAM,Part One,1,Dialogue,CALEB,Yesterday was really not great. ,2,fear,0.62827724,0.020935753,0.024845975,0.62827724,0.0050823884,0.031114174,0.2834495,0.006294996
+168,SAM,Part One,1,Dialogue,NOTT,"Yeah, well, we'll do better today, right? ",4,neutral,0.6102138,0.089458294,0.1770082,0.08166849,0.009139443,0.6102138,0.030825647,0.0016860748
+169,LIAM,Part One,1,Dialogue,CALEB,Sure. Sure we will. Are you hungry? ,4,neutral,0.5911248,0.090443544,0.13707526,0.08311267,0.008341729,0.5911248,0.05161032,0.03829175
+170,SAM,Part One,1,Dialogue,NOTT,"Yeah, I'm starving. ",5,sadness,0.4241915,0.04612248,0.27950436,0.08749979,0.0042166086,0.15462388,0.4241915,0.0038414209
+172,LIAM,Part One,1,Dialogue,CALEB,"Well, Nott, what are we going to do today? I can go down and get breakfast and bring it up here. At least-- I don't know. I mean, I'm a little wary of just splashing back into the town right away. ",2,fear,0.84298927,0.00975933,0.015368679,0.84298927,0.002758644,0.11493534,0.007831338,0.006357421
+173,SAM,Part One,1,Dialogue,NOTT,"Let's go down, get some food. I'll come with you, 'cause as you said, we're better together. ",4,neutral,0.69999737,0.07603627,0.09618654,0.071749136,0.03586875,0.69999737,0.017638909,0.0025229724
+174,SAM,Part One,1,Dialogue,NOTT,"And we'll take it from there. You need some books and stuff, right? ",4,neutral,0.9301018,0.022210483,0.023476377,0.011516317,0.0054205563,0.9301018,0.0033349744,0.003939476
+175,LIAM,Part One,1,Dialogue,CALEB,Always. ,4,neutral,0.7698433,0.052258797,0.032083802,0.11070572,0.009896031,0.7698433,0.02309813,0.0021142776
+176,SAM,Part One,1,Dialogue,NOTT,"All right, well, that's on the to-do list. ",4,neutral,0.84119934,0.05592857,0.06351522,0.009346691,0.016402168,0.84119934,0.012217859,0.0013901046
+177,LIAM,Part One,1,Dialogue,CALEB,"All right, well, let's get something to eat, then. ",4,neutral,0.6948097,0.08110047,0.14976998,0.020441301,0.029435758,0.6948097,0.02316183,0.0012809127
+183,MATT,Part One,2,Dialogue,YORDA,"Adelaine, two more brats and a bit of mush at the corner table.",4,neutral,0.8142954,0.007229001,0.11215991,0.003287425,0.017220184,0.8142954,0.024027076,0.021780979
+185,MATT,Part One,2,Dialogue,ADELAINE,I'm working on it!,0,anger,0.35725462,0.35725462,0.033937268,0.010665317,0.21184751,0.04908786,0.015283153,0.3219244
+194,MATT,Part One,2,Dialogue,ADELAINE,I'm terribly sorry. What can I get you?,5,sadness,0.8714782,0.007954601,0.012706468,0.031554572,0.0019565136,0.027794268,0.8714782,0.046555325
+195,SAM,Part One,2,Dialogue,NOTT,"You know, meat if you have it, but if you don't, that's okay, too. Potatoes, or bacon if it's on the menu, but really anything-- ",4,neutral,0.43944788,0.072040156,0.43065897,0.040493593,0.0066533773,0.43944788,0.008994219,0.0017117562
+196,MATT,Part One,2,Dialogue,ADELAINE,"I can get you all three, it's fine. What you want?",4,neutral,0.7060954,0.19511288,0.059783276,0.01141779,0.009614388,0.7060954,0.012724955,0.0052513788
+197,LIAM,Part One,2,Dialogue,CALEB,"A Trost for each of us, please. ",4,neutral,0.73749495,0.016652003,0.08243516,0.1346814,0.010824618,0.73749495,0.0131066,0.0048053022
+198,MATT,Part One,2,Dialogue,ADELAINE,"For breakfast? I like you. All right, two Trosts and a bunch of meats. Be right back.",4,neutral,0.52781516,0.028005961,0.032469697,0.002552434,0.3877318,0.52781516,0.008850135,0.012574791
+200,LIAM,Part One,2,Dialogue,CALEB,"Yes, I need books, that's true, but did you find drink yesterday? ",4,neutral,0.7137004,0.03737827,0.09637306,0.072111785,0.001982712,0.7137004,0.01220655,0.06624728
+201,SAM,Part One,2,Dialogue,NOTT,I have a little left in my flask. ,4,neutral,0.6911818,0.054097816,0.15336365,0.058228567,0.010653314,0.6911818,0.024101961,0.008372958
+202,LIAM,Part One,2,Dialogue,CALEB,How much? ,6,surprise,0.440314,0.06912417,0.035218906,0.064091995,0.003286528,0.37711656,0.010847823,0.440314
+202,LIAM,Part One,2,Dialogue,CALEB,How much? ,6,surprise,0.440314,0.06912417,0.035218906,0.064091995,0.003286528,0.37711656,0.010847823,0.440314
+203,SAM,Part One,2,Dialogue,NOTT,Just a couple swigs. ,4,neutral,0.8794716,0.01102747,0.08350657,0.009715921,0.003663187,0.8794716,0.0074051307,0.00521016
+204,LIAM,Part One,2,Dialogue,CALEB,"So that's also on the to-do list, then. ",4,neutral,0.955788,0.009629293,0.011347261,0.0064942413,0.0026825478,0.955788,0.004610016,0.009448494
+205,SAM,Part One,2,Dialogue,NOTT,"I mean, if you don't want me to get too jittery, yeah. ",0,anger,0.8761544,0.8761544,0.020712866,0.049373537,0.0027686632,0.026018059,0.02324132,0.0017311278
+206,LIAM,Part One,2,Dialogue,CALEB,All right. Okay. So we'll do that first. ,4,neutral,0.6307983,0.15847692,0.13865764,0.034077264,0.015206684,0.6307983,0.021520264,0.0012628888
+207,SAM,Part One,2,Dialogue,NOTT,All right. ,4,neutral,0.56556594,0.2355384,0.12634033,0.027116578,0.024512667,0.56556594,0.018955993,0.0019701861
+207,SAM,Part One,2,Dialogue,NOTT,All right. ,4,neutral,0.56556594,0.2355384,0.12634033,0.027116578,0.024512667,0.56556594,0.018955993,0.0019701861
+207,SAM,Part One,2,Dialogue,NOTT,All right. ,4,neutral,0.56556594,0.23553833,0.12634036,0.02711658,0.02451267,0.56556594,0.018955993,0.0019701868
+211,MATT,Part One,2,Dialogue,ADELAINE,Put something in your belly.,1,disgust,0.93925655,0.015777117,0.93925655,0.012953926,0.0007549728,0.020749347,0.0075834556,0.002924629
+223,MATT,Part One,3,Dialogue,RINALDO,"Might I sit, please?",2,fear,0.3141639,0.10116132,0.2545281,0.3141639,0.013114358,0.18754728,0.07478082,0.0547042
+224,LAURA,Part One,3,Dialogue,JESTER,"Of course, take a seat. ",4,neutral,0.65085053,0.06831127,0.1155791,0.11455692,0.014029873,0.65085053,0.034976885,0.0016954395
+242,LAURA,Part One,3,Dialogue,JESTER,You're very handsome. I just need to tell you. ,4,neutral,0.80343056,0.0130911125,0.09983564,0.0089911055,0.038877398,0.80343056,0.005338451,0.030435724
+243,TRAVIS,Part One,3,Dialogue,FJORD,Thank you. Appreciate that. ,3,joy,0.5483676,0.036913507,0.01948512,0.0055792704,0.5483676,0.3706761,0.004825129,0.014153296
+245,MATT,Part One,3,Dialogue,RINALDO,"I thank you for your time. Fjord. And, I apologize, I forget your names.",4,neutral,0.6693507,0.013601688,0.020368455,0.005625978,0.14642856,0.6693507,0.08550996,0.059114613
+246,MARISHA,Part One,3,Dialogue,BEAU,Beauregard. ,4,neutral,0.3918431,0.12785074,0.17340991,0.23394163,0.024812277,0.3918431,0.037738513,0.010403747
+247,MATT,Part One,3,Dialogue,RINALDO,Beauregard. And?,6,surprise,0.83542895,0.015672533,0.0070082047,0.0033801834,0.006063165,0.12914732,0.0032996116,0.83542895
+248,LAURA,Part One,3,Dialogue,JESTER,Jester. ,4,neutral,0.6022102,0.03049641,0.085785374,0.22338322,0.0056143464,0.6022102,0.04200939,0.010500981
+248,LAURA,Part One,3,Dialogue,JESTER,Jester. ,4,neutral,0.6022102,0.03049641,0.085785374,0.22338322,0.0056143464,0.6022102,0.04200939,0.010500981
+249,MATT,Part One,3,Dialogue,RINALDO,"Jester, thank you. You all came when no one else would yesterday, and because of you my daughter is still alive.",3,joy,0.5012204,0.023134809,0.009384857,0.0028594653,0.5012204,0.38651103,0.016700111,0.060189437
+250,MARISHA,Part One,3,Dialogue,BEAU,"Oh yeah. Sorry for being a pessimistic asshole, by the way, when we first came into town. ",5,sadness,0.6894857,0.046917718,0.08127139,0.01919088,0.01203246,0.14237668,0.6894857,0.008725179
+251,MATT,Part One,3,Dialogue,RINALDO,"Oh, that's okay.",4,neutral,0.5744978,0.11127795,0.19865759,0.020100579,0.05999873,0.5744978,0.03264248,0.0028249056
+252,MARISHA,Part One,3,Dialogue,BEAU,I'm not used to things turning out good. ,4,neutral,0.6546144,0.049730368,0.18148017,0.055647306,0.017523734,0.6546144,0.031743184,0.009260886
+253,MATT,Part One,3,Dialogue,RINALDO,You'll do well this side of the Empire. ,4,neutral,0.9188075,0.019191468,0.026105799,0.01087847,0.015963778,0.9188075,0.0077522746,0.0013007141
+254,MATT,Part One,3,Dialogue,RINALDO,"Anyway. I won't keep you, but I-- we spoke yesterday, and I didn't have much to give you. ",4,neutral,0.56307095,0.03330842,0.081968494,0.053723883,0.013367217,0.56307095,0.22848213,0.026078878
+255,MATT,Part One,3,Dialogue,RINALDO,"Sent you away with nothing but my gratitude. But I've been asking around the other fishermen, lochsmen, and we've put together a little bit of coin for your troubles, so.",4,neutral,0.7344891,0.033400476,0.031114256,0.0032343739,0.05115544,0.7344891,0.135964,0.010642391
+257,LAURA,Part One,3,Dialogue,JESTER,So cool! ,3,joy,0.88203156,0.024580598,0.010499109,0.025746675,0.88203156,0.042224552,0.004710631,0.010206828
+260,MATT,Part One,3,Dialogue,RINALDO,I hope it's helpful. But thank you.,4,neutral,0.48925972,0.02592655,0.017885834,0.003929408,0.37764722,0.48925972,0.04698415,0.038367126
+261,MARISHA,Part One,3,Dialogue,BEAU,"Yeah, yeah. Oh wait. ",4,neutral,0.6065562,0.035771802,0.19810702,0.107545055,0.013032494,0.6065562,0.022990808,0.015996628
+262,TRAVIS,Part One,3,Dialogue,FJORD,"We can't accept this, right? I mean, it's too much. ",1,disgust,0.5217117,0.27699503,0.5217117,0.096634425,0.002349145,0.061963663,0.03695182,0.0033941087
+263,MARISHA,Part One,3,Dialogue,BEAU,"We're supposed to at least say that, right? And then still accept it, right? ",4,neutral,0.62212026,0.1344126,0.1896101,0.035866763,0.00454396,0.62212026,0.010244871,0.003201467
+264,TRAVIS,Part One,3,Dialogue,FJORD,I think you're supposed to do it if you say it. ,4,neutral,0.71584904,0.13046232,0.09475257,0.013231389,0.012374295,0.71584904,0.0058744247,0.027455928
+265,LAURA,Part One,3,Dialogue,JESTER,"Well, I mean, he did go around to a bunch of people. That was a lot of work on his part. I would hate to make him go back to all of those people and give it back to each individual person. ",1,disgust,0.6114766,0.33851668,0.6114766,0.0041767578,0.0018549261,0.033297718,0.007563301,0.0031140212
+266,TRAVIS,Part One,3,Dialogue,FJORD,"Fine, fine. ",0,anger,0.7377759,0.7377759,0.12143699,0.081643865,0.0021483046,0.03749032,0.018537585,0.00096700323
+267,MARISHA,Part One,3,Dialogue,BEAU,"If he didn't keep a ledger, you know. We wouldn't want to do that. It's rude not to accept a gift, right? It's rude not to accept a gift, right? ",1,disgust,0.5081683,0.41157845,0.5081683,0.011651407,0.0011299019,0.05619767,0.006748389,0.004525939
+268,MATT,Part One,3,Dialogue,RINALDO,I would hope that is the case. Anyway. Thank you very much. I am sorry for getting in your way.,5,sadness,0.88308626,0.006805927,0.022562837,0.0051126033,0.012591003,0.06059977,0.88308626,0.009241609
+270,LAURA,Part One,3,Dialogue,JESTER,Divide it up. ,4,neutral,0.59453636,0.16646743,0.1243814,0.07533853,0.0041616242,0.59453636,0.03220139,0.0029132105
+271,MARISHA,Part One,3,Dialogue,BEAU,"Okay, okay. ",4,neutral,0.2651895,0.2093084,0.22203828,0.23050332,0.013771366,0.2651895,0.057735853,0.0014532913
+281,MARISHA,Part One,3,Dialogue,BEAU,How do you split up four gold? We have four gold and there's only three of us. ,4,neutral,0.8573143,0.017939843,0.017044762,0.008070322,0.0015308112,0.8573143,0.008761433,0.08933844
+282,LAURA,Part One,3,Dialogue,JESTER,Don't know. ,4,neutral,0.53033316,0.09457779,0.115535535,0.15782578,0.0063395556,0.53033316,0.028172204,0.067215905
+283,TRAVIS,Part One,3,Dialogue,FJORD,"Well, I actually did pretty good at that card game, so you can have mine. ",4,neutral,0.92193806,0.013980298,0.014769233,0.0030719852,0.036680885,0.92193806,0.0026628394,0.006896699
+284,MARISHA,Part One,3,Dialogue,BEAU,Aw. I will. Okay. ,2,fear,0.34011886,0.07658425,0.14469634,0.34011886,0.011160519,0.25369155,0.17009278,0.00365566
+285,LAURA,Part One,3,Dialogue,JESTER,So two for each of us! That's great. ,3,joy,0.89141834,0.009666981,0.004617994,0.00243458,0.89141834,0.06608232,0.0016435594,0.024136227
+286,MARISHA,Part One,3,Dialogue,BEAU,"Oh, that's good. One for you, two for me, two for-- oh wait, no, wait, math doesn't make sense. ",4,neutral,0.53791785,0.07541513,0.18189158,0.08564032,0.08947401,0.53791785,0.0206633,0.008997754
+290,MARISHA,Part One,3,Dialogue,BEAU,"I'll give two to Jester, one for you, one for me. And then 22 silver, that's-- ",4,neutral,0.93126863,0.018299554,0.015121312,0.012875354,0.008818573,0.93126863,0.0052733934,0.008343213
+293,TRAVIS,Part One,4,Dialogue,FJORD,That's creepy. Fucking disgusting. I think we have people watching us. ,1,disgust,0.980847,0.004763645,0.980847,0.0072445255,0.0004290966,0.0035615265,0.0016710659,0.0014831779
+294,LAURA,Part One,4,Dialogue,JESTER,Who is watching us? ,2,fear,0.42905906,0.08995199,0.029415788,0.42905906,0.0034032594,0.30887088,0.013448315,0.12585078
+295,TRAVIS,Part One,4,Dialogue,FJORD,"Well, just take a look right over there. ",4,neutral,0.9145538,0.02291836,0.028742714,0.021969095,0.004112707,0.9145538,0.002858713,0.004844633
+296,SAM,Part One,4,Dialogue,NOTT,"Don't arouse suspicion, but did you hear all that coin hit that table, Caleb? ",2,fear,0.49747342,0.21089229,0.100080356,0.49747342,0.0025496858,0.13346854,0.00897558,0.046560153
+297,LIAM,Part One,4,Dialogue,CALEB,"I did. It's on the table, though, so I think on the table it will stay. ",4,neutral,0.92837805,0.010235686,0.036717094,0.007435827,0.0030504332,0.92837805,0.0070005627,0.007182308
+298,SAM,Part One,4,Dialogue,NOTT,"Yes, but we could follow them out. We could do the Moneypot. We could run Rat Food. We could do Prince and the Pauper to get it from them. We could try Spider Eyes. Any of those could work-- ",4,neutral,0.91715866,0.018914048,0.024984352,0.02335581,0.005000462,0.91715866,0.0058440384,0.004742593
+299,LAURA,Part One,4,Dialogue,JESTER,Are you guys staying here? ,6,surprise,0.50058264,0.06085826,0.034293618,0.07477152,0.009015766,0.3080594,0.012418768,0.50058264
+301,SAM,Part One,4,Dialogue,NOTT,Don't move. Don't move. Tieflings can only see movement. ,2,fear,0.7956718,0.06987969,0.02336212,0.7956718,0.0029296833,0.087923095,0.017203866,0.0030296962
+302,LIAM,Part One,4,Dialogue,CALEB,I don't think that's true-- ,6,surprise,0.36460364,0.11028095,0.23202635,0.09590101,0.003658785,0.18193194,0.011597273,0.36460364
+303,LAURA,Part One,4,Dialogue,JESTER,"It's very true, we have a hard time seeing things that aren't moving, it's very true. But I can hear you. You should take a bath. You know they have showers here. It's possible. ",4,neutral,0.6790488,0.017630842,0.16499807,0.09133195,0.0057368693,0.6790488,0.02804077,0.013212708
+304,LIAM,Part One,4,Dialogue,CALEB,A what now? ,6,surprise,0.36314967,0.21938251,0.0637173,0.2217001,0.004395353,0.1108285,0.016826676,0.36314967
+305,LAURA,Part One,4,Dialogue,JESTER,You bathe yourself in water. ,1,disgust,0.8457342,0.06660758,0.8457342,0.049670786,0.0013927412,0.024499333,0.010894024,0.0012013507
+306,LIAM,Part One,4,Dialogue,CALEB,"No, I've bathed before, yeah, I know what a bath is. ",1,disgust,0.6476134,0.020754954,0.6476134,0.09927416,0.0039673527,0.20094669,0.021632588,0.0058108224
+307,LAURA,Part One,4,Dialogue,JESTER,"It's because you smell really bad, and it's wafting over this direction. I'm just letting you know. I would hate if I smelled that bad and someone didn't tell me. ",1,disgust,0.9254765,0.03851017,0.9254765,0.010979414,0.00072293537,0.011983779,0.010709753,0.0016174687
+308,LIAM,Part One,4,Dialogue,CALEB,I've only just met you. ,4,neutral,0.77959305,0.017130254,0.0077206823,0.07505369,0.02140501,0.77959305,0.003240209,0.09585703
+309,LAURA,Part One,4,Dialogue,JESTER,Hi! I'm Jester. ,3,joy,0.51075655,0.020945005,0.00481756,0.026196329,0.51075655,0.33899933,0.008244679,0.090040445
+310,LIAM,Part One,4,Dialogue,CALEB,"Hi, I'm Caleb. ",4,neutral,0.89931387,0.011476714,0.010304136,0.026759509,0.019979423,0.89931387,0.008369236,0.023797147
+311,LAURA,Part One,4,Dialogue,JESTER,"Nice to meet you, Caleb. How much silver did I just get? ",3,joy,0.76804197,0.0050708586,0.002079075,0.005305296,0.76804197,0.1365612,0.0036950097,0.07924648
+312,MARISHA,Part One,4,Dialogue,BEAU,Seven! ,6,surprise,0.32150573,0.24052188,0.04213375,0.09096242,0.12627918,0.16384844,0.014748596,0.32150573
+313,LAURA,Part One,4,Dialogue,JESTER,Woo! (laughter) ,3,joy,0.75329024,0.04462779,0.051786967,0.0095831,0.75329024,0.06261734,0.0144973835,0.06359715
+314,MARISHA,Part One,4,Dialogue,BEAU,And 16 copper. Aren't you all jealous? ,4,neutral,0.5355881,0.20990002,0.07531388,0.055305567,0.0036679062,0.5355881,0.01743276,0.10279182
+315,SAM,Part One,4,Dialogue,NOTT,Morning. ,2,fear,0.59495926,0.028052593,0.03403202,0.59495926,0.0081496965,0.27207798,0.054946586,0.007781934
+315,SAM,Part One,4,Dialogue,NOTT,Morning. ,2,fear,0.59495926,0.028052593,0.03403202,0.59495926,0.0081496965,0.27207798,0.054946586,0.007781934
+316,MARISHA,Part One,4,Dialogue,BEAU,Morning. ,2,fear,0.59495926,0.028052593,0.03403202,0.59495926,0.0081496965,0.27207798,0.054946586,0.007781934
+316,MARISHA,Part One,4,Dialogue,BEAU,Morning. ,2,fear,0.59495926,0.028052593,0.03403202,0.59495926,0.0081496965,0.27207798,0.054946586,0.007781934
+326,MARISHA,Part One,4,Dialogue,BEAU,Good morning,4,neutral,0.7911223,0.003234752,0.0030440162,0.0043581743,0.1740984,0.7911223,0.0095496755,0.014592667
+329,SAM,Part One,4,Dialogue,NOTT,Top of the morning to you. ,4,neutral,0.7792721,0.026093515,0.018617148,0.1208692,0.025283242,0.7792721,0.012284522,0.017580291
+330,SAM,Part One,4,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+330,SAM,Part One,4,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+330,SAM,Part One,4,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+330,SAM,Part One,4,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+330,SAM,Part One,4,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+330,SAM,Part One,4,Dialogue,NOTT,(laughter) ,4,neutral,0.57814527,0.08658676,0.19109651,0.034801535,0.0815255,0.57814527,0.024517478,0.0033269166
+330,SAM,Part One,4,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+330,SAM,Part One,4,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+331,MARISHA,Part One,4,Dialogue,BEAU,Would you like a coffee? I'd love to buy you a coffee. ,4,neutral,0.44968387,0.03507843,0.021261008,0.23288073,0.19380717,0.44968387,0.050933883,0.016354954
+332,SAM,Part One,4,Dialogue,NOTT,"We've got-- free coffee? Yeah, yeah, I'll take it. Sure. Thank you. ",3,joy,0.4586679,0.040828504,0.035201438,0.008835846,0.4586679,0.43291962,0.007616963,0.015929725
+333,TRAVIS,Part One,4,Dialogue,FJORD,You're being mighty fucking friendly. They were looking at our coin. ,4,neutral,0.42429665,0.2201498,0.2766511,0.0096591655,0.041925907,0.42429665,0.005025831,0.022291578
+334,MARISHA,Part One,4,Dialogue,BEAU,Why can't they have been looking at me? Maybe they were looking at me. ,0,anger,0.4426108,0.4426108,0.10594573,0.26608595,0.0025064005,0.09126859,0.01455792,0.07702455
+335,TRAVIS,Part One,4,Dialogue,FJORD,I didn't think of that. ,6,surprise,0.5565645,0.059578527,0.11519013,0.044675115,0.003909656,0.2102347,0.009847373,0.5565645
+336,MARISHA,Part One,4,Dialogue,BEAU,"Maybe they were looking at you. As Jester said, you're handsome. ",4,neutral,0.8773829,0.008604615,0.06891184,0.0094701825,0.013756024,0.8773829,0.004765712,0.017108733
+337,LIAM,Part One,4,Dialogue,CALEB,Just-- ,4,neutral,0.39988396,0.15403402,0.13016972,0.25205457,0.0114224525,0.39988396,0.042344633,0.0100906445
+338,LAURA,Part One,4,Dialogue,JESTER,Yes? ,6,surprise,0.5774767,0.062755786,0.030560967,0.08709109,0.0052486123,0.2328162,0.0040506786,0.5774767
+339,LIAM,Part One,4,Dialogue,CALEB,Nott. ,4,neutral,0.55491227,0.061037086,0.14941339,0.16778815,0.0055339374,0.55491227,0.05330486,0.008010296
+340,SAM,Part One,4,Dialogue,NOTT,"He said ""Jest"". ",4,neutral,0.6041942,0.03285213,0.20521185,0.13392894,0.004336356,0.6041942,0.014782794,0.004693756
+341,LAURA,Part One,4,Dialogue,JESTER,"I just thought you said my name, is all. ",4,neutral,0.88854957,0.022334639,0.021362038,0.010538306,0.009487011,0.88854957,0.0035922925,0.04413613
+342,MARISHA,Part One,4,Dialogue,BEAU,"Oh, I said your name. Oh, they might have said your name, too. ",4,neutral,0.86237866,0.014156546,0.037703462,0.023680424,0.008417629,0.86237866,0.0137603665,0.03990286
+343,LIAM,Part One,4,Dialogue,CALEB,"Never mind, never mind. Could I get another Trost over here, please? ",1,disgust,0.30118346,0.27372992,0.30118346,0.18304819,0.002971046,0.20412047,0.024223188,0.010723635
+344,SAM,Part One,4,Dialogue,NOTT,"Two, please, right away. ",4,neutral,0.68944514,0.03699162,0.09422964,0.14833209,0.0056134057,0.68944514,0.0181825,0.007205615
+346,MATT,Part One,4,Dialogue,ADELAINE,Would you like anything as well?,4,neutral,0.861723,0.010270596,0.0059449114,0.0031449285,0.046738565,0.861723,0.01048272,0.06169522
+347,LAURA,Part One,4,Dialogue,JESTER,"Oh, yes. Lots of baked goods if you have them, please. ",4,neutral,0.8667061,0.011122024,0.076956265,0.012402173,0.013525034,0.8667061,0.014248697,0.005039779
+348,TRAVIS,Part One,4,Dialogue,FJORD,"Pork belly, if you have it. ",4,neutral,0.5545611,0.032870345,0.38901338,0.008651904,0.0051049134,0.5545611,0.0056637223,0.004134599
+349,MARISHA,Part One,4,Dialogue,BEAU,I don't think I've seen you eat anything other than pastries. ,4,neutral,0.67983896,0.017711086,0.17403369,0.014659777,0.0028859475,0.67983896,0.0031756642,0.107694894
+350,LAURA,Part One,4,Dialogue,JESTER,I really like them. ,3,joy,0.9779565,0.0052557215,0.0038042152,0.00341932,0.9779565,0.0052473596,0.002731586,0.0015852593
+351,MARISHA,Part One,4,Dialogue,BEAU,"I'm kind of concerned for your well-being. It's fine, I'm not that concerned. ",4,neutral,0.44338858,0.07733789,0.05354804,0.33559233,0.010944489,0.44338858,0.07472332,0.0044653146
+352,MARISHA,Part One,4,Dialogue,BEAU,"Eat whatever you want. I'll have bacon, some ham, whatever. ",4,neutral,0.7787775,0.03168385,0.14286552,0.012828926,0.023408884,0.7787775,0.008800973,0.001634439
+353,MATT,Part One,4,Dialogue,ADELAINE,"All right, pork it is. I'll be right back.",4,neutral,0.89140433,0.017518714,0.023211448,0.0016581519,0.05616545,0.89140433,0.007446531,0.0025954228
+356,,Part One,4,Dialogue,CALEB,The Moneypot is not for them.,4,neutral,0.920292,0.006845841,0.010928147,0.005108253,0.0022583748,0.920292,0.038595557,0.015971752
+357,LIAM,Part One,4,Dialogue,CALEB,"It's not for them, it's for farmers. Okay? ",4,neutral,0.49744493,0.16800343,0.26192027,0.04726348,0.00459571,0.49744493,0.01815664,0.0026155221
+358,SAM,Part One,4,Dialogue,NOTT,"Yeah, you're right, you're right. ",4,neutral,0.644314,0.14671804,0.16237888,0.019903656,0.016100196,0.644314,0.008652989,0.0019322941
+370,SAM,Part One,4,Dialogue,NOTT,Are you in town for business or pleasure? ,4,neutral,0.45155343,0.08217345,0.04620695,0.36886773,0.015094594,0.45155343,0.01012502,0.02597886
+374,LAURA,Part One,4,Dialogue,JESTER,"What is he saying? I mean you, you're a girl. What is she saying? Shit. That's really hard to remember now. ",1,disgust,0.63916034,0.18538325,0.63916034,0.024829049,0.0024155693,0.025984282,0.012867252,0.109360315
+375,SAM,Part One,4,Dialogue,NOTT,You're asking me what I'm saying. ,0,anger,0.3943824,0.3943824,0.24731542,0.08477681,0.0077851014,0.18841857,0.019551614,0.05777019
+376,LAURA,Part One,4,Dialogue,JESTER,"Yeah, what did you just say? ",6,surprise,0.4001478,0.14936237,0.09151364,0.055719968,0.007402172,0.2890529,0.0068011465,0.4001478
+382,LIAM,Part One,4,Dialogue,CALEB,"I mean, I'm sorry, not to be blunt, but, you know. It's pretty obvious goblins are not welcome strolling about. ",1,disgust,0.69719917,0.042836897,0.69719917,0.03643807,0.0031237463,0.13745736,0.07916328,0.0037815461
+383,LAURA,Part One,4,Dialogue,JESTER,She's a goblin?! ,6,surprise,0.7157367,0.07526488,0.09672548,0.03421347,0.0025554704,0.0709171,0.0045868927,0.7157367
+384,SAM,Part One,4,Dialogue,NOTT,"Yeah, yeah, but you don't have to make a big thing of it, all right? There could be people here who don't know. ",4,neutral,0.8250378,0.025456037,0.1097362,0.015074304,0.0033215655,0.8250378,0.005507752,0.015866352
+385,LIAM,Part One,4,Dialogue,CALEB,"That's right. She's my companion, she's my friend. There's nothing to make a big deal about. ",4,neutral,0.7519825,0.05900471,0.14420983,0.0122038,0.023003792,0.7519825,0.0071796826,0.0024157332
+386,LIAM,Part One,4,Dialogue,CALEB,"That's why she's wrapped up. Just leave it, please. ",4,neutral,0.8173336,0.031695526,0.10656692,0.024516832,0.0033197864,0.8173336,0.012756232,0.003811073
+387,LAURA,Part One,4,Dialogue,JESTER,I didn't ask why she was wrapped up. ,4,neutral,0.6376344,0.03869464,0.17114055,0.04208007,0.001976595,0.6376344,0.010488936,0.097984776
+388,MARISHA,Part One,4,Dialogue,BEAU,"I know, we're not making a big deal out it. You're making a big deal out of it. ",1,disgust,0.47267208,0.23890273,0.47267208,0.010031361,0.0039146794,0.24913935,0.009407715,0.015932042
+419,TALIESIN,Part One,5,Dialogue,MOLLY,"Well. I don't believe I've ever seen a group of people more in need of a good time in my entire life. Mollymauk Tealeaf of the Fletching and Moondrop Traveling Carnival of Curiosities. If there was ever a group of people that needed a good time to go out, have a laugh, see things that you have never seen before, and my god, take my word for it, one month's time, people will be buying your ale to hear the tale of what you saw at the Traveling Carnival of Curiosities this night. ",6,surprise,0.5790369,0.03183615,0.06001837,0.0121332,0.027167179,0.28455278,0.005255415,0.5790369
+420,LAURA,Part One,5,Dialogue,JESTER,We saw your tent going up! We did! ,6,surprise,0.5430727,0.282225,0.04573199,0.04295732,0.03220899,0.049197786,0.00460616,0.5430727
+421,MARISHA,Part One,5,Dialogue,BEAU,"We were actually going to go without the flyer, but now we also have a flyer. ",4,neutral,0.8367734,0.018384997,0.022349956,0.0054917065,0.004530829,0.8367734,0.007088242,0.105380826
+422,TALIESIN,Part One,5,Dialogue,MOLLY,"It's just five copper. A steal. At five silver, it would be a steal, at five gold? Worth every penny. But if you've got the five copper to spend, we would happily have you all. ",4,neutral,0.60164416,0.053390417,0.03720716,0.0036884486,0.2933384,0.60164416,0.00604344,0.004687904
+423,LAURA,Part One,5,Dialogue,JESTER,Do you perform? ,4,neutral,0.37585998,0.047764145,0.060849935,0.29054958,0.0058115525,0.37585998,0.011234665,0.20793009
+424,TALIESIN,Part One,5,Dialogue,MOLLY,Ah. I'm less of a performer and more of an intermediary for these parts. I do on occasion perform. I can read fortunes-- ,4,neutral,0.6621296,0.017849328,0.10550936,0.16621265,0.017081965,0.6621296,0.023391476,0.007825785
+425,LAURA,Part One,5,Dialogue,JESTER,(gasps) I was going to ask if you read fortunes! Can you do one now? ,4,neutral,0.5148951,0.07719294,0.047344994,0.25848353,0.011712762,0.5148951,0.0107581355,0.07961248
+426,TALIESIN,Part One,5,Dialogue,MOLLY,I knew you were going to ask that. ,4,neutral,0.7818488,0.034443565,0.025621358,0.037455074,0.021104787,0.7818488,0.005631971,0.09389447
+427,LAURA,Part One,5,Dialogue,JESTER,"(gasps) Oh my gosh, you're so smart. Look at this guy, he knows everything! ",6,surprise,0.55854,0.09608371,0.23592809,0.023849772,0.02948008,0.05141438,0.004704013,0.55854
+430,MATT,Part One,5,Dialogue,ADELAINE,"Miss, can I get you a drink?",4,neutral,0.75743544,0.03214881,0.03318225,0.034942463,0.006092217,0.75743544,0.07481274,0.061386038
+431,ASHLEY,Part One,5,Dialogue,YASHA,"(deadpan) Yes could I have a drink, please. Just some ale. ",4,neutral,0.42811313,0.026838014,0.13177526,0.3616033,0.0034042485,0.42811313,0.03913784,0.009128141
+432,MATT,Part One,5,Dialogue,ADELAINE,Coming right up. Any preferences for the family? Baumbauch?,4,neutral,0.89925605,0.014167029,0.016133942,0.004397999,0.0029373737,0.89925605,0.0040870407,0.05902053
+433,LAURA,Part One,5,Dialogue,JESTER,Stay clear of Baumbauch. They're dicks. ,1,disgust,0.6647786,0.21964888,0.6647786,0.04158247,0.0017988692,0.054582346,0.014037067,0.003571832
+434,MARISHA,Part One,5,Dialogue,BEAU,That's kind of true. ,4,neutral,0.66294545,0.0552858,0.25642297,0.006203596,0.009076638,0.66294545,0.0038725976,0.0061929086
+435,ASHLEY,Part One,5,Dialogue,YASHA,Just a big. ,4,neutral,0.71718705,0.036688574,0.13820216,0.030426899,0.0061559663,0.71718705,0.01744072,0.053898647
+436,MATT,Part One,5,Dialogue,ADELAINE,"Husseldorf, then. All right. Be right back.",4,neutral,0.8474253,0.077586964,0.038171727,0.0146151995,0.0064755925,0.8474253,0.012988494,0.0027367685
+438,TALIESIN,Part One,5,Dialogue,MOLLY,Well. Who has coin for a fortune? ,4,neutral,0.71033126,0.037743635,0.042385586,0.030757785,0.0034659642,0.71033126,0.005796413,0.1695194
+439,LAURA,Part One,5,Dialogue,JESTER,Do you know my name? ,2,fear,0.28886446,0.1315299,0.056515582,0.28886446,0.010734644,0.28409302,0.013116539,0.2151459
+440,TALIESIN,Part One,5,Dialogue,MOLLY,What is your name? ,4,neutral,0.6263527,0.049906507,0.020908419,0.22395976,0.0035123676,0.6263527,0.01044129,0.064918935
+440,TALIESIN,Part One,5,Dialogue,MOLLY,What is your name? ,4,neutral,0.6263527,0.049906507,0.020908419,0.22395976,0.0035123676,0.6263527,0.01044129,0.064918935
+441,LAURA,Part One,5,Dialogue,JESTER,Jester. ,4,neutral,0.6022102,0.03049641,0.085785374,0.22338322,0.0056143464,0.6022102,0.04200939,0.010500981
+441,LAURA,Part One,5,Dialogue,JESTER,Jester. ,4,neutral,0.6022102,0.03049641,0.085785374,0.22338322,0.0056143464,0.6022102,0.04200939,0.010500981
+442,TALIESIN,Part One,5,Dialogue,MOLLY,I know your name now! ,0,anger,0.28767467,0.28767467,0.050834168,0.07516982,0.14545,0.18468077,0.0069786254,0.24921203
+443,LAURA,Part One,5,Dialogue,JESTER,(laugh) ,4,neutral,0.41497588,0.15553924,0.082745895,0.062781796,0.25812417,0.41497588,0.019473279,0.0063597676
+444,LAURA,Part One,5,Dialogue,JESTER,What is your name? ,4,neutral,0.6263527,0.049906507,0.020908419,0.22395976,0.0035123676,0.6263527,0.01044129,0.064918935
+444,LAURA,Part One,5,Dialogue,JESTER,What is your name? ,4,neutral,0.6263527,0.049906507,0.020908419,0.22395976,0.0035123676,0.6263527,0.01044129,0.064918935
+445,TALIESIN,Part One,5,Dialogue,MOLLY,"Oh, my name is Molly to my friends, and we're friends, now, aren't we? Pleasure. ",3,joy,0.58560133,0.038967,0.055696707,0.02108783,0.58560133,0.26331934,0.027510349,0.007817459
+446,LAURA,Part One,5,Dialogue,JESTER,Molly. Look at this guy. ,1,disgust,0.7311742,0.036611065,0.7311742,0.047408648,0.03528295,0.09677069,0.007399136,0.045353405
+447,TALIESIN,Part One,5,Dialogue,MOLLY,"Mollymauk. Molly for short. This is Yasha, she's a charm. ",4,neutral,0.8159106,0.0063651507,0.015781065,0.0053583975,0.14247862,0.8159106,0.003918584,0.010187617
+448,ASHLEY,Part One,5,Dialogue,YASHA,Hello. ,4,neutral,0.8644603,0.012744924,0.026160521,0.06871511,0.0052358853,0.8644603,0.014506127,0.008177089
+450,TALIESIN,Part One,5,Dialogue,MOLLY,Now. Would anyone like a fortune read? ,4,neutral,0.8566822,0.025628388,0.020788915,0.053756885,0.009473289,0.8566822,0.0047842325,0.02888617
+451,LAURA,Part One,5,Dialogue,JESTER,I would love one. ,3,joy,0.8142074,0.011430074,0.005557162,0.049063627,0.8142074,0.0068375035,0.111595355,0.0013089213
+452,TALIESIN,Part One,5,Dialogue,MOLLY,Do you have coin? ,4,neutral,0.60833657,0.040322497,0.035640735,0.04022788,0.0022818944,0.60833657,0.008199157,0.26499125
+453,LAURA,Part One,5,Dialogue,JESTER,Yes. How much do you want? ,4,neutral,0.70420444,0.06428494,0.048180286,0.14565499,0.0060325423,0.70420444,0.009514969,0.022127869
+454,TALIESIN,Part One,5,Dialogue,MOLLY,Two copper. ,4,neutral,0.9197653,0.01755351,0.02754644,0.009784737,0.005641577,0.9197653,0.010237553,0.009470929
+455,LAURA,Part One,5,Dialogue,JESTER,"Two copper, okay, I just got some copper. ",4,neutral,0.88540673,0.025506852,0.064808674,0.007917837,0.0053310622,0.88540673,0.005615156,0.005413656
+456,LAURA,Part One,5,Dialogue,JESTER,Here you go. ,4,neutral,0.8869124,0.020073963,0.010276944,0.016752545,0.05304972,0.8869124,0.002351289,0.0105831055
+462,ASHLEY,Part One,5,Dialogue,YASHA,"(deadpan) He's really quite good, you all should line up and get your fortunes told. ",4,neutral,0.79678434,0.012044061,0.019447977,0.06288213,0.08230569,0.79678434,0.011992555,0.014543305
+473,TALIESIN,Part One,5,Dialogue,MOLLY,"Your first card, the Silver Dragon. This is good. You're pure, you're virtue, you are a worthwhile and wonderful human being, obviously, or creature of some repute. ",4,neutral,0.43572497,0.052124567,0.088244855,0.014054833,0.4015645,0.43572497,0.003245045,0.0050412854
+474,LAURA,Part One,5,Dialogue,JESTER,That's what everyone always tells me. ,4,neutral,0.90692455,0.03443606,0.016047085,0.00877861,0.018407654,0.90692455,0.0024443194,0.012961663
+475,TALIESIN,Part One,5,Dialogue,MOLLY,It's true. And heading towards the Anvil. ,4,neutral,0.8186109,0.024625577,0.035351403,0.10404965,0.0039843414,0.8186109,0.0074431677,0.0059350636
+476,LAURA,Part One,5,Dialogue,JESTER,What is that? ,6,surprise,0.56258136,0.08020181,0.029793425,0.09874971,0.003188098,0.21890274,0.006582823,0.56258136
+477,TALIESIN,Part One,5,Dialogue,MOLLY,That is a destiny forged. ,4,neutral,0.88609123,0.027829729,0.02171092,0.04464542,0.011031995,0.88609123,0.0048379637,0.0038527024
+478,ASHLEY,Part One,5,Dialogue,YASHA,(deadpan) Ohh. ,6,surprise,0.5121463,0.031893715,0.15228382,0.19107054,0.0050451113,0.05391725,0.053643253,0.5121463
+479,TALIESIN,Part One,5,Dialogue,MOLLY,There is something bright and adventurous in your future. ,4,neutral,0.7035826,0.0070653893,0.011392977,0.0229897,0.23825806,0.7035826,0.009654402,0.0070569166
+480,LAURA,Part One,5,Dialogue,JESTER,"Wow! You know, we did just defeat a really big snake? So maybe there's even bigger things coming up, you know? ",6,surprise,0.94199926,0.011120479,0.013217701,0.00892817,0.0037867348,0.019563576,0.0013840192,0.94199926
+487,TALIESIN,Part One,5,Dialogue,MOLLY,The Serpent card appears. Of course you did. ,4,neutral,0.78109056,0.06455403,0.07305596,0.016923018,0.005383975,0.78109056,0.01938344,0.039609104
+488,LAURA,Part One,5,Dialogue,JESTER,(gasps) Oh my gosh! Look at that! How did you even do that? ,6,surprise,0.8542853,0.045525726,0.062166072,0.017789043,0.0034965032,0.009330548,0.007406824,0.8542853
+489,TALIESIN,Part One,5,Dialogue,MOLLY,That's all the cards. I'm simply a vessel for higher powers. ,4,neutral,0.9213491,0.024452487,0.025904791,0.010829667,0.0073081567,0.9213491,0.004407354,0.005748463
+492,LAURA,Part One,5,Dialogue,JESTER,Will you ask the cards if I'm going to find him? ,4,neutral,0.53312474,0.0500512,0.02430683,0.35003322,0.0045987694,0.53312474,0.017077394,0.02080778
+493,TALIESIN,Part One,5,Dialogue,MOLLY,If you're going to find her? ,2,fear,0.54261583,0.15965973,0.065821156,0.54261583,0.005907588,0.18932046,0.0091673685,0.027507871
+494,LAURA,Part One,5,Dialogue,JESTER,Him. ,1,disgust,0.4582035,0.07054465,0.4582035,0.08060716,0.026670182,0.24704361,0.06926291,0.047668017
+495,TALIESIN,Part One,5,Dialogue,MOLLY,Give me a little bit more. Who's this 'him' that you're looking for? ,4,neutral,0.77341133,0.024585357,0.02738702,0.036430065,0.0032704878,0.77341133,0.0041314503,0.13078426
+496,LAURA,Part One,5,Dialogue,JESTER,I'm looking for my dad. ,2,fear,0.8784426,0.02332713,0.0058659557,0.8784426,0.011600644,0.022819957,0.05652893,0.0014147852
+497,TALIESIN,Part One,5,Dialogue,MOLLY,14,4,neutral,0.63732165,0.08495834,0.067696676,0.049704667,0.02132543,0.63732165,0.090725966,0.048267256
+499,TALIESIN,Part One,5,Dialogue,MOLLY,"Pushing through, pushing through. The Eye card pulls up. You've already found the clue you're looking for. You just don't know what it is yet. ",4,neutral,0.741995,0.030041657,0.05756838,0.05208698,0.004137601,0.741995,0.00782288,0.106347576
+500,LAURA,Part One,5,Dialogue,JESTER,Really? ,6,surprise,0.9408672,0.019761879,0.01004772,0.011556974,0.0020723976,0.013728748,0.001965097,0.9408672
+501,TALIESIN,Part One,5,Dialogue,MOLLY,"Apparently. Well, it's what the cards are saying. It's right in front of you. ",4,neutral,0.93946314,0.015633866,0.02529843,0.007296821,0.0028667296,0.93946314,0.0029660729,0.006474918
+502,LAURA,Part One,5,Dialogue,JESTER,Wow. Does it say how long ago I found it? Because that's-- ,6,surprise,0.948441,0.009048138,0.007927114,0.008149842,0.0024868806,0.021815564,0.0021314458,0.948441
+503,TALIESIN,Part One,5,Dialogue,MOLLY,"Sadly, I don't have that sort of specifics. That's much more expensive. ",5,sadness,0.92212445,0.0013858585,0.0044391,0.005962856,0.0018420382,0.036918778,0.92212445,0.027326994
+504,LAURA,Part One,5,Dialogue,JESTER,That's going to take a lot of thinking. ,4,neutral,0.9092523,0.015062226,0.029630069,0.015614251,0.005865966,0.9092523,0.0070613693,0.017513849
+505,TALIESIN,Part One,5,Dialogue,MOLLY,"Well, you find us at the show, you'll find my tent and I'd be happy to give you a more complicated reading. ",3,joy,0.9697874,0.0027052038,0.004057959,0.00076004793,0.9697874,0.018061005,0.0031022066,0.0015261235
+506,LAURA,Part One,5,Dialogue,JESTER,I can't wait! It's going to be so much fun. ,3,joy,0.9928608,0.0010330932,0.000694668,0.0009877246,0.9928608,0.0019350912,0.0011581103,0.0013304964
+507,TALIESIN,Part One,5,Dialogue,MOLLY,So much fun. ,3,joy,0.97092515,0.0032721418,0.0029120224,0.0019434271,0.97092515,0.015875729,0.0028801893,0.0021914185
+509,ASHLEY,Part One,5,Dialogue,YASHA,"Thank you, my lady. ",4,neutral,0.5240056,0.02081313,0.024940299,0.010283793,0.3941954,0.5240056,0.0063682306,0.019393574
+510,MATT,Part One,5,Dialogue,ADELAINE,On the house.,1,disgust,0.79893595,0.053067997,0.79893595,0.06908291,0.0025474902,0.020173267,0.034174602,0.022017831
+511,TALIESIN,Part One,5,Dialogue,MOLLY,On the house! ,0,anger,0.41677076,0.41677076,0.074038625,0.3384465,0.014447863,0.01722337,0.0095438855,0.12952907
+512,ASHLEY,Part One,5,Dialogue,YASHA,That's very kind of you. ,1,disgust,0.78333867,0.02056145,0.78333867,0.0068142666,0.01813774,0.14538391,0.0059404653,0.019823523
+513,MARISHA,Part One,5,Dialogue,BEAU,"Do you perform in the circus, too? ",4,neutral,0.43132028,0.035782762,0.12678055,0.3336003,0.015173551,0.43132028,0.022639506,0.034703027
+514,ASHLEY,Part One,5,Dialogue,YASHA,No. I do not. I just-- I put it up. ,4,neutral,0.67481774,0.12086066,0.07874267,0.08556854,0.010547017,0.67481774,0.01834075,0.011122688
+515,MARISHA,Part One,5,Dialogue,BEAU,"Oh, cool. ",3,joy,0.49411014,0.044373658,0.11456978,0.010977745,0.49411014,0.32104582,0.006971847,0.007951114
+516,TRAVIS,Part One,5,Dialogue,FJORD,The tent. ,2,fear,0.74528384,0.028828254,0.12222817,0.74528384,0.005559594,0.06997988,0.01095984,0.017160427
+517,LAURA,Part One,5,Dialogue,JESTER,It's a big tent. It would take a lot of work. ,4,neutral,0.5492963,0.059860647,0.113504216,0.059387326,0.0053992276,0.5492963,0.04398275,0.16856954
+518,ASHLEY,Part One,5,Dialogue,YASHA,"I put up the stage, I move things around. ",4,neutral,0.7179771,0.068897314,0.09415049,0.07123762,0.0075654606,0.7179771,0.016258677,0.023913356
+519,ASHLEY,Part One,5,Dialogue,YASHA,I'm very strong. But I don't do anything in the show. ,2,fear,0.5641178,0.089493245,0.17323487,0.5641178,0.009518134,0.1284817,0.033175178,0.0019790968
+520,TALIESIN,Part One,5,Dialogue,MOLLY,"Some of our acts are a little complicated, with performers who are not of the traditional variety. Can make some of the locals get a little shifty, if you know what I mean, and it's good to have a few people around who are capable of keeping issues contained. ",4,neutral,0.92255807,0.0056008357,0.029965794,0.0049318327,0.027724424,0.92255807,0.0044387733,0.0047803195
+521,MARISHA,Part One,5,Dialogue,BEAU,"Is that why it says 'No admittance to the elderly'? You don't want to deal with those riley elderly. Or the ill, yeah. Why no elderly, though? Ill kind of makes sense, but elderly? ",4,neutral,0.53433686,0.06545152,0.28718787,0.06806543,0.0019880459,0.53433686,0.020474162,0.022496158
+522,TALIESIN,Part One,5,Dialogue,MOLLY,"We cannot be held responsible for anything that may happen to someone who is ill or infirm. It is such an exciting, impressive show. ",3,joy,0.9377682,0.0011027122,0.0029743677,0.012567144,0.9377682,0.028435253,0.0056444136,0.011507885
+523,ASHLEY,Part One,5,Dialogue,YASHA,We've had people die watching it. ,1,disgust,0.6249437,0.12941356,0.6249437,0.11394234,0.0023216452,0.08368905,0.040689893,0.0049999068
+524,ASHLEY,Part One,5,Dialogue,YASHA,Yeah. It's just that exciting. Just from excitement. ,3,joy,0.95485896,0.0027618797,0.0023917085,0.0030401552,0.95485896,0.0264725,0.0017897348,0.008685044
+525,TRAVIS,Part One,5,Dialogue,FJORD,"Did they die in the show, or from watching it? ",4,neutral,0.50367016,0.06467368,0.16033028,0.19789092,0.0017719116,0.50367016,0.040847756,0.030815313
+526,ASHLEY,Part One,5,Dialogue,YASHA,"Yeah, just like heart attack. Just from getting so excited, I guess. ",2,fear,0.5747806,0.01810706,0.028079193,0.5747806,0.005393529,0.19285698,0.13172919,0.049053516
+527,MARISHA,Part One,5,Dialogue,BEAU,We gotta get so wasted. ,1,disgust,0.39314747,0.21826425,0.39314747,0.028378434,0.0030413165,0.09757368,0.25584656,0.0037482432
+528,LAURA,Part One,5,Dialogue,JESTER,When is it? How long is it? When is it? ,4,neutral,0.68923473,0.06404958,0.042223282,0.14365093,0.0021403332,0.68923473,0.01290689,0.04579425
+530,TALIESIN,Part One,5,Dialogue,MOLLY,First show is tonight. ,2,fear,0.72575086,0.0214076,0.021514218,0.72575086,0.08483278,0.10928011,0.0070711602,0.030143354
+531,LAURA,Part One,5,Dialogue,JESTER,"Well, we have plans tonight! ",4,neutral,0.51316905,0.21436095,0.04122357,0.0991669,0.09042767,0.51316905,0.021979075,0.019672731
+532,MARISHA,Part One,5,Dialogue,BEAU,Yay! ,3,joy,0.94826597,0.010361146,0.004820828,0.0067502554,0.94826597,0.018383026,0.003522297,0.007896348
+533,LAURA,Part One,5,Dialogue,JESTER,Do you stinky people want to come with us? ,4,neutral,0.43132713,0.08012908,0.26811635,0.08617619,0.00710597,0.43132713,0.01627393,0.11087135
+534,SAM,Part One,5,Dialogue,NOTT,"I-- Caleb, we don't have any plans tonight. I guess we could go along. I wouldn't mind seeing it. ",4,neutral,0.63388574,0.076103315,0.21795526,0.025100466,0.0209662,0.63388574,0.023385864,0.0026031467
+535,MARISHA,Part One,5,Dialogue,BEAU,It'll be fun! ,3,joy,0.9526772,0.010442797,0.004775256,0.008866012,0.9526772,0.01896275,0.002367232,0.0019088078
+536,TALIESIN,Part One,5,Dialogue,MOLLY,"Or you could stay here and buy beer for the people who do see the shows, and you can hear all about it and pay more. ",4,neutral,0.9148154,0.022195289,0.029073574,0.003659804,0.01880397,0.9148154,0.0068668,0.004585101
+537,LIAM,Part One,5,Dialogue,CALEB,"Yeah, we can go. ",4,neutral,0.6351665,0.06393228,0.12352973,0.09271366,0.014889675,0.6351665,0.06770591,0.002062195
+538,LAURA,Part One,5,Dialogue,JESTER,It's going to be so much fun. ,3,joy,0.9811016,0.0018262451,0.002466237,0.0017639997,0.9811016,0.009359072,0.0017983161,0.0016844835
+539,SAM,Part One,5,Dialogue,NOTT,"Yeah, yeah, it sounds like a good night. ",3,joy,0.8975579,0.0035795346,0.013630536,0.0029121626,0.8975579,0.07610139,0.004121373,0.0020972244
+540,SAM,Part One,5,Dialogue,NOTT,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+540,SAM,Part One,5,Dialogue,NOTT,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+540,SAM,Part One,5,Dialogue,NOTT,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+540,SAM,Part One,5,Dialogue,NOTT,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+540,SAM,Part One,5,Dialogue,NOTT,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+541,LAURA,Part One,5,Dialogue,JESTER,Look at all these friends we're making here. This is a good city. ,3,joy,0.4008708,0.038875543,0.13975996,0.0062325746,0.4008708,0.37334946,0.002662461,0.03824922
+542,SAM,Part One,5,Dialogue,NOTT,"Yeah, it is. ",4,neutral,0.724769,0.051474053,0.15833016,0.038544506,0.006284973,0.724769,0.018580496,0.0020168277
+543,MARISHA,Part One,5,Dialogue,BEAU,"Yeah, yeah. ",4,neutral,0.5022803,0.05142906,0.23968913,0.15784588,0.009560212,0.5022803,0.037278358,0.0019170891
+543,MARISHA,Part One,5,Dialogue,BEAU,"Yeah, yeah. ",4,neutral,0.5022803,0.05142906,0.23968913,0.15784588,0.009560212,0.5022803,0.037278358,0.0019170891
+544,TALIESIN,Part One,5,Dialogue,MOLLY,You are all the most charming people I've met in-- yes.  ,3,joy,0.82418096,0.008660742,0.02312253,0.0059065893,0.82418096,0.12469865,0.0040382855,0.009392202
+546,TALIESIN,Part One,5,Dialogue,MOLLY,"(sighs) Well, we'd better be getting on.",5,sadness,0.46027178,0.024882283,0.24628869,0.010167016,0.040627755,0.19650649,0.46027178,0.021255927
+547,ASHLEY,Part One,5,Dialogue,YASHA,"Yep, nice to meet you all. You're so, uh, wonderful. ",3,joy,0.90924966,0.0023682008,0.006804338,0.002215298,0.90924966,0.067668796,0.0048574894,0.0068361745
+548,TALIESIN,Part One,5,Dialogue,MOLLY,Charm. Pure charm. See you tonight! ,3,joy,0.8968364,0.0040166653,0.0055832667,0.004501779,0.8968364,0.08238828,0.0040266947,0.0026469273
+550,MARISHA,Part One,6,Dialogue,BEAU,She was awesome. ,3,joy,0.58018976,0.023316314,0.047946136,0.05263352,0.58018976,0.18698974,0.009728596,0.09919594
+551,TRAVIS,Part One,6,Dialogue,FJORD,She didn't say much. ,1,disgust,0.5389244,0.074919805,0.5389244,0.05120797,0.0019485003,0.28088522,0.04196445,0.010149708
+552,MARISHA,Part One,6,Dialogue,BEAU,That's why I liked her. ,3,joy,0.7911472,0.031901903,0.09896539,0.022802558,0.7911472,0.04293035,0.010359144,0.0018934652
+553,LAURA,Part One,6,Dialogue,JESTER,"She was really, really cool. Did you see that cool thing she had going on with her chin? That's interesting. I wish I would have thought of something like that. ",4,neutral,0.4477689,0.014335606,0.077518374,0.015988626,0.11407361,0.4477689,0.009641606,0.32067326
+554,MARISHA,Part One,6,Dialogue,BEAU,"Yeah, I mean, you could maybe do something like that in time. Just wait until maybe-- ",4,neutral,0.9249939,0.018718507,0.018839156,0.022132365,0.003341289,0.9249939,0.0039287647,0.008046049
+555,LAURA,Part One,6,Dialogue,JESTER,So she doesn't know I copied. I can't do it tonight. ,4,neutral,0.538866,0.10708821,0.17727646,0.064210944,0.0022825918,0.538866,0.049215574,0.06106021
+556,MARISHA,Part One,6,Dialogue,BEAU,"No, no. ",2,fear,0.37275845,0.048015606,0.16685873,0.37275845,0.004033953,0.3539511,0.04835304,0.0060291896
+557,LAURA,Part One,6,Dialogue,JESTER,Wow. Cool. What do you guys want to do now? (laughter) ,6,surprise,0.8509325,0.014305922,0.016791508,0.01925618,0.05284374,0.043548092,0.0023221313,0.8509325
+558,TRAVIS,Part One,6,Dialogue,FJORD,Was he using magic? ,4,neutral,0.41804957,0.0790609,0.10374366,0.20511743,0.0024912534,0.41804957,0.010887389,0.1806498
+559,LAURA,Part One,6,Dialogue,JESTER,I don't know. ,6,surprise,0.3610162,0.057936333,0.12069686,0.16948354,0.0059915935,0.26302055,0.021854987,0.3610162
+560,MARISHA,Part One,6,Dialogue,BEAU,Are you-- you're superstitious. Yeah? ,1,disgust,0.30814394,0.23133609,0.30814394,0.17819713,0.007966593,0.16208656,0.013335105,0.09893448
+561,LAURA,Part One,6,Dialogue,JESTER,No. ,4,neutral,0.70285875,0.03121056,0.1064915,0.1132881,0.0053348877,0.70285875,0.03552762,0.005288656
+561,LAURA,Part One,6,Dialogue,JESTER,No. ,4,neutral,0.70285875,0.03121056,0.1064915,0.1132881,0.0053348877,0.70285875,0.03552762,0.005288656
+561,LAURA,Part One,6,Dialogue,JESTER,No. ,4,neutral,0.70285875,0.03121056,0.1064915,0.1132881,0.0053348877,0.70285875,0.03552762,0.005288656
+562,MARISHA,Part One,6,Dialogue,BEAU,Okay. ,4,neutral,0.40931255,0.22354643,0.20575903,0.1097004,0.01577321,0.40931255,0.034511797,0.0013965417
+562,MARISHA,Part One,6,Dialogue,BEAU,Okay. ,4,neutral,0.40931255,0.22354643,0.20575903,0.1097004,0.01577321,0.40931255,0.034511797,0.0013965417
+562,MARISHA,Part One,6,Dialogue,BEAU,Okay. ,4,neutral,0.40931255,0.22354643,0.20575903,0.1097004,0.01577321,0.40931255,0.034511797,0.0013965417
+563,LAURA,Part One,6,Dialogue,JESTER,"No, I'm not superstitious at all. ",2,fear,0.6902132,0.0105474265,0.03698619,0.6902132,0.005967652,0.22249007,0.010331043,0.023464425
+564,MARISHA,Part One,6,Dialogue,BEAU,You-- sure. ,0,anger,0.33213407,0.33213407,0.24029905,0.03718115,0.06956293,0.15808037,0.055149145,0.10759322
+565,LAURA,Part One,6,Dialogue,JESTER,Why? ,6,surprise,0.7394231,0.06812734,0.014372895,0.09516894,0.002812288,0.074515134,0.005580266,0.7394231
+566,MARISHA,Part One,6,Dialogue,BEAU,"I mean, what he was working in was-- he was doing a little like-- he-- he's a smart guy. ",4,neutral,0.39906934,0.09802395,0.39396837,0.010481314,0.041957207,0.39906934,0.0069581685,0.049541697
+567,MARISHA,Part One,6,Dialogue,BEAU,He's a smart guy. ,4,neutral,0.7877376,0.026219169,0.13177226,0.00730724,0.035062943,0.7877376,0.0043591796,0.0075415224
+583,LIAM,Part One,6,Dialogue,CALEB,"Also, for the record, there was nothing magic about that. Maybe he's good at reading people, but that was not magic. ",4,neutral,0.87697697,0.012883297,0.07162786,0.015452449,0.0017708743,0.87697697,0.0073543256,0.013934174
+584,SAM,Part One,6,Dialogue,NOTT,Caleb knows everything about magic. He's been even teaching me some. He's real good. You should see him-- ,4,neutral,0.8249438,0.03129096,0.07528307,0.028737787,0.026002912,0.8249438,0.0047766576,0.008964806
+585,LIAM,Part One,6,Dialogue,CALEB,Nott-- ,4,neutral,0.36465675,0.11196557,0.09245275,0.33262137,0.020688666,0.36465675,0.06503801,0.012576869
+586,LAURA,Part One,6,Dialogue,JESTER,"Caleb, are you going to go the Academy? ",2,fear,0.69489413,0.053790405,0.009151214,0.69489413,0.008938675,0.10687849,0.022459598,0.103887446
+587,LIAM,Part One,6,Dialogue,CALEB,(strained laugh) That's silly. ,3,joy,0.9338232,0.00900576,0.011216411,0.0018417336,0.9338232,0.03606955,0.004367718,0.003675584
+588,SAM,Part One,6,Dialogue,NOTT,He could if he wanted to. He's really good at magic. He can make a cat appear and disappear whenever he wants. ,4,neutral,0.9241198,0.017750202,0.024690887,0.01580589,0.0055304947,0.9241198,0.0051916363,0.006911178
+589,LAURA,Part One,6,Dialogue,JESTER,Really? A cat? ,6,surprise,0.8829936,0.031056723,0.039957736,0.015901634,0.001999115,0.025358593,0.0027326227,0.8829936
+590,LIAM,Part One,6,Dialogue,CALEB,(snaps) ,4,neutral,0.59795004,0.08526534,0.10155715,0.15916969,0.013388196,0.59795004,0.02674753,0.015922073
+592,MARISHA,Part One,6,Dialogue,BEAU,"Oh, shit! What's his name? ",6,surprise,0.48984024,0.1741695,0.27964586,0.024447879,0.0040165996,0.013515433,0.014364523,0.48984024
+593,LAURA,Part One,6,Dialogue,JESTER,Or her name! ,4,neutral,0.44984984,0.25479832,0.044115223,0.16349034,0.016938979,0.44984984,0.013629727,0.057177525
+594,LIAM,Part One,6,Dialogue,CALEB,"Well, it is a he. This is my cat Frumpkin. ",4,neutral,0.86503845,0.017817853,0.09003786,0.006967143,0.008040172,0.86503845,0.005719,0.0063795554
+595,LIAM,Part One,6,Dialogue,CALEB,"Frumpkin, yes. ",4,neutral,0.53326064,0.040679544,0.29842314,0.08939378,0.010530466,0.53326064,0.021935,0.0057773623
+596,LAURA,Part One,6,Dialogue,JESTER,Aw! Can I call him Lumpy? ,6,surprise,0.37057045,0.12539467,0.11859303,0.11750043,0.008932359,0.043675423,0.21533364,0.37057045
+597,LIAM,Part One,6,Dialogue,CALEB,You can call him Frumpkin. ,4,neutral,0.93858624,0.017712584,0.0202753,0.011551552,0.004556104,0.93858624,0.004131501,0.0031867323
+598,LAURA,Part One,6,Dialogue,JESTER,Look at this Lumpy! ,1,disgust,0.63193834,0.24204089,0.63193834,0.04139271,0.009924228,0.027044056,0.009259656,0.03840011
+603,SAM,Part One,6,Dialogue,NOTT,"That's not all he can do. Caleb, tell them all the stuff you can do. It's really impressive! ",6,surprise,0.6088535,0.052461237,0.06641194,0.015462553,0.027840136,0.22487617,0.00409447,0.6088535
+604,LIAM,Part One,6,Dialogue,CALEB,"You know, sometimes less is more. ",4,neutral,0.8357454,0.027340014,0.10061051,0.019795213,0.0021570195,0.8357454,0.009519042,0.004832768
+605,LAURA,Part One,6,Dialogue,JESTER,"I can do things, too. ",4,neutral,0.70048535,0.09312767,0.064152084,0.08014283,0.038374875,0.70048535,0.020802477,0.002914606
+606,SAM,Part One,6,Dialogue,NOTT,With magic? ,4,neutral,0.36674383,0.05625981,0.010076212,0.20676298,0.016696818,0.36674383,0.0042187045,0.33924165
+607,LAURA,Part One,6,Dialogue,JESTER,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+607,LAURA,Part One,6,Dialogue,JESTER,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+607,LAURA,Part One,6,Dialogue,JESTER,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+607,LAURA,Part One,6,Dialogue,JESTER,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+607,LAURA,Part One,6,Dialogue,JESTER,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+608,SAM,Part One,6,Dialogue,NOTT,Like what? ,4,neutral,0.58860123,0.13284533,0.07620546,0.12534346,0.010662196,0.58860123,0.00621227,0.060130034
+609,LAURA,Part One,6,Dialogue,JESTER,Like-- ,4,neutral,0.54366237,0.083214715,0.09510597,0.23117907,0.008967311,0.54366237,0.029947992,0.007922593
+610,SAM,Part One,6,Dialogue,NOTT,"Not to me, not to me! ",0,anger,0.5260912,0.5260912,0.044048484,0.38399482,0.0029671532,0.025009565,0.012523484,0.005365194
+611,LAURA,Part One,6,Dialogue,JESTER,"Like-- oh, gosh. Okay. ",2,fear,0.55753005,0.06514204,0.19335069,0.55753005,0.020283643,0.045488976,0.09808822,0.020116398
+614,TRAVIS,Part One,6,Dialogue,FJORD,"Jester, don't you remember us talking about keeping a low profile? ",1,disgust,0.3630686,0.18570594,0.3630686,0.07020101,0.0022605439,0.22069095,0.014997719,0.14307515
+615,LAURA,Part One,6,Dialogue,JESTER,You're right. I'm sorry. ,5,sadness,0.5547453,0.028153097,0.09434186,0.16675456,0.0062945005,0.13181174,0.5547453,0.017898962
+619,LAURA,Part One,6,Dialogue,JESTER,Ta-da! ,3,joy,0.30059066,0.22250503,0.04575119,0.12987766,0.30059066,0.24485636,0.021007635,0.035411503
+620,MARISHA,Part One,6,Dialogue,BEAU,Yeah! Yeah! ,0,anger,0.37785557,0.37785557,0.21383202,0.077363156,0.14934973,0.06480849,0.017061982,0.09972894
+621,LAURA,Part One,6,Dialogue,JESTER,Come see me tonight at the carnival! I'm really good! ,3,joy,0.9711413,0.004760099,0.0014123617,0.005837197,0.9711413,0.010426068,0.0019616603,0.004461278
+625,MARISHA,Part One,6,Dialogue,BEAU,"Hey, buddy. Look at this kitty! I think he likes me. ",1,disgust,0.29169574,0.16280542,0.29169574,0.021809867,0.2536917,0.23961608,0.012646043,0.017735079
+626,LIAM,Part One,6,Dialogue,CALEB,"Sure, right now he likes you. ",3,joy,0.39462698,0.09182624,0.09320243,0.009712065,0.39462698,0.39453828,0.011169208,0.004924842
+627,MARISHA,Part One,6,Dialogue,BEAU,Is this a real cat? Or is this a fake cat? ,4,neutral,0.6162148,0.059595212,0.11151158,0.08339802,0.0025421423,0.6162148,0.008525478,0.11821271
+628,LIAM,Part One,6,Dialogue,CALEB,"What do you mean, a fake cat? ",6,surprise,0.39503452,0.27530488,0.20487979,0.046487737,0.004184032,0.064321235,0.009787831,0.39503452
+629,MARISHA,Part One,6,Dialogue,BEAU,Like a magic cat. ,4,neutral,0.580617,0.037411366,0.04314779,0.15469517,0.12459727,0.580617,0.008484082,0.05104737
+630,LIAM,Part One,6,Dialogue,CALEB,He's both a real cat and a magic cat. ,4,neutral,0.92466825,0.012423008,0.022173772,0.006269547,0.008679495,0.92466825,0.0027237064,0.023062173
+631,MARISHA,Part One,6,Dialogue,BEAU,Is he an illusion cat? ,4,neutral,0.5183787,0.061604936,0.121199526,0.07885425,0.0027711454,0.5183787,0.008914971,0.20827653
+632,LIAM,Part One,6,Dialogue,CALEB,Do you feel him? ,1,disgust,0.42887276,0.07354766,0.42887276,0.25112787,0.006700741,0.17262597,0.035178024,0.031947024
+633,TRAVIS,Part One,6,Dialogue,FJORD,Could you put him over there? ,6,surprise,0.2614555,0.17509069,0.108702116,0.17400704,0.0037921253,0.2586607,0.018291825,0.2614555
+634,MARISHA,Part One,6,Dialogue,BEAU,Are you allergic to Frumpkins? Oh no! ,6,surprise,0.2825142,0.18885489,0.23636103,0.19430974,0.0060748877,0.07394216,0.017943123,0.2825142
+635,LAURA,Part One,6,Dialogue,JESTER,But he's a magic cat. How can you be allergic to magic cats? ,4,neutral,0.6998888,0.051977742,0.059531398,0.04808906,0.0041001835,0.6998888,0.008576048,0.12783676
+636,TRAVIS,Part One,6,Dialogue,FJORD,I'm pretty sure he's a real fucking cat. ,1,disgust,0.6830544,0.25813425,0.6830544,0.013032464,0.0038472668,0.030553913,0.006262576,0.005115173
+637,MARISHA,Part One,6,Dialogue,BEAU,He's one of those hypoallergenic magic cats. ,4,neutral,0.9151141,0.010135856,0.01961404,0.0049926634,0.013765145,0.9151141,0.0031546517,0.033223536
+642,LIAM,Part One,6,Dialogue,CALEB,Shit. ,1,disgust,0.7171458,0.2537789,0.7171458,0.0078497445,0.0014132467,0.006402885,0.0068879686,0.006521414
+643,LIAM,Part One,6,Dialogue,CALEB,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+643,LIAM,Part One,6,Dialogue,CALEB,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+643,LIAM,Part One,6,Dialogue,CALEB,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+643,LIAM,Part One,6,Dialogue,CALEB,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+643,LIAM,Part One,6,Dialogue,CALEB,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+643,LIAM,Part One,6,Dialogue,CALEB,(laughter) ,4,neutral,0.57814527,0.08658676,0.19109651,0.034801535,0.0815255,0.57814527,0.024517478,0.0033269166
+643,LIAM,Part One,6,Dialogue,CALEB,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+643,LIAM,Part One,6,Dialogue,CALEB,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+644,SAM,Part One,6,Dialogue,NOTT,"Well, you're both magic-users, then. And so is the larger fellow? ",4,neutral,0.89650524,0.016662776,0.051155455,0.010716308,0.0021983162,0.89650524,0.002724988,0.020036891
+645,TRAVIS,Part One,6,Dialogue,FJORD,"Well, I mean, a little. ",4,neutral,0.4504487,0.037958734,0.38788393,0.082650915,0.0152795315,0.4504487,0.02078889,0.0049893325
+646,LAURA,Part One,6,Dialogue,JESTER,"Yeah, I mean, he's learning. He's getting really good at it. ",4,neutral,0.73255026,0.04845976,0.16246453,0.011066364,0.031879738,0.73255026,0.008042152,0.0055371146
+647,TRAVIS,Part One,6,Dialogue,FJORD,Trying to learn more. ,2,fear,0.48826998,0.060327083,0.028932298,0.48826998,0.0040581217,0.24232613,0.17185342,0.004232968
+648,LAURA,Part One,6,Dialogue,JESTER,"Yeah, you should have seen him. He disguised himself the other day, and it was like, (clicks tongue). ",4,neutral,0.44714367,0.055459086,0.43345168,0.018115366,0.0038443794,0.44714367,0.009075388,0.032910433
+649,TRAVIS,Part One,6,Dialogue,FJORD,"Thanks, Jester. She's better at it than I am. We're trying to make our way up to the Academy to get a little bit more learning done. ",4,neutral,0.92774546,0.013577191,0.018006535,0.0080942465,0.02042438,0.92774546,0.006455045,0.0056972103
+650,LAURA,Part One,6,Dialogue,JESTER,"Well, he's going to learn. I'm not going to go to the Academy. ",4,neutral,0.7597987,0.029358286,0.10665789,0.04119005,0.008309331,0.7597987,0.052166935,0.002518796
+651,MARISHA,Part One,6,Dialogue,BEAU,"Man, this Academy place keeps getting brought up. ",1,disgust,0.6471223,0.08714283,0.6471223,0.0048149773,0.008019866,0.03732194,0.0260562,0.18952192
+652,TRAVIS,Part One,6,Dialogue,FJORD,"Well yeah, it's the place to be. ",4,neutral,0.8089138,0.03043099,0.11506204,0.0071792933,0.024759209,0.8089138,0.0115525285,0.0021020942
+653,MARISHA,Part One,6,Dialogue,BEAU,Okay. ,4,neutral,0.40931255,0.22354643,0.20575903,0.1097004,0.01577321,0.40931255,0.034511797,0.0013965417
+653,MARISHA,Part One,6,Dialogue,BEAU,Okay. ,4,neutral,0.40931255,0.22354643,0.20575903,0.1097004,0.01577321,0.40931255,0.034511797,0.0013965417
+653,MARISHA,Part One,6,Dialogue,BEAU,Okay. ,4,neutral,0.40931255,0.22354643,0.20575903,0.1097004,0.01577321,0.40931255,0.034511797,0.0013965417
+654,SAM,Part One,6,Dialogue,NOTT,"I'm sorry, what Academy are we talking about? ",2,fear,0.2941114,0.068652846,0.13861576,0.2941114,0.002910969,0.24187206,0.08573324,0.16810374
+655,TRAVIS,Part One,6,Dialogue,FJORD,Solstryce Academy. You know. ,4,neutral,0.82898176,0.032868512,0.07675556,0.033578705,0.013160364,0.82898176,0.008193175,0.0064619165
+659,LIAM,Part One,6,Dialogue,CALEB,It's a very fancy place. ,4,neutral,0.613978,0.014757061,0.08215151,0.025771907,0.22519763,0.613978,0.0064446284,0.03169922
+660,TRAVIS,Part One,6,Dialogue,FJORD,You know it. ,4,neutral,0.51640093,0.13331077,0.25711942,0.06420944,0.009994024,0.51640093,0.014416303,0.00454903
+661,LIAM,Part One,6,Dialogue,CALEB,I have heard of it. ,4,neutral,0.87628084,0.015113073,0.027650656,0.0441052,0.011119393,0.87628084,0.0065223873,0.01920844
+662,TRAVIS,Part One,6,Dialogue,FJORD,And you have arcane talents as well. ,4,neutral,0.956838,0.0074200043,0.008858155,0.0046192715,0.0041643796,0.956838,0.0027040436,0.015396093
+663,LIAM,Part One,6,Dialogue,CALEB,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+663,LIAM,Part One,6,Dialogue,CALEB,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+663,LIAM,Part One,6,Dialogue,CALEB,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+663,LIAM,Part One,6,Dialogue,CALEB,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+663,LIAM,Part One,6,Dialogue,CALEB,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+664,LAURA,Part One,6,Dialogue,JESTER,How long have you had yours? ,4,neutral,0.74317515,0.04507884,0.03029506,0.11342397,0.002296383,0.74317515,0.015993392,0.04973723
+665,LIAM,Part One,6,Dialogue,CALEB,"That's a tricky question. I studied when I was younger, and then I gave it up for a while. I picked it up again recently. It's all book-learned. ",4,neutral,0.9129222,0.021097433,0.03331039,0.016835809,0.0027107517,0.9129222,0.0057953373,0.0073279687
+666,LAURA,Part One,6,Dialogue,JESTER,"Wow, that's cool. ",6,surprise,0.7904939,0.009384019,0.010115599,0.014561158,0.133463,0.03976691,0.002215379,0.7904939
+667,MARISHA,Part One,6,Dialogue,BEAU,This was a good way to go for your first. ,3,joy,0.7468783,0.00934341,0.013384545,0.027812885,0.7468783,0.19400379,0.003203539,0.005373608
+668,LAURA,Part One,6,Dialogue,JESTER,A frickin' cat! ,0,anger,0.7497416,0.7497416,0.18252443,0.022798598,0.007593455,0.015699835,0.011168185,0.010473777
+669,MARISHA,Part One,6,Dialogue,BEAU,"This is kind of therapeutic. Making me feel better, just about life in general. ",4,neutral,0.46722755,0.017715935,0.10995445,0.040154498,0.3254006,0.46722755,0.031206433,0.008340548
+670,TRAVIS,Part One,6,Dialogue,FJORD,(sneezes) ,4,neutral,0.40309098,0.07581438,0.29760954,0.11221942,0.019983316,0.40309098,0.07880638,0.012475999
+671,MARISHA,Part One,6,Dialogue,BEAU,All right. ,4,neutral,0.56556594,0.2355384,0.12634033,0.027116578,0.024512667,0.56556594,0.018955993,0.0019701861
+671,MARISHA,Part One,6,Dialogue,BEAU,All right. ,4,neutral,0.56556594,0.2355384,0.12634033,0.027116578,0.024512667,0.56556594,0.018955993,0.0019701861
+671,MARISHA,Part One,6,Dialogue,BEAU,All right. ,4,neutral,0.56556594,0.23553833,0.12634036,0.02711658,0.02451267,0.56556594,0.018955993,0.0019701868
+672,SAM,Part One,6,Dialogue,NOTT,"He reads lots of books, Caleb does. He's very smart. In fact, should we go looking for more right now? ",4,neutral,0.89155304,0.014777709,0.06012606,0.014851735,0.004390872,0.89155304,0.003710221,0.010590376
+673,LIAM,Part One,6,Dialogue,CALEB,Maybe in a little while. ,4,neutral,0.9096597,0.01392689,0.01725599,0.03685701,0.0076704524,0.9096597,0.0055382526,0.009091781
+674,LAURA,Part One,6,Dialogue,JESTER,Can I see one of your books? ,4,neutral,0.7060087,0.021874802,0.04760639,0.059110664,0.012129289,0.7060087,0.0049171895,0.14835306
+678,LIAM,Part One,6,Dialogue,CALEB,"I have these, but these are heirlooms, family heirlooms, so I don't share those, but-- no, I like to read. That's all. And I'm a bit of a self-starter, so I have to find-- I mean, good luck at the Academy. That's rough, I hear. ",4,neutral,0.69275355,0.018832052,0.10316924,0.017345615,0.14330694,0.69275355,0.019573754,0.005018937
+679,TRAVIS,Part One,6,Dialogue,FJORD,Do you know anything about it? We're just going up. Beginner's luck. ,4,neutral,0.92864394,0.015238177,0.017026177,0.018382773,0.0040410734,0.92864394,0.0053887614,0.0112791
+680,LAURA,Part One,6,Dialogue,JESTER,We know it's rich people that go there. We have to find a way to get you in. ,4,neutral,0.9319493,0.01267816,0.021656752,0.004732811,0.013133556,0.9319493,0.0057806913,0.010068739
+681,LIAM,Part One,6,Dialogue,CALEB,All I know is how hard it is to get into. ,1,disgust,0.3161386,0.042229805,0.3161386,0.17756805,0.0021312328,0.24192505,0.16569023,0.054317072
+682,SAM,Part One,6,Dialogue,NOTT,"You don't have a lot of money, then? ",4,neutral,0.5110887,0.047507126,0.19108851,0.024912314,0.0026506302,0.5110887,0.009284363,0.21346837
+683,LAURA,Part One,6,Dialogue,JESTER,Well. ,4,neutral,0.7709672,0.031843867,0.0925898,0.061112463,0.008413234,0.7709672,0.030871069,0.004202355
+684,TRAVIS,Part One,6,Dialogue,FJORD,No. ,4,neutral,0.70285875,0.03121056,0.1064915,0.1132881,0.0053348877,0.70285875,0.03552762,0.005288656
+684,TRAVIS,Part One,6,Dialogue,FJORD,No. ,4,neutral,0.70285875,0.03121056,0.1064915,0.1132881,0.0053348877,0.70285875,0.03552762,0.005288656
+684,TRAVIS,Part One,6,Dialogue,FJORD,No. ,4,neutral,0.70285875,0.03121056,0.1064915,0.1132881,0.0053348877,0.70285875,0.03552762,0.005288656
+685,LAURA,Part One,6,Dialogue,JESTER,We had more. ,4,neutral,0.93549335,0.009795501,0.015169603,0.0062517384,0.0051803566,0.93549335,0.009374871,0.018734613
+686,MARISHA,Part One,6,Dialogue,BEAU,"But then we lost it, but then we got it back. ",4,neutral,0.52112854,0.12473354,0.17760932,0.09104125,0.0051028607,0.52112854,0.044099685,0.03628474
+687,TRAVIS,Part One,6,Dialogue,FJORD,Somebody has a gambling problem. ,1,disgust,0.55534214,0.17575938,0.55534214,0.013050899,0.0038989708,0.20435646,0.03735428,0.010237841
+688,SAM,Part One,6,Dialogue,NOTT,Oh. Which one? ,4,neutral,0.39867553,0.052175973,0.04399396,0.102420226,0.006175225,0.39867553,0.007230255,0.38932884
+691,LAURA,Part One,6,Dialogue,JESTER,Have you played it? ,4,neutral,0.74335086,0.04057871,0.031090293,0.11258789,0.0036908728,0.74335086,0.010922122,0.057779256
+692,SAM,Part One,6,Dialogue,NOTT,"No, I haven't. ",4,neutral,0.517441,0.06597657,0.1471749,0.20661643,0.0048578666,0.517441,0.049370874,0.008562349
+693,LAURA,Part One,6,Dialogue,JESTER,I'll teach you someday. It's so much fun. ,3,joy,0.9541267,0.0035093059,0.005176225,0.0045307777,0.9541267,0.026866566,0.003836227,0.0019541695
+694,SAM,Part One,6,Dialogue,NOTT,It's a game? ,6,surprise,0.7879667,0.03188446,0.020027751,0.031822998,0.0066547533,0.11810369,0.0035395445,0.7879667
+695,LAURA,Part One,6,Dialogue,JESTER,Yes. ,4,neutral,0.68691033,0.037789013,0.1008075,0.13154316,0.005331521,0.68691033,0.035036452,0.002582112
+695,LAURA,Part One,6,Dialogue,JESTER,Yes. ,4,neutral,0.68691033,0.03778901,0.10080748,0.13154314,0.0053315195,0.68691033,0.035036452,0.0025821116
+696,SAM,Part One,6,Dialogue,NOTT,Cards? All right. I might like to know that. ,4,neutral,0.8064974,0.035105035,0.07565005,0.0055269245,0.06545412,0.8064974,0.0075606764,0.004205834
+697,LAURA,Part One,6,Dialogue,JESTER,"I mean, I can teach you, if you want. ",4,neutral,0.58586097,0.1349916,0.17744769,0.028806992,0.055753693,0.58586097,0.015632635,0.0015064339
+698,SAM,Part One,6,Dialogue,NOTT,"Yes, I would like to know that. ",4,neutral,0.28933835,0.14500768,0.15655993,0.05218104,0.1038695,0.28933835,0.24984498,0.0031985573
+699,LAURA,Part One,6,Dialogue,JESTER,"Okay, I'll deal! ",0,anger,0.7569584,0.7569584,0.08840564,0.058915466,0.015492038,0.06872052,0.010177757,0.001330147
+700,SAM,Part One,6,Dialogue,NOTT,"Oh, right now? ",4,neutral,0.50529855,0.11813526,0.21795776,0.11031519,0.016314724,0.50529855,0.026191697,0.005786744
+701,LAURA,Part One,6,Dialogue,JESTER,"Yes, sure, this will be fun. ",3,joy,0.9233137,0.008548867,0.016230661,0.0025456508,0.9233137,0.04337183,0.0044858335,0.0015034386
+702,SAM,Part One,6,Dialogue,NOTT,Is this okay? ,2,fear,0.4504966,0.12953049,0.051268484,0.4504966,0.0065795225,0.32538867,0.029995108,0.006741032
+703,LIAM,Part One,6,Dialogue,CALEB,"Listen, I would not be sitting here if it were not for you. Do whatever you like. ",4,neutral,0.60410625,0.22040685,0.07672476,0.06896004,0.0071056727,0.60410625,0.020680448,0.0020159988
+704,LAURA,Part One,6,Dialogue,JESTER,"Okay. You draw three cards. Well, I give you three cards. ",4,neutral,0.8153961,0.07159231,0.08229229,0.013153166,0.007039225,0.8153961,0.008444365,0.0020825833
+711,LAURA,Part One,6,Dialogue,JESTER,So first you have to ante up. How much coin do you want to put in? ,4,neutral,0.80255806,0.040302932,0.06683207,0.06689717,0.0028326204,0.80255806,0.0059189782,0.0146581875
+712,SAM,Part One,6,Dialogue,NOTT,I'm out. ,2,fear,0.44100943,0.061128587,0.08129951,0.44100943,0.0046359794,0.1733406,0.22861813,0.009967717
+712,SAM,Part One,6,Dialogue,NOTT,I'm out. ,2,fear,0.44100943,0.061128587,0.08129951,0.44100943,0.0046359794,0.1733406,0.22861813,0.009967717
+714,LIAM,Part One,6,Dialogue,CALEB,It's all right. I will front some coin for you to play this game. ,4,neutral,0.89524025,0.04172767,0.027603474,0.0046322583,0.024174199,0.89524025,0.0051839263,0.0014382275
+715,LAURA,Part One,6,Dialogue,JESTER,"Oh, great! How much do you want to front him? ",3,joy,0.27976006,0.2500027,0.103846885,0.06966318,0.27976006,0.21842578,0.0107552,0.06754623
+716,LIAM,Part One,6,Dialogue,CALEB,I will give you a silver piece. ,4,neutral,0.8475466,0.038373664,0.015901249,0.01048178,0.07689848,0.8475466,0.0064360877,0.0043620793
+717,LAURA,Part One,6,Dialogue,JESTER,"A silver. Okay, this is great. ",3,joy,0.7139594,0.010561729,0.03705434,0.0047996603,0.7139594,0.22479229,0.0031889863,0.0056436304
+718,SAM,Part One,6,Dialogue,NOTT,"Thank you, Caleb. Thank you. ",3,joy,0.52423596,0.025958108,0.01168845,0.007149219,0.52423596,0.39090595,0.008799702,0.031262595
+719,LIAM,Part One,6,Dialogue,CALEB,Wish I had more. ,5,sadness,0.6004432,0.014664066,0.07526633,0.109000415,0.0060719713,0.1779622,0.6004432,0.01659176
+723,LAURA,Part One,6,Dialogue,JESTER,That's good. Okay. ,4,neutral,0.4220049,0.092746444,0.2571828,0.016123196,0.19409402,0.4220049,0.016418936,0.0014296902
+724,MARISHA,Part One,6,Dialogue,BEAU,Don't say 'that's good'. ,1,disgust,0.3043519,0.23801559,0.3043519,0.15353045,0.00804261,0.27282462,0.021128802,0.0021060396
+725,LAURA,Part One,6,Dialogue,JESTER,Bluffing. How do you know I wasn't? ,0,anger,0.6842813,0.6842813,0.1959388,0.015536772,0.002590407,0.02947025,0.013360942,0.058821548
+750,LAURA,Part One,6,Dialogue,JESTER,"Okay. So the best hand you can get is three of a kind. Then, after that, it's a straight. A high straight. Then a low straight. Then it's if you get all evens, or if you get all odds, then it's two of a kind, then it's nothing, it's just high card. Okay, but now we put in a second amount, because you can up the ante, and you get one more card. ",4,neutral,0.9459748,0.0152535,0.023527848,0.0045119408,0.004086658,0.9459748,0.0024333608,0.004211925
+751,SAM,Part One,6,Dialogue,NOTT,I'm out. ,2,fear,0.44100943,0.061128587,0.08129951,0.44100943,0.0046359794,0.1733406,0.22861813,0.009967717
+751,SAM,Part One,6,Dialogue,NOTT,I'm out. ,2,fear,0.44100943,0.061128587,0.08129951,0.44100943,0.0046359794,0.1733406,0.22861813,0.009967717
+752,LAURA,Part One,6,Dialogue,JESTER,"No, but wait, wait, wait. You can put in more money, and then I deal you a different card. ",4,neutral,0.7889658,0.04130146,0.053093586,0.09420038,0.006432293,0.7889658,0.010092689,0.0059137736
+753,LAURA,Part One,6,Dialogue,JESTER,"You get to give a card back, and then I deal you another card. ",4,neutral,0.77626044,0.102782495,0.08662215,0.012079479,0.0095085185,0.77626044,0.0073503787,0.0053966474
+754,SAM,Part One,6,Dialogue,NOTT,"Should I? Caleb, do you have any more? ",4,neutral,0.33100516,0.11904701,0.07527813,0.32259992,0.0023245201,0.33100516,0.036470722,0.113274485
+755,LIAM,Part One,6,Dialogue,CALEB,"Because you saved my life yesterday, you may have one more silver piece. ",4,neutral,0.7280034,0.01593784,0.0059580617,0.00991313,0.22217415,0.7280034,0.0055420795,0.012471355
+756,LAURA,Part One,6,Dialogue,JESTER,"One more silver. Okay, I'll keep it low, too, because you're only doing the one. So I only put in one silver, too. ",4,neutral,0.9652765,0.0071600555,0.012319401,0.003452143,0.0029166043,0.9652765,0.0047700126,0.0041053244
+763,LAURA,Part One,6,Dialogue,JESTER,Now you show what you got and we'll see who wins. ,4,neutral,0.9183887,0.037242513,0.021836795,0.004582217,0.007523883,0.9183887,0.0018474541,0.00857846
+764,SAM,Part One,6,Dialogue,NOTT,I got a pair of fours. ,4,neutral,0.5542244,0.019272383,0.010707035,0.01084202,0.3869308,0.5542244,0.008740281,0.00928315
+765,LAURA,Part One,6,Dialogue,JESTER,I got three fives. ,1,disgust,0.28500515,0.26205525,0.28500515,0.008388501,0.16102052,0.24693976,0.021498019,0.015092706
+773,SAM,Part One,6,Dialogue,NOTT,You're cheating. Somehow you're cheating. ,1,disgust,0.4836092,0.35808882,0.4836092,0.046404023,0.0027635475,0.0788237,0.019829556,0.010481073
+774,LIAM,Part One,6,Dialogue,CALEB,"Nott, Nott, that's fine. That's fine. She won my two silver pieces. We'll just leave it at that. ",4,neutral,0.73836637,0.15103285,0.066766895,0.008021912,0.02590658,0.73836637,0.0074588964,0.0024464612
+775,SAM,Part One,6,Dialogue,NOTT,I'm sorry. ,5,sadness,0.7213485,0.01675952,0.040386003,0.15228564,0.0027887232,0.05515282,0.7213485,0.011278751
+776,LIAM,Part One,6,Dialogue,CALEB,"That's okay. She's very jumpy sometimes. You can understand; we've been living in the woods for a long time. Every time we come near any place like this, we're attacked, jumped, followed. So I apologize on behalf of-- ",2,fear,0.6304497,0.059072897,0.119333096,0.6304497,0.003235442,0.14296596,0.03746029,0.007482588
+777,SAM,Part One,6,Dialogue,NOTT,That was stupid. I'm sorry. I shouldn't have done that. I'm sorry. ,5,sadness,0.56369364,0.13246226,0.14122942,0.105301544,0.0037355584,0.041713174,0.56369364,0.011864247
+778,LAURA,Part One,6,Dialogue,JESTER,"No, it's okay. Just don't do it again. But I'm sorry I took all this money from your friend. ",5,sadness,0.30969584,0.11740414,0.1895153,0.20013131,0.0061797043,0.16570877,0.30969584,0.0113648875
+779,LIAM,Part One,6,Dialogue,CALEB,That's making it worse. ,1,disgust,0.91675323,0.062262654,0.91675323,0.0062347623,0.00038201356,0.0063992334,0.007367995,0.00060007634
+780,TRAVIS,Part One,6,Dialogue,FJORD,Maybe you could give some of it back. ,4,neutral,0.93480957,0.01674758,0.0273737,0.005176991,0.005255172,0.93480957,0.0075729983,0.003064057
+781,LAURA,Part One,6,Dialogue,JESTER,"Why, though? But I won it. ",6,surprise,0.4506493,0.15072067,0.059013363,0.04204421,0.013798321,0.2402491,0.04352501,0.4506493
+784,LAURA,Part One,6,Dialogue,JESTER,"Tell you what. I'll give you-- none of it back, I can't! Okay, here's one silver back-- ",0,anger,0.44152048,0.44152048,0.17509127,0.25002655,0.011859211,0.081263505,0.022366453,0.017872585
+785,LIAM,Part One,6,Dialogue,CALEB,"No, I insist. ",4,neutral,0.33560458,0.27803922,0.16776808,0.16176161,0.011345785,0.33560458,0.043515656,0.0019651286
+786,LAURA,Part One,6,Dialogue,JESTER,"Okay, but I insist, all the money back. All right, fine, it's mine, thank you. Yay. ",4,neutral,0.41959932,0.33137074,0.14328568,0.024770139,0.06258799,0.41959932,0.017020615,0.0013654786
+787,SAM,Part One,6,Dialogue,NOTT,I need another drink. ,2,fear,0.33213255,0.13516772,0.14517397,0.33213255,0.014038226,0.16673765,0.2042808,0.002469133
+788,LIAM,Part One,6,Dialogue,CALEB,"A round of Trosts for both our tables, please. ",4,neutral,0.90921605,0.0079472065,0.017050343,0.039983977,0.007346453,0.90921605,0.009260038,0.009196029
+789,LAURA,Part One,6,Dialogue,JESTER,See? Isn't that the most fun? ,4,neutral,0.2992044,0.13242972,0.13869181,0.100819714,0.25154388,0.2992044,0.00952663,0.067783795
+790,SAM,Part One,6,Dialogue,NOTT,It's fun. ,3,joy,0.9676429,0.0045195664,0.005612568,0.0028315217,0.9676429,0.015569649,0.0024358851,0.0013878319
+792,MATT,Part One,6,Dialogue,YORDA,Any preference of family?,4,neutral,0.83154976,0.024036752,0.06312132,0.0068838946,0.002457277,0.83154976,0.007186359,0.06476463
+793,LIAM,Part One,6,Dialogue,CALEB,Not Baumbauch. ,4,neutral,0.60864806,0.07575451,0.1310342,0.1224129,0.0038780572,0.60864806,0.045539007,0.0127333
+794,MATT,Part One,6,Dialogue,YORDA,Von Brandt it is.,4,neutral,0.9573615,0.003896995,0.0042120074,0.0014234353,0.0071840864,0.9573615,0.006405659,0.019516338
+795,MARISHA,Part One,6,Dialogue,BEAU,I'm impressed that you stuck to taking a guy's money in a training game. ,6,surprise,0.91820455,0.010326676,0.01878967,0.0029030498,0.002511936,0.045666095,0.0015979819,0.91820455
+796,LAURA,Part One,6,Dialogue,JESTER,"Right? Oh, wait, is that bad? ",1,disgust,0.7421132,0.10142832,0.7421132,0.07080799,0.0025332028,0.06950922,0.007682157,0.005925887
+797,MARISHA,Part One,6,Dialogue,BEAU,Meh. ,1,disgust,0.7307023,0.032526366,0.7307023,0.07882198,0.0033950915,0.12063307,0.02991227,0.0040088966
+798,LAURA,Part One,6,Dialogue,JESTER,"Well, I only learned last night, you guys. ",4,neutral,0.8963955,0.017722247,0.02081103,0.012810077,0.0052682892,0.8963955,0.003267954,0.043724865
+799,LIAM,Part One,6,Dialogue,CALEB,What is a training game? ,4,neutral,0.41596138,0.07025591,0.059791815,0.37925142,0.0031591346,0.41596138,0.0057542296,0.06582618
+800,MARISHA,Part One,6,Dialogue,BEAU,Just meaning when she was teaching. ,1,disgust,0.6612718,0.044425458,0.6612718,0.05411982,0.0027727222,0.22493269,0.007747813,0.004729677
+801,LAURA,Part One,6,Dialogue,JESTER,People took my money when I was learning. ,1,disgust,0.7673014,0.2142593,0.7673014,0.009108112,0.0017679981,0.004391295,0.0024462838,0.0007256705
+802,LIAM,Part One,6,Dialogue,CALEB,It's fine. It's water under the bridge. It's fine. It's all right. ,4,neutral,0.7280039,0.10613845,0.10087143,0.025918936,0.015716854,0.7280039,0.022117836,0.0012325674
+804,LIAM,Part One,7,Dialogue,CALEB,"If you feel slightly worse, there's a drink on me. ",1,disgust,0.8688445,0.04495484,0.8688445,0.02891947,0.0008854036,0.015615109,0.0395586,0.0012220724
+805,LAURA,Part One,7,Dialogue,JESTER,"Oh jeez, now I'm definitely giving you your two silver back. Don't worry about it, man. ",2,fear,0.6614048,0.050282888,0.017966257,0.6614048,0.018400943,0.16431105,0.022608137,0.06502597
+806,LAURA,Part One,7,Dialogue,JESTER,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+806,LAURA,Part One,7,Dialogue,JESTER,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+806,LAURA,Part One,7,Dialogue,JESTER,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+806,LAURA,Part One,7,Dialogue,JESTER,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+806,LAURA,Part One,7,Dialogue,JESTER,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+806,LAURA,Part One,7,Dialogue,JESTER,(laughter) ,4,neutral,0.57814527,0.08658676,0.19109651,0.034801535,0.0815255,0.57814527,0.024517478,0.0033269166
+806,LAURA,Part One,7,Dialogue,JESTER,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+806,LAURA,Part One,7,Dialogue,JESTER,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+816,LAURA,Part One,7,Dialogue,JESTER,I just want to go to the carnival. ,3,joy,0.37853405,0.04616344,0.10632111,0.06443405,0.37853405,0.3517114,0.049924742,0.0029112187
+817,LIAM,Part One,7,Dialogue,CALEB,"That's later tonight, though, isn't it? ",4,neutral,0.84153664,0.02275609,0.032742105,0.04119292,0.003121478,0.84153664,0.00738797,0.051262803
+823,LAURA,Part One,7,Dialogue,JESTER,Should we do it? ,2,fear,0.66452223,0.22676513,0.041773807,0.66452223,0.001013976,0.0322943,0.025366906,0.008263676
+824,MARISHA,Part One,7,Dialogue,BEAU,"I mean, we have to kill Rodents of Unusual Size. ",1,disgust,0.73945546,0.07926508,0.73945546,0.05821619,0.0012417418,0.101546764,0.010898784,0.009375959
+825,SAM,Part One,7,Dialogue,NOTT,That doesn't sound interesting to me at all. ,1,disgust,0.60376817,0.042622622,0.60376817,0.021251513,0.0023231907,0.22295195,0.024845837,0.082236685
+826,TRAVIS,Part One,7,Dialogue,FJORD,What else is there? ,4,neutral,0.5822031,0.08759808,0.06945138,0.14461504,0.0028163916,0.5822031,0.01283426,0.10048179
+834,LAURA,Part One,7,Dialogue,JESTER,We've done that. It sucked so much. ,1,disgust,0.91615057,0.043608997,0.91615057,0.0054175337,0.00079675333,0.016480638,0.015786113,0.0017593873
+835,SAM,Part One,7,Dialogue,NOTT,You did that? ,6,surprise,0.4287657,0.28578466,0.15163834,0.050634604,0.005570853,0.06753724,0.01006862,0.4287657
+836,LAURA,Part One,7,Dialogue,JESTER,"Well, by mistake. ",4,neutral,0.58687454,0.035473797,0.09928801,0.15998542,0.0033429863,0.58687454,0.10221526,0.01281999
+839,TRAVIS,Part One,7,Dialogue,FJORD,"We did, yeah. ",4,neutral,0.8038591,0.043276656,0.079943195,0.04457131,0.006840669,0.8038591,0.01939197,0.0021171614
+841,SAM,Part One,7,Dialogue,NOTT,"We said no to that job, thank you. ",3,joy,0.4440299,0.105359055,0.018907942,0.019094668,0.4440299,0.3737204,0.0065673674,0.032320663
+842,TRAVIS,Part One,7,Dialogue,FJORD,We get bored pretty easily. ,4,neutral,0.7795296,0.07079263,0.09414346,0.013797968,0.0124986395,0.7795296,0.026876405,0.0023612771
+843,MARISHA,Part One,7,Dialogue,BEAU,"We did, however, then gamble with the other workers and then Jester-- yeah. Jester-- ",4,neutral,0.6138354,0.08863146,0.12505965,0.13703226,0.012479804,0.6138354,0.014021285,0.008940106
+844,LAURA,Part One,7,Dialogue,JESTER,"Well, I lost it, but he made so much. ",1,disgust,0.50776356,0.0631906,0.50776356,0.008546146,0.004349903,0.3352737,0.050258297,0.030617787
+845,TRAVIS,Part One,7,Dialogue,FJORD,Maybe not out loud say that. Just a thought. ,4,neutral,0.8631487,0.022257473,0.07432234,0.020868422,0.0032281817,0.8631487,0.010364286,0.0058106664
+846,MARISHA,Part One,7,Dialogue,BEAU,"Oh, that's right. We probably shouldn't. ",4,neutral,0.6166076,0.07411536,0.21993198,0.04899708,0.0052675568,0.6166076,0.030162478,0.00491801
+847,MARISHA,Part One,7,Dialogue,BEAU,We didn't make any money. ,1,disgust,0.51855797,0.1502628,0.51855797,0.02620086,0.003222934,0.27031264,0.027923394,0.0035194356
+848,LAURA,Part One,7,Dialogue,JESTER,Do you guys want company? Do you want us to come and hang out with you today? ,4,neutral,0.6356297,0.0783876,0.06315528,0.10879446,0.008302317,0.6356297,0.021370364,0.08436027
+849,SAM,Part One,7,Dialogue,NOTT,"I don't know about that. That sounds risky, I don't know. ",2,fear,0.6350491,0.03165413,0.122813694,0.6350491,0.0034491478,0.16484118,0.020717533,0.02147521
+850,LIAM,Part One,7,Dialogue,CALEB,"Do you know something? I, shockingly, think that's not a bad idea. ",6,surprise,0.9486737,0.015450464,0.011674159,0.008697064,0.00255774,0.0121071385,0.0008396736,0.9486737
+851,SAM,Part One,7,Dialogue,NOTT,To have these weirdos with us? ,1,disgust,0.577062,0.125721,0.577062,0.08753238,0.00396162,0.08096797,0.007214096,0.11754093
+852,LAURA,Part One,7,Dialogue,JESTER,I can hear you. ,4,neutral,0.513395,0.047718022,0.103537045,0.2377084,0.035063524,0.513395,0.037767947,0.024810035
+853,LIAM,Part One,7,Dialogue,CALEB,Yesterday was a very bad day. ,5,sadness,0.64870524,0.01650214,0.05036632,0.2639711,0.0034391456,0.014428322,0.64870524,0.0025876432
+854,SAM,Part One,7,Dialogue,NOTT,"Yes. Well, I suppose if we surrounded ourselves with weirdos, then maybe it would take some of heat off of me. ",4,neutral,0.64982164,0.075496815,0.22475503,0.026250174,0.004841765,0.64982164,0.015193911,0.0036406373
+855,LIAM,Part One,7,Dialogue,CALEB,"Well, yes. Bottom line: can you hang with the goblin? ",4,neutral,0.58425236,0.04465343,0.20927697,0.13576226,0.005056014,0.58425236,0.015820505,0.0051785596
+856,LAURA,Part One,7,Dialogue,JESTER,Bottom line-- ,4,neutral,0.47300857,0.086340256,0.17908682,0.20022841,0.01310907,0.47300857,0.0371493,0.011077557
+868,SAM,Part One,7,Dialogue,NOTT,Thank you. That's very nice. ,3,joy,0.90494287,0.003976989,0.006878745,0.0022663348,0.90494287,0.07372765,0.0028654167,0.0053420602
+869,TRAVIS,Part One,7,Dialogue,FJORD,"I don't have a problem with goblins, but you guys aren't in any trouble, are you? No one's after you? ",4,neutral,0.6127174,0.13373035,0.11009129,0.09947897,0.007777829,0.6127174,0.014847886,0.02135632
+870,LAURA,Part One,7,Dialogue,JESTER,Because she is all kinds of trouble. ,2,fear,0.5090405,0.10261588,0.15384291,0.5090405,0.0025392987,0.11334829,0.114468254,0.0041449056
+871,SAM,Part One,7,Dialogue,NOTT,No one is after me! ,0,anger,0.52891743,0.52891743,0.022918563,0.41134378,0.002894082,0.01632129,0.012673456,0.0049315905
+883,MARISHA,Part One,7,Dialogue,BEAU,So. Mask. I'm just fascinated by the mask. Looks well-made. Did you make it? ,4,neutral,0.9012036,0.010959783,0.016736927,0.01271515,0.0057919594,0.9012036,0.002290695,0.05030198
+895,TRAVIS,Part One,7,Dialogue,FJORD,It seems we have all day. What were your plans? ,4,neutral,0.7543796,0.04522856,0.023949886,0.12162427,0.0031547088,0.7543796,0.010839694,0.040823318
+896,LIAM,Part One,7,Dialogue,CALEB,"Not much. We were going to sample the different Trosts, and I wanted to maybe do some book browsing. Nothing major. ",4,neutral,0.8672798,0.012204497,0.07140383,0.014584136,0.012612901,0.8672798,0.015085857,0.006828934
+897,LAURA,Part One,7,Dialogue,JESTER,What's a Trost? ,4,neutral,0.3812531,0.08173388,0.06229848,0.11043558,0.0028992821,0.3812531,0.0067280456,0.35465172
+898,MARISHA,Part One,7,Dialogue,BEAU,Brewery tour! ,3,joy,0.36917996,0.050340716,0.0155120725,0.2054453,0.36917996,0.23141259,0.0059530293,0.12215629
+899,SAM,Part One,7,Dialogue,NOTT,It's ale. ,4,neutral,0.63792473,0.017006129,0.26526552,0.047121156,0.010083703,0.63792473,0.017241433,0.005357411
+900,LAURA,Part One,7,Dialogue,JESTER,We just can't go by the Baumbauch ale. ,4,neutral,0.6430116,0.05692347,0.21928263,0.041451685,0.002627599,0.6430116,0.032818608,0.0038843832
+901,SAM,Part One,7,Dialogue,NOTT,What happened with the Baumbauchs? ,4,neutral,0.41481867,0.08615835,0.057217173,0.33782688,0.0025063353,0.41481867,0.016787676,0.08468495
+902,LIAM,Part One,7,Dialogue,CALEB,"There are two others to choose from, here. ",4,neutral,0.95592505,0.007779873,0.006916945,0.0038901754,0.016909681,0.95592505,0.004646602,0.003931671
+903,MARISHA,Part One,7,Dialogue,BEAU,"They're who we loaded crates for, and then we kind of swindled their employee. ",4,neutral,0.8831598,0.027019218,0.059692007,0.0066507026,0.0023199029,0.8831598,0.004141968,0.017016334
+904,TRAVIS,Part One,7,Dialogue,FJORD,Didn't leave on the best of terms. ,4,neutral,0.7502283,0.051863577,0.124742776,0.019818326,0.0028325226,0.7502283,0.04709274,0.003421852
+911,LIAM,Part One,7,Dialogue,CALEB,"No, I'm just saying the one that you swindled, it's got the blessing of the big cheese here. ",4,neutral,0.95335954,0.008967784,0.018604934,0.0034353307,0.0066678654,0.95335954,0.0023873574,0.0065771895
+912,LAURA,Part One,7,Dialogue,JESTER,Oh. Well. Why do you need it? ,0,anger,0.37158495,0.37158495,0.22105362,0.101943634,0.0036091525,0.08532138,0.019360308,0.19712694
+913,LIAM,Part One,7,Dialogue,CALEB,"We don't need it. It's just pleasurable to have a Trost, is what they say. She kind of needs it. ",4,neutral,0.43072045,0.01708012,0.15473436,0.0066087204,0.35857427,0.43072045,0.027381433,0.004900552
+914,SAM,Part One,7,Dialogue,NOTT,I need it a little bit. ,4,neutral,0.7775842,0.05308616,0.05243651,0.070229016,0.0054985043,0.7775842,0.031164723,0.010000966
+915,LAURA,Part One,7,Dialogue,JESTER,You need a beer? ,4,neutral,0.6046781,0.06319625,0.044584475,0.036169466,0.005095025,0.6046781,0.0065806396,0.23969606
+916,SAM,Part One,7,Dialogue,NOTT,"Well, I prefer the harder stuff, but I'll take what I can get at this point. ",4,neutral,0.7877931,0.049637116,0.08972908,0.020671524,0.032936834,0.7877931,0.01752647,0.0017058258
+921,MARISHA,Part One,7,Dialogue,BEAU,"So beer tour, then circus? ",4,neutral,0.72095853,0.02532853,0.04991449,0.104326606,0.005737298,0.72095853,0.0044221077,0.0893125
+922,LAURA,Part One,7,Dialogue,JESTER,"I've got to say, I miss those two people we ran into at the carnival. ",5,sadness,0.94710606,0.0035585188,0.014740794,0.007441255,0.0014316855,0.023472868,0.94710606,0.0022487915
+923,TRAVIS,Part One,7,Dialogue,FJORD,"I might just wait for the carnival, actually. ",4,neutral,0.8742296,0.011244487,0.020615702,0.01851672,0.06347013,0.8742296,0.004918653,0.0070047397
+956,LIAM,Part One,8,Dialogue,CALEB,I'm sorry. You have a nice selection here. ,5,sadness,0.73965526,0.0112333475,0.03727466,0.023751637,0.0068558794,0.16302377,0.73965526,0.018205434
+957,LIAM,Part One,8,Dialogue,CALEB,"Do you mind if I ask-- I haven't seen any other booksellers of any kind in town. I'm not really looking for anything on farming, so much. Is there anywhere else I could look into? ",4,neutral,0.8707694,0.021194827,0.04093028,0.036672954,0.0033348112,0.8707694,0.0051969714,0.021900792
+958,MATT,Part One,8,Dialogue,SHEENAH,"If you're looking for some sort of a library, your best bet is to go to Zadash up north.",4,neutral,0.96301436,0.003843444,0.003286322,0.0032964626,0.016497226,0.96301436,0.003003269,0.007058929
+959,LIAM,Part One,8,Dialogue,CALEB,Zadash. ,4,neutral,0.52624834,0.08617633,0.080069,0.22781372,0.016257213,0.52624834,0.039535634,0.023899687
+960,MATT,Part One,8,Dialogue,SHEENAH,"That's where the Library of the Cobalt Soul resides. They have all the information you could hope for. A bit pricey to peruse their interior, unless you have proper coverage, but unfortunately if what we have isn't what you're looking for, I can't help you.",5,sadness,0.61008507,0.0048042107,0.022549694,0.011924232,0.0032451332,0.28070998,0.61008507,0.06668167
+961,LIAM,Part One,8,Dialogue,CALEB,"No, it's a fine selection. Sorry. How much for this book on hoe technique? ",4,neutral,0.48756844,0.015565025,0.0675243,0.03233096,0.0068915333,0.48756844,0.34436765,0.045752034
+962,MATT,Part One,8,Dialogue,SHEENAH,"Oh! Jamieson's Hoedown, yes, quite. That will be two silver pieces.",6,surprise,0.6966358,0.016620228,0.011583413,0.0029842025,0.050609004,0.20753917,0.014028212,0.6966358
+963,LIAM,Part One,8,Dialogue,CALEB,"Oh. I'm very embarrassed, I'm sorry, I gave away my last two silver pieces. ",5,sadness,0.42603838,0.024872394,0.17405562,0.10877969,0.0070387498,0.14948384,0.42603838,0.10973125
+965,LIAM,Part One,8,Dialogue,CALEB,"I gave away my last two silver pieces, so. ",4,neutral,0.6725111,0.06738221,0.048086673,0.024352739,0.10039561,0.6725111,0.08395065,0.003320915
+966,LIAM,Part One,8,Dialogue,CALEB,Maybe I can earn it back and come back later this week. ,4,neutral,0.9247448,0.013477077,0.015473213,0.020811437,0.0069718203,0.9247448,0.014815876,0.0037057837
+967,MATT,Part One,8,Dialogue,SHEENAH,Please do. Do you want me to hold it for you?,2,fear,0.44982585,0.35702533,0.050099533,0.44982585,0.0024572972,0.08431189,0.044165153,0.01211496
+968,LIAM,Part One,8,Dialogue,CALEB,Yes. ,4,neutral,0.68691033,0.037789013,0.1008075,0.13154316,0.005331521,0.68691033,0.035036452,0.002582112
+968,LIAM,Part One,8,Dialogue,CALEB,Yes. ,4,neutral,0.68691033,0.03778901,0.10080748,0.13154314,0.0053315195,0.68691033,0.035036452,0.0025821116
+969,MATT,Part One,8,Dialogue,SHEENAH,What's your name?,4,neutral,0.47940668,0.019035522,0.0059774057,0.010319047,0.0042670253,0.47940668,0.007108421,0.4738859
+970,LIAM,Part One,8,Dialogue,CALEB,My name is Caleb Widogast. ,4,neutral,0.45431158,0.03249252,0.02549448,0.4138848,0.024183474,0.45431158,0.0400445,0.009588656
+971,MATT,Part One,8,Dialogue,SHEENAH,All right. I will keep it here under the shelf. Thank you so much.,3,joy,0.6538098,0.013293097,0.006877508,0.001300949,0.6538098,0.29731667,0.00827763,0.0191244
+972,LIAM,Part One,8,Dialogue,CALEB,"Okay, good day, thank you. ",3,joy,0.6938565,0.029209657,0.026880464,0.0057232203,0.6938565,0.23633476,0.005222269,0.0027732262
+983,LIAM,Part One,8,Dialogue,CALEB,"Frumpkin, come on. ",4,neutral,0.42142755,0.18905385,0.10350897,0.23313816,0.018212147,0.42142755,0.021941723,0.012717509
+1001,SAM,Part One,9,Dialogue,NOTT,Thank you. ,4,neutral,0.6749895,0.029116739,0.015293459,0.015140659,0.23756412,0.6749895,0.009810394,0.018085139
+1001,SAM,Part One,9,Dialogue,NOTT,Thank you. ,4,neutral,0.6749896,0.02911674,0.01529346,0.015140661,0.23756407,0.6749896,0.009810395,0.018085139
+1005,MARISHA,Part One,9,Dialogue,BEAU,"Molly! Molly, hey! ",3,joy,0.93097603,0.020676905,0.007338415,0.004198651,0.93097603,0.024293957,0.0036532234,0.008862731
+1006,TALIESIN,Part One,9,Dialogue,MOLLY,"Oh, it's my favorites. Hello. ",4,neutral,0.8315841,0.009473219,0.023203041,0.007736029,0.109577715,0.8315841,0.0049704122,0.013455524
+1007,LAURA,Part One,9,Dialogue,JESTER,We came! ,2,fear,0.6104741,0.16942152,0.013581222,0.6104741,0.046238605,0.09193454,0.008817421,0.05953249
+1008,TALIESIN,Part One,9,Dialogue,MOLLY,I'm so glad you all came to see the show. It's going to be great tonight. ,3,joy,0.9819825,0.001224771,0.0010053702,0.0005922175,0.9819825,0.008737654,0.0018542907,0.0046032006
+1009,ASHLEY,Part One,9,Dialogue,YASHA,(deadpan) It's going to blow you away. ,2,fear,0.7742169,0.11276293,0.033648398,0.7742169,0.004051462,0.030470274,0.013667906,0.031182079
+1012,ASHLEY,Part One,9,Dialogue,YASHA,You're going to love it. ,4,neutral,0.78746307,0.05886046,0.034350205,0.006750529,0.094886445,0.78746307,0.0060581667,0.011631088
+1013,TALIESIN,Part One,9,Dialogue,MOLLY,First show of a round's always the best. ,3,joy,0.6523372,0.013073586,0.038125027,0.08659927,0.6523372,0.19253005,0.004020068,0.013314877
+1014,TALIESIN,Part One,9,Dialogue,MOLLY,Without fail. ,2,fear,0.67099595,0.13229415,0.034905076,0.67099595,0.0038709685,0.113221,0.04154672,0.0031660863
+1015,MARISHA,Part One,9,Dialogue,BEAU,Where are the best seats? ,4,neutral,0.79661316,0.032418933,0.01333946,0.08237365,0.0043874206,0.79661316,0.008714764,0.06215264
+1016,TALIESIN,Part One,9,Dialogue,MOLLY,"Well, I'm always partial to the front. ",4,neutral,0.7659498,0.02983239,0.15484026,0.02308739,0.0065562804,0.7659498,0.016593555,0.00314025
+1017,TALIESIN,Part One,9,Dialogue,MOLLY,"Then you're right in it, if something goes wrong, it's nothing between you and whatever terrible, bloody mess is going to happen. It's just the best. ",2,fear,0.39556608,0.20105264,0.17392737,0.39556608,0.00759571,0.20584537,0.012612165,0.003400709
+1018,MARISHA,Part One,9,Dialogue,BEAU,What? ,6,surprise,0.778597,0.0627279,0.021191597,0.09458548,0.0028565505,0.03415525,0.0058862045,0.778597
+1019,TALIESIN,Part One,9,Dialogue,MOLLY,"Nothing, nothing, you're fine. ",4,neutral,0.43708855,0.26972157,0.17519271,0.08653722,0.0088998815,0.43708855,0.020101544,0.0024585838
+1020,ASHLEY,Part One,9,Dialogue,YASHA,"It's going to be great, but before you go in, I do have to give you guys a pat-down, 'cause you can't go in with any weapons. ",4,neutral,0.5531871,0.061070535,0.17219488,0.17067969,0.014829698,0.5531871,0.023375269,0.0046628197
+1022,MATT,Part One,9,Dialogue,GUSTAV,"You two, skip ahead, quick. We need to go ahead and set up. Looks like we're already having quite a few people excited to come here, so at the door, interior to set up. Meet us at the front. Actually, you know what? You'll be on card duty. We need a little extra change on the side."" ",4,neutral,0.9271808,0.014143007,0.013598745,0.024021883,0.007492814,0.9271808,0.003159266,0.010403439
+1023,TALIESIN,Part One,9,Dialogue,MOLLY,Card duty it is. ,4,neutral,0.8324484,0.026796727,0.08341873,0.037747115,0.0034382918,0.8324484,0.012916847,0.003233825
+1024,MATT,Part One,9,Dialogue,GUSTAV,"All right. Folks, excited for your patronage.",3,joy,0.79257095,0.008170773,0.0024401748,0.0013968959,0.79257095,0.15091862,0.003409448,0.04109317
+1026,MATT,Part One,9,Dialogue,GUSTAV,Enjoy the night air. Walk slowly. We need just a moment to set up.,4,neutral,0.86583173,0.0066112773,0.006451576,0.006976838,0.09351246,0.86583173,0.017213587,0.0034025048
+1051,MATT,Part Two,10,Dialogue,FARMER,"All right, so what can you tell me about this here cough? ",4,neutral,0.64981604,0.053570706,0.06490573,0.19403079,0.005626542,0.64981604,0.016138472,0.015911741
+1052,TALIESIN,Part Two,10,Dialogue,MOLLY,How long have you had it? ,4,neutral,0.7594157,0.04744572,0.028375363,0.07454346,0.002564319,0.7594157,0.012722388,0.07493297
+1053,MATT,Part Two,10,Dialogue,FARMER,"Oh, going on like three, four months. (coughs) ",1,disgust,0.40741724,0.060389213,0.40741724,0.10596102,0.018314848,0.3426781,0.0592759,0.0059635756
+1054,TALIESIN,Part Two,10,Dialogue,MOLLY,It looks like it's getting better. Oh yes. Does it feel like it's getting better? ,4,neutral,0.7664815,0.018266087,0.13941507,0.025444746,0.01651919,0.7664815,0.010120687,0.023752753
+1055,MATT,Part Two,10,Dialogue,FARMER,"Oh, right now? Yeah. ",4,neutral,0.49988526,0.1190176,0.2734198,0.047706988,0.03344731,0.49988526,0.023406412,0.003116551
+1056,TALIESIN,Part Two,10,Dialogue,MOLLY,"Yeah, look at that. I would maybe breathe a tincture or something. Let's-- yeah, maybe you should get that looked at. ",1,disgust,0.48991632,0.031680588,0.48991632,0.07737931,0.003509509,0.3737953,0.012925587,0.010793341
+1057,MATT,Part Two,10,Dialogue,FARMER,From who? What do the cards tell me?,6,surprise,0.798567,0.0331572,0.0056746085,0.021521425,0.003643375,0.13392623,0.003510206,0.798567
+1058,TALIESIN,Part Two,10,Dialogue,MOLLY,"Some sort of physician, perhaps. ",4,neutral,0.65304774,0.012420592,0.15683287,0.1389154,0.0055044973,0.65304774,0.022799207,0.010479711
+1059,MATT,Part Two,10,Dialogue,FARMER,"Right! Of course! Oh, thank you so much.",3,joy,0.8795101,0.025872331,0.005765837,0.00142254,0.8795101,0.033335336,0.0066172113,0.047476627
+1061,TALIESIN,Part Two,10,Dialogue,MOLLY,Platinum Dragon be with you. Thank you. ,3,joy,0.7851594,0.008823459,0.0029234053,0.0056433636,0.7851594,0.17076246,0.007619867,0.019068064
+1063,MATT,Part Two,10,Dialogue,FARMER,"Dear, a physician!",6,surprise,0.4642992,0.19084613,0.14316519,0.018954245,0.017137941,0.0357568,0.1298405,0.4642992
+1066,MARISHA,Part Two,10,Dialogue,BEAU,What happened to 'no sick people'? ,2,fear,0.38997763,0.16366984,0.15324187,0.38997763,0.002293062,0.1953184,0.017794514,0.07770463
+1067,TALIESIN,Part Two,10,Dialogue,MOLLY,This is outside the tent. ,4,neutral,0.6759936,0.028400775,0.107294895,0.11556762,0.008013035,0.6759936,0.005900572,0.058829512
+1069,MARISHA,Part Two,10,Dialogue,BEAU,Fair. ,4,neutral,0.70091754,0.11435714,0.115618214,0.011752864,0.02847189,0.70091754,0.02247637,0.006406009
+1070,TALIESIN,Part Two,10,Dialogue,MOLLY,"It's good to see you all here, though. ",3,joy,0.9749616,0.001445051,0.0028299359,0.0007599843,0.9749616,0.015203999,0.0028686158,0.0019308917
+1071,LAURA,Part Two,10,Dialogue,JESTER,"Here's the thing. Some of us have weapons that we don't want to pass away to other people, so how much of a chance is it that we could get through without having to do that, you know? ",4,neutral,0.69170815,0.049974103,0.0517211,0.03635474,0.005632448,0.69170815,0.007118986,0.15749042
+1072,ASHLEY,Part Two,10,Dialogue,YASHA,"Well, you can't see the show if you have a weapon on you. ",1,disgust,0.46408078,0.08870877,0.46408078,0.024640797,0.0015131958,0.38936022,0.020052902,0.011643269
+1073,LAURA,Part Two,10,Dialogue,JESTER,Right. And we really want to see the show. ,3,joy,0.46189204,0.07208549,0.03782829,0.012079735,0.46189204,0.26378906,0.14198986,0.010335571
+1074,LAURA,Part Two,10,Dialogue,JESTER,"But, you know, we are really good at security, like all of us are really strong, and we could fight things that came up, too, so maybe it would be best if you don't take our weapons, and then we could help. ",4,neutral,0.7996441,0.042321898,0.054241974,0.07339732,0.0056397906,0.7996441,0.022066401,0.0026884505
+1075,MARISHA,Part Two,10,Dialogue,BEAU,"Actually, here's a deal. We'll make you a good deal. You waive our entry fee and if anyone needs to be kicked out, or any security needs to happen, we'll help you out. ",4,neutral,0.88203084,0.033441637,0.022470707,0.014176009,0.03569519,0.88203084,0.008261126,0.0039245556
+1076,SAM,Part Two,10,Dialogue,NOTT,Like deputy bouncers? ,4,neutral,0.46412453,0.056865036,0.09359609,0.2936689,0.004672116,0.46412453,0.005489657,0.08158365
+1077,MARISHA,Part Two,10,Dialogue,BEAU,Like deputy bouncers. ,2,fear,0.4065188,0.11666374,0.23661226,0.4065188,0.007250167,0.21401463,0.014106922,0.004833425
+1078,ASHLEY,Part Two,10,Dialogue,YASHA,"Well, see, funny thing about that, though, is that's my job. So. ",3,joy,0.7525774,0.023636995,0.050385457,0.008452191,0.7525774,0.12362392,0.006484514,0.03483944
+1079,LAURA,Part Two,10,Dialogue,JESTER,So do you want to hire us? ,4,neutral,0.4835743,0.13678537,0.028676499,0.2128361,0.007840925,0.4835743,0.010170131,0.12011669
+1080,ASHLEY,Part Two,10,Dialogue,YASHA,No. ,4,neutral,0.70285875,0.03121056,0.1064915,0.1132881,0.0053348877,0.70285875,0.03552762,0.005288656
+1080,ASHLEY,Part Two,10,Dialogue,YASHA,No. ,4,neutral,0.70285875,0.03121056,0.1064915,0.1132881,0.0053348877,0.70285875,0.03552762,0.005288656
+1080,ASHLEY,Part Two,10,Dialogue,YASHA,No. ,4,neutral,0.70285875,0.03121056,0.1064915,0.1132881,0.0053348877,0.70285875,0.03552762,0.005288656
+1081,MARISHA,Part Two,10,Dialogue,BEAU,"You would be like our boss. Have you ever wanted to be a boss? Like, in charge? ",4,neutral,0.76470363,0.039072756,0.12364348,0.035818674,0.0030220754,0.76470363,0.0049272245,0.028812096
+1082,ASHLEY,Part Two,10,Dialogue,YASHA,"Well, I am. ",4,neutral,0.5036527,0.06011425,0.15020938,0.22640131,0.016216233,0.5036527,0.0405123,0.0028938076
+1083,LAURA,Part Two,10,Dialogue,JESTER,We could ask you for days off sometimes. ,4,neutral,0.86254483,0.0260161,0.031309675,0.044027716,0.007104474,0.86254483,0.025648702,0.003348573
+1085,MATT,Part Two,10,Dialogue,BO,"I'm terribly sorry, but we've got it taken care of. If you wish to pay entry, you can, but the rules are the rules. So sorry.",5,sadness,0.9433287,0.0027384325,0.011439274,0.006968613,0.0026460718,0.026891796,0.9433287,0.005987166
+1086,LIAM,Part Two,10,Dialogue,CALEB,Do they get stored in some sort of locker or something? ,4,neutral,0.7960763,0.03586176,0.08301443,0.04165037,0.0019826225,0.7960763,0.00756754,0.033847015
+1087,ASHLEY,Part Two,10,Dialogue,YASHA,"I hold them. And if you want, I can stand right next to you guys. You can keep your eye on me the whole time. ",4,neutral,0.47387585,0.21803506,0.09477169,0.18169199,0.009498286,0.47387585,0.019451834,0.0026753962
+1088,TALIESIN,Part Two,10,Dialogue,MOLLY,She's very trustworthy. ,4,neutral,0.85040283,0.01805447,0.05806686,0.02614109,0.036760446,0.85040283,0.00793832,0.0026359349
+1089,LIAM,Part Two,10,Dialogue,CALEB,That seems fair-ish to me. ,4,neutral,0.4838658,0.03496256,0.043015707,0.010673405,0.41527838,0.4838658,0.0071067275,0.005097429
+1090,MATT,Part Two,10,Dialogue,BO,"Yasha, does that seem-- all right.",3,joy,0.46538946,0.03889974,0.022276154,0.0020373766,0.46538946,0.43228164,0.01887753,0.020238047
+1092,MARISHA,Part Two,10,Dialogue,BEAU,"What's your name, by the by? ",4,neutral,0.73281753,0.039886355,0.019685328,0.08637602,0.0031696586,0.73281753,0.007804315,0.11026082
+1093,MATT,Part Two,10,Dialogue,BO,Bo. ,4,neutral,0.7454406,0.04024396,0.0722385,0.1049487,0.010396708,0.7454406,0.020507175,0.006224349
+1093,MATT,Part Two,10,Dialogue,BO,Bo. ,4,neutral,0.7454406,0.04024396,0.0722385,0.1049487,0.010396708,0.7454406,0.020507175,0.006224349
+1094,MARISHA,Part Two,10,Dialogue,BEAU,Good name. ,4,neutral,0.5865357,0.051636107,0.17563798,0.021606479,0.14463155,0.5865357,0.017135939,0.0028163795
+1095,MATT,Part Two,10,Dialogue,BO,Thank you.,4,neutral,0.666359,0.019360315,0.009854679,0.0031970742,0.21059199,0.666359,0.010673772,0.07996319
+1096,LIAM,Part Two,10,Dialogue,CALEB,"Well, that's funny, because your name is also Beau. ",3,joy,0.6215644,0.013456629,0.050478317,0.0076463404,0.6215644,0.17424029,0.006775579,0.12583846
+1097,MATT,Part Two,10,Dialogue,BO,Really?,6,surprise,0.96958476,0.011435734,0.005613217,0.00214286,0.0022175324,0.007143195,0.0018627205,0.96958476
+1098,MARISHA,Part Two,10,Dialogue,BEAU,You didn't have to-- maybe let me choose when to tell people-- ,4,neutral,0.49237612,0.14036621,0.094539456,0.21831706,0.02013375,0.49237612,0.025887087,0.008380303
+1099,MATT,Part Two,10,Dialogue,BO,"No, no, I'm curious about this. How do you spell your name?",6,surprise,0.9168089,0.00433927,0.009020576,0.0029107984,0.0019248914,0.06371886,0.0012767175,0.9168089
+1100,MARISHA,Part Two,10,Dialogue,BEAU,"Well, it's short for Beauregard. ",4,neutral,0.9124466,0.016082073,0.029860342,0.025755927,0.004453784,0.9124466,0.006386493,0.005014772
+1101,MATT,Part Two,10,Dialogue,BO,"Oh, mine's just B-O.",4,neutral,0.859238,0.0076545496,0.021993006,0.004891211,0.0155826025,0.859238,0.023910867,0.06672979
+1102,MARISHA,Part Two,10,Dialogue,BEAU,"That's unfortunate. I mean, it's great. ",5,sadness,0.7930518,0.0027110896,0.022857707,0.020692816,0.0054395967,0.107131734,0.7930518,0.048115246
+1103,MARISHA,Part Two,10,Dialogue,BEAU,Did kids make fun-- never mind. ,0,anger,0.5022157,0.5022157,0.3359109,0.01274299,0.009284396,0.12598486,0.009669252,0.0041918126
+1104,MATT,Part Two,10,Dialogue,BO,It's not inaccurate.,4,neutral,0.821687,0.03405415,0.0730708,0.008070953,0.0017604231,0.821687,0.047765028,0.01359167
+1114,MARISHA,Part Two,10,Dialogue,BEAU,"It's funny, see, my name's Beau because my parents wanted a son. ",3,joy,0.58147556,0.02058516,0.028412333,0.009469293,0.58147556,0.10708726,0.008344673,0.24462573
+1115,MATT,Part Two,10,Dialogue,BO,"Well. If it helps with any other confusion, call me the Breaker. Well, if you see the rest of the show, perhaps you'll see why I got my name.",4,neutral,0.95989394,0.010053255,0.01050606,0.0055644577,0.0025861238,0.95989394,0.005042165,0.0063539166
+1116,LAURA,Part Two,10,Dialogue,JESTER,"Are you in the show, too? ",4,neutral,0.71773887,0.019712523,0.0151706645,0.03311724,0.015819838,0.71773887,0.011414223,0.18702662
+1118,MATT,Part Two,10,Dialogue,BO,I am. Towards the end.,5,sadness,0.72478217,0.013152385,0.037215237,0.054266658,0.025399378,0.13479751,0.72478217,0.010386649
+1119,TRAVIS,Part Two,10,Dialogue,FJORD,Now I want to see the show. ,4,neutral,0.32252747,0.24385409,0.07988441,0.023910636,0.22628695,0.32252747,0.100036226,0.003500217
+1120,MATT,Part Two,10,Dialogue,BO,Well then. May I? ,4,neutral,0.723971,0.04238742,0.067805074,0.09982725,0.010048256,0.723971,0.01224534,0.04371561
+1122,MATT,Part Two,10,Dialogue,BO,"Besides, if you're going to enter, we've got to get through the rest of this riff-raff. Do you wish to join in? ",4,neutral,0.8771879,0.018705888,0.04131659,0.037512504,0.0043491074,0.8771879,0.015918326,0.005009683
+1125,ASHLEY,Part Two,10,Dialogue,YASHA,I promise you I will give it back. ,4,neutral,0.6556511,0.1607357,0.053241897,0.05365137,0.05033551,0.6556511,0.023753539,0.002630924
+1126,LIAM,Part Two,10,Dialogue,CALEB,"Yes, here you go. ",4,neutral,0.82561445,0.02889119,0.019780468,0.025961587,0.08835018,0.82561445,0.0029867492,0.008415308
+1127,ASHLEY,Part Two,10,Dialogue,YASHA,I promise you I will give you all of your weapons back. ,4,neutral,0.7207848,0.12678446,0.04526619,0.042030066,0.046151586,0.7207848,0.01623048,0.002752454
+1128,LAURA,Part Two,10,Dialogue,JESTER,"Pinky-swear me, Yasha. ",1,disgust,0.40466204,0.043701626,0.40466204,0.020854628,0.12858264,0.38173795,0.011707549,0.008753529
+1129,ASHLEY,Part Two,10,Dialogue,YASHA,Ugh. I don't like-- ,1,disgust,0.8141901,0.02282689,0.8141901,0.053747114,0.0016114096,0.029790519,0.0750352,0.002798749
+1130,LAURA,Part Two,10,Dialogue,JESTER,Yeah! Now we're best friends. Here's my sickle. ,3,joy,0.37772685,0.13565555,0.059503622,0.015760964,0.37772685,0.3063727,0.010215089,0.09476522
+1131,MARISHA,Part Two,10,Dialogue,BEAU,"I have a staff, but I also use it as a walking stick, so I like to keep it on me. ",4,neutral,0.66689306,0.03988175,0.18309663,0.042988714,0.03773434,0.66689306,0.027433425,0.0019720222
+1132,TALIESIN,Part Two,10,Dialogue,MOLLY,Can you not walk around without it or something? ,0,anger,0.30320284,0.30320284,0.17694978,0.26666936,0.001935021,0.1432206,0.016247204,0.091775164
+1133,LAURA,Part Two,10,Dialogue,JESTER,She has a really bad limp. ,5,sadness,0.35309163,0.015526552,0.222327,0.1692883,0.004744993,0.20770247,0.35309163,0.027319055
+1134,MARISHA,Part Two,10,Dialogue,BEAU,"Sometimes I get a little twinge, a little disc issue. ",4,neutral,0.29259303,0.09053739,0.20599331,0.18613058,0.0049884,0.29259303,0.15559733,0.06415998
+1135,TALIESIN,Part Two,10,Dialogue,MOLLY,Can you hand me your staff so I can watch this? I want to see this limp of yours. ,2,fear,0.505373,0.15386103,0.14117166,0.505373,0.0018550084,0.13566554,0.048176598,0.01389722
+1136,TALIESIN,Part Two,10,Dialogue,MOLLY,Purely for my own entertainment. ,3,joy,0.46775538,0.29932398,0.08331226,0.056273647,0.46775538,0.053242203,0.038392864,0.001699603
+1137,MARISHA,Part Two,10,Dialogue,BEAU,"Are you patronizing me, Mollymauk? ",0,anger,0.4778603,0.4778603,0.22427194,0.14298467,0.0045215255,0.06490044,0.029542051,0.05591909
+1138,TALIESIN,Part Two,10,Dialogue,MOLLY,"No, I'm hoping that you're going to patronize us. ",4,neutral,0.80697477,0.030709429,0.075282305,0.02161152,0.051621165,0.80697477,0.009286886,0.0045139194
+1139,TALIESIN,Part Two,10,Dialogue,MOLLY,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1139,TALIESIN,Part Two,10,Dialogue,MOLLY,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1139,TALIESIN,Part Two,10,Dialogue,MOLLY,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1139,TALIESIN,Part Two,10,Dialogue,MOLLY,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1139,TALIESIN,Part Two,10,Dialogue,MOLLY,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1139,TALIESIN,Part Two,10,Dialogue,MOLLY,(laughter) ,4,neutral,0.57814527,0.08658676,0.19109651,0.034801535,0.0815255,0.57814527,0.024517478,0.0033269166
+1139,TALIESIN,Part Two,10,Dialogue,MOLLY,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1139,TALIESIN,Part Two,10,Dialogue,MOLLY,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1140,MARISHA,Part Two,10,Dialogue,BEAU,Can I keep my stick? (laughter) ,2,fear,0.29611975,0.23983675,0.10408101,0.29611975,0.026829991,0.27054486,0.05980661,0.002781059
+1141,ASHLEY,Part Two,10,Dialogue,YASHA,"How about this? I'll take it, and I can just carry you to your seat. ",4,neutral,0.8602337,0.054199122,0.04246642,0.02702996,0.0061260606,0.8602337,0.005170249,0.0047744713
+1142,MARISHA,Part Two,10,Dialogue,BEAU,Deal. ,4,neutral,0.49776965,0.12237037,0.10806519,0.20782433,0.012276659,0.49776965,0.0467335,0.004960243
+1143,LAURA,Part Two,10,Dialogue,JESTER,How are you carrying all of these weapons? ,4,neutral,0.57287794,0.08241625,0.037222184,0.13883927,0.0022089025,0.57287794,0.010351131,0.1560843
+1144,ASHLEY,Part Two,10,Dialogue,YASHA,Because I'm really fucking strong. ,4,neutral,0.31055647,0.13213246,0.24854577,0.14702897,0.13322124,0.31055647,0.015772175,0.012742939
+1151,ASHLEY,Part Two,10,Dialogue,YASHA,"I just thought your chest looked rather square, so I wanted to see what was happening. ",4,neutral,0.6859188,0.032885637,0.09634438,0.052682273,0.009310863,0.6859188,0.007917672,0.11494036
+1152,LIAM,Part Two,10,Dialogue,CALEB,I'm practically concave. ,4,neutral,0.44743463,0.054280695,0.27339372,0.025472911,0.17978996,0.44743463,0.016065372,0.0035627675
+1172,ASHLEY,Part Two,10,Dialogue,YASHA,"No, no, no. Little girl. ",2,fear,0.3587576,0.051399007,0.31035504,0.3587576,0.005486166,0.2272879,0.038882036,0.007832241
+1173,SAM,Part Two,10,Dialogue,NOTT,I'm just a little girl. ,4,neutral,0.8704108,0.014260743,0.028483039,0.05339305,0.0121369,0.8704108,0.011049264,0.010266161
+1174,ASHLEY,Part Two,10,Dialogue,YASHA,Give me your other weapon. ,4,neutral,0.5490889,0.14295098,0.058564357,0.21419862,0.008677178,0.5490889,0.022581585,0.003938409
+1175,SAM,Part Two,10,Dialogue,NOTT,"This is a toy for little children. All right, here. I'm sorry. ",1,disgust,0.36757934,0.038880695,0.36757934,0.043070845,0.010213745,0.29220647,0.24122882,0.0068201376
+1176,LAURA,Part Two,10,Dialogue,JESTER,Are you keeping track of what goes with what person? Because it's a lot. ,4,neutral,0.7528623,0.050343204,0.09405679,0.013357392,0.002604175,0.7528623,0.007067344,0.079708874
+1177,TALIESIN,Part Two,10,Dialogue,MOLLY,She's very good at this. ,4,neutral,0.9013706,0.012651199,0.0328284,0.012113382,0.027190886,0.9013706,0.0072750584,0.006570447
+1178,ASHLEY,Part Two,10,Dialogue,YASHA,I'm very good. ,3,joy,0.90504587,0.016729267,0.014066749,0.02551379,0.90504587,0.02785101,0.009429541,0.0013638056
+1180,LIAM,Part Two,10,Dialogue,CALEB,That is two strikes against you. I think we should really just sort of enjoy the show tonight. ,4,neutral,0.48137906,0.016619299,0.033803657,0.0029910197,0.44238958,0.48137906,0.02006902,0.0027484342
+1181,SAM,Part Two,10,Dialogue,NOTT,All right. But what if someone attacks us? ,2,fear,0.63666826,0.31865656,0.019768465,0.63666826,0.0013435683,0.014835539,0.006691621,0.00203594
+1182,LIAM,Part Two,10,Dialogue,CALEB,"Well, I'll handle that for you, okay? ",4,neutral,0.6612557,0.14420901,0.109668605,0.043018118,0.01907899,0.6612557,0.021375509,0.0013940393
+1183,SAM,Part Two,10,Dialogue,NOTT,All right. ,4,neutral,0.56556594,0.2355384,0.12634033,0.027116578,0.024512667,0.56556594,0.018955993,0.0019701861
+1183,SAM,Part Two,10,Dialogue,NOTT,All right. ,4,neutral,0.56556594,0.2355384,0.12634033,0.027116578,0.024512667,0.56556594,0.018955993,0.0019701861
+1183,SAM,Part Two,10,Dialogue,NOTT,All right. ,4,neutral,0.56556594,0.23553833,0.12634036,0.02711658,0.02451267,0.56556594,0.018955993,0.0019701868
+1184,MARISHA,Part Two,10,Dialogue,BEAU,"Also, little girls don't tend to tell people they're little girls. ",4,neutral,0.8287899,0.022330672,0.11244335,0.015295152,0.0015421124,0.8287899,0.011748691,0.007850096
+1185,SAM,Part Two,10,Dialogue,NOTT,This is my first time. ,2,fear,0.6781325,0.012702234,0.012826493,0.6781325,0.17305005,0.06658368,0.0035118645,0.053193104
+1186,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1186,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1186,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1186,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1186,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1186,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.57814527,0.08658676,0.19109651,0.034801535,0.0815255,0.57814527,0.024517478,0.0033269166
+1186,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1186,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1187,LIAM,Part Two,10,Dialogue,CALEB,When someone is a goblin in the middle of a town where people hate goblins-- ,1,disgust,0.95152116,0.038033005,0.95152116,0.0049310657,0.00048440477,0.002804574,0.0011933087,0.0010324883
+1188,LAURA,Part Two,10,Dialogue,JESTER,Stop saying the word 'goblin'. People are going to hear you. ,4,neutral,0.3969069,0.3505044,0.16618201,0.050880685,0.014303068,0.3969069,0.013907177,0.007315772
+1189,SAM,Part Two,10,Dialogue,NOTT,"I mean, she's kind of right. ",4,neutral,0.5883649,0.0666297,0.30060858,0.007606736,0.028413668,0.5883649,0.006590449,0.001785915
+1190,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1190,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1190,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1190,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1190,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1190,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.57814527,0.08658676,0.19109651,0.034801535,0.0815255,0.57814527,0.024517478,0.0033269166
+1190,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1190,SAM,Part Two,10,Dialogue,NOTT,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1195,ASHLEY,Part Two,10,Dialogue,YASHA,"Wait, I didn't get your weapon. ",4,neutral,0.5721245,0.089351974,0.09391786,0.1722785,0.0025468837,0.5721245,0.053513635,0.016266687
+1196,TRAVIS,Part Two,10,Dialogue,FJORD,Hah. ,1,disgust,0.63532776,0.03763562,0.63532776,0.028575718,0.014615432,0.25701028,0.022695642,0.0041394685
+1197,ASHLEY,Part Two,10,Dialogue,YASHA,"Do you want to stare at me all day, or do you want to give me the weapon so you can go watch the show? ",0,anger,0.525157,0.525157,0.112572715,0.2574057,0.0033003814,0.08160063,0.013064156,0.0068994975
+1198,TRAVIS,Part Two,10,Dialogue,FJORD,That's an interesting choice. ,4,neutral,0.6229509,0.015876032,0.03749054,0.04502017,0.1562344,0.6229509,0.004924213,0.11750366
+1199,ASHLEY,Part Two,10,Dialogue,YASHA,It's not really a choice. ,1,disgust,0.39483017,0.09731509,0.39483017,0.08424381,0.0019341038,0.36677405,0.051533453,0.0033692562
+1200,TRAVIS,Part Two,10,Dialogue,FJORD,Sure. ,4,neutral,0.57516843,0.05401712,0.20383754,0.12412153,0.011519334,0.57516843,0.02742583,0.003910227
+1209,ASHLEY,Part Two,10,Dialogue,YASHA,This is nice. ,3,joy,0.8448796,0.0063533816,0.031568907,0.003389823,0.8448796,0.10481615,0.0053305128,0.0036614798
+1210,TALIESIN,Part Two,10,Dialogue,MOLLY,Very nice. ,3,joy,0.7724743,0.005507216,0.023719847,0.0059504136,0.7724743,0.17852625,0.00703965,0.006782291
+1211,ASHLEY,Part Two,10,Dialogue,YASHA,I like it. ,3,joy,0.9334864,0.015448996,0.023856523,0.003286451,0.9334864,0.017928526,0.0046460195,0.0013470665
+1212,SAM,Part Two,10,Dialogue,NOTT,It's a falchion! ,6,surprise,0.37225705,0.09695034,0.10536263,0.074199155,0.024179487,0.32272542,0.0043259375,0.37225705
+1213,LAURA,Part Two,10,Dialogue,JESTER,You're going to hang out with us the whole night? ,4,neutral,0.45208982,0.07672848,0.06694538,0.12833332,0.024872962,0.45208982,0.011170511,0.23985943
+1214,ASHLEY,Part Two,10,Dialogue,YASHA,I'll hang out beside you so you can watch. ,4,neutral,0.825427,0.020374283,0.041425403,0.06121962,0.033608425,0.825427,0.014944671,0.003000576
+1222,ASHLEY,Part Two,10,Dialogue,YASHA,"All right, well. If you want to follow me, I'll take you to your seats and I'll stand beside you the whole time. ",4,neutral,0.74957937,0.053670302,0.045071203,0.10810075,0.029775195,0.74957937,0.011698963,0.002104281
+1223,TRAVIS,Part Two,10,Dialogue,FJORD,Fucking lead the way. ,0,anger,0.9126678,0.9126678,0.0612839,0.010631192,0.0011253585,0.0076415516,0.005682758,0.0009675017
+1224,TALIESIN,Part Two,10,Dialogue,MOLLY,"Hey, Jester. Before you go. Tiefling to tiefling, and thank you for keeping this rabble in check. ",4,neutral,0.7351901,0.09221686,0.056829672,0.04335511,0.046956092,0.7351901,0.018471776,0.00698041
+1225,LAURA,Part Two,10,Dialogue,JESTER,"Of course, you know, they're a lot to handle. ",4,neutral,0.88004744,0.032895822,0.053725407,0.017038602,0.004562895,0.88004744,0.0087130545,0.0030168376
+1226,TALIESIN,Part Two,10,Dialogue,MOLLY,One on the house. ,2,fear,0.44797155,0.12532295,0.35153046,0.44797155,0.0033504937,0.042213917,0.02228004,0.007330545
+1228,LAURA,Part Two,10,Dialogue,JESTER,Yes? What are you telling me? ,0,anger,0.49664274,0.49664274,0.10153997,0.124433324,0.005326133,0.030161416,0.017014595,0.22488178
+1230,TALIESIN,Part Two,10,Dialogue,MOLLY,Does this mean anything to you? ,0,anger,0.5289722,0.5289722,0.2964007,0.063858844,0.0015966981,0.05486772,0.008696806,0.045607045
+1231,LAURA,Part Two,10,Dialogue,JESTER,"Oh, yes. ",4,neutral,0.4837582,0.037207928,0.19172698,0.24085973,0.008224918,0.4837582,0.03417742,0.0040447554
+1232,TALIESIN,Part Two,10,Dialogue,MOLLY,"Well, think about it. ",4,neutral,0.43964145,0.20820127,0.26765954,0.05718222,0.00967025,0.43964145,0.013406264,0.004239077
+1234,ASHLEY,Part Two,10,Dialogue,YASHA,Beau. ,4,neutral,0.61972964,0.03754967,0.18953481,0.041866146,0.013047593,0.61972964,0.09114091,0.0071311477
+1236,ASHLEY,Part Two,10,Dialogue,YASHA,Little one. ,4,neutral,0.50542724,0.030631738,0.09128012,0.06881125,0.021067066,0.50542724,0.26571327,0.017069364
+1238,ASHLEY,Part Two,10,Dialogue,YASHA,Since you can't walk. ,2,fear,0.31437087,0.093094595,0.121954374,0.31437087,0.0068521216,0.25051537,0.20388643,0.009326193
+1239,MARISHA,Part Two,10,Dialogue,BEAU,Oh. ,4,neutral,0.5596198,0.02398793,0.098023415,0.24958827,0.004125539,0.5596198,0.037132986,0.02752202
+1240,MARISHA,Part Two,10,Dialogue,BEAU,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1240,MARISHA,Part Two,10,Dialogue,BEAU,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1240,MARISHA,Part Two,10,Dialogue,BEAU,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1240,MARISHA,Part Two,10,Dialogue,BEAU,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1240,MARISHA,Part Two,10,Dialogue,BEAU,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1240,MARISHA,Part Two,10,Dialogue,BEAU,(laughter) ,4,neutral,0.57814527,0.08658676,0.19109651,0.034801535,0.0815255,0.57814527,0.024517478,0.0033269166
+1240,MARISHA,Part Two,10,Dialogue,BEAU,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1240,MARISHA,Part Two,10,Dialogue,BEAU,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1243,TALIESIN,Part Two,10,Dialogue,MOLLY,Such grace! Such form! Such dignity! ,4,neutral,0.442054,0.07337385,0.19004531,0.010557099,0.25959042,0.442054,0.007681405,0.016697925
+1246,LAURA,Part Two,10,Dialogue,JESTER,"If I skip around, will I be part of the show and then I don't have to pay? ",4,neutral,0.56105256,0.109958515,0.11671038,0.15060039,0.0028638935,0.56105256,0.050546348,0.008267933
+1247,TALIESIN,Part Two,10,Dialogue,MOLLY,"Weirdly, being part of the show means you strangely pay more. I'm not entirely sure how that works. ",1,disgust,0.47966018,0.024396928,0.47966018,0.020781469,0.0039875763,0.09568027,0.0044428287,0.37105083
+1248,LIAM,Part Two,10,Dialogue,CALEB,"Nott, do you have five copper? ",4,neutral,0.51743674,0.033723723,0.05119566,0.025531925,0.002406194,0.51743674,0.007324105,0.36238167
+1249,SAM,Part Two,10,Dialogue,NOTT,"For you, Caleb, I do. ",4,neutral,0.7599132,0.096553825,0.075087145,0.04261511,0.009206679,0.7599132,0.014420676,0.0022033807
+1250,LIAM,Part Two,10,Dialogue,CALEB,"No, I'm not asking. I was going to help you, but if you have it, you're good. ",4,neutral,0.7970089,0.04532083,0.08815713,0.04496708,0.0112857055,0.7970089,0.010939531,0.0023209127
+1251,SAM,Part Two,10,Dialogue,NOTT,"No, you've been spotting me all day, I'll take care of both of us. ",4,neutral,0.85769254,0.036765568,0.031105751,0.041996215,0.011497795,0.85769254,0.019040575,0.0019016775
+1252,ASHLEY,Part Two,10,Dialogue,YASHA,Mollymauk. That Jester's adorable. ,4,neutral,0.69389445,0.0067424946,0.029610178,0.0043697692,0.22991866,0.69389445,0.013235367,0.02222908
+1253,TALIESIN,Part Two,10,Dialogue,MOLLY,I know. Highly entertained. ,3,joy,0.89740336,0.0066855852,0.026991708,0.0029587294,0.89740336,0.056561604,0.005888822,0.003510071
+1254,ASHLEY,Part Two,10,Dialogue,YASHA,I like her. ,3,joy,0.8981306,0.030166902,0.036000066,0.005196811,0.8981306,0.020610712,0.008601933,0.0012929296
+1255,TALIESIN,Part Two,10,Dialogue,MOLLY,I do too. ,4,neutral,0.783385,0.053229716,0.07089538,0.06280656,0.0043170224,0.783385,0.021623027,0.003743373
+1258,ASHLEY,Part Two,11,Dialogue,YASHA,Did you guys want to sit in the front row? ,4,neutral,0.60907733,0.043388132,0.07023056,0.050479747,0.00873877,0.60907733,0.009168452,0.20891699
+1259,SAM,Part Two,11,Dialogue,NOTT,That's what we were told is the best seat in the house. ,4,neutral,0.88754344,0.011264244,0.009577564,0.0038138311,0.027468324,0.88754344,0.0020933116,0.058239236
+1260,ASHLEY,Part Two,11,Dialogue,YASHA,We want to sit in the front row. ,4,neutral,0.8164074,0.029642995,0.102676995,0.020245217,0.014899974,0.8164074,0.011016442,0.0051109623
+1262,ASHLEY,Part Two,11,Dialogue,YASHA,Front and center? Or do you want to be on the sides? ,4,neutral,0.6379784,0.09326717,0.07443708,0.14761077,0.005418489,0.6379784,0.010929645,0.030358505
+1263,LAURA,Part Two,11,Dialogue,JESTER,Front and center! ,4,neutral,0.39745593,0.24788101,0.034485552,0.2413209,0.033949196,0.39745593,0.008743363,0.03616404
+1270,MARISHA,Part Two,11,Dialogue,BEAU,"Hey, Yasha, 'cause I was totally on your shoulder, heard you talking about my friend, Jester. ",1,disgust,0.2712037,0.2630932,0.2712037,0.06179817,0.08251099,0.206795,0.02533993,0.089259
+1271,ASHLEY,Part Two,11,Dialogue,YASHA,"Ah, shit. ",1,disgust,0.8688634,0.1034511,0.8688634,0.010246841,0.0010609829,0.0053184484,0.0065894322,0.0044698776
+1272,MARISHA,Part Two,11,Dialogue,BEAU,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+1272,MARISHA,Part Two,11,Dialogue,BEAU,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+1272,MARISHA,Part Two,11,Dialogue,BEAU,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+1272,MARISHA,Part Two,11,Dialogue,BEAU,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+1272,MARISHA,Part Two,11,Dialogue,BEAU,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+1273,ASHLEY,Part Two,11,Dialogue,YASHA,I didn't mean anything by it. I just-- ,4,neutral,0.32609838,0.20200251,0.29197836,0.15093905,0.0060322788,0.32609838,0.011500904,0.011448457
+1274,MARISHA,Part Two,11,Dialogue,BEAU,"No, dude. No, she's never mentioned a significant other, so, I mean. ",1,disgust,0.6471853,0.0833368,0.6471853,0.01661615,0.002297676,0.23680985,0.008410891,0.0053435066
+1275,ASHLEY,Part Two,11,Dialogue,YASHA,"Oh, I'm not looking for anything, I just-- ",4,neutral,0.662127,0.05117343,0.12730323,0.1280189,0.0052731503,0.662127,0.014990802,0.011113479
+1276,MARISHA,Part Two,11,Dialogue,BEAU,Will you hold me through the show? (laughter) ,4,neutral,0.383321,0.18247776,0.09714724,0.27310163,0.036977474,0.383321,0.019088402,0.007886513
+1277,MARISHA,Part Two,11,Dialogue,BEAU,"Like, cradle me? ",2,fear,0.50527984,0.07026743,0.08321601,0.50527984,0.008494124,0.30904943,0.011594894,0.012098314
+1278,ASHLEY,Part Two,11,Dialogue,YASHA,"That's an extra charge. We do do that, though. ",4,neutral,0.8834279,0.026573561,0.04826632,0.013761193,0.0019864605,0.8834279,0.016831238,0.009153373
+1279,MARISHA,Part Two,11,Dialogue,BEAU,How much? ,6,surprise,0.440314,0.06912417,0.035218906,0.064091995,0.003286528,0.37711656,0.010847823,0.440314
+1279,MARISHA,Part Two,11,Dialogue,BEAU,How much? ,6,surprise,0.440314,0.06912417,0.035218906,0.064091995,0.003286528,0.37711656,0.010847823,0.440314
+1280,ASHLEY,Part Two,11,Dialogue,YASHA,"Well, it's an extra five gold pieces. ",4,neutral,0.9454781,0.008361382,0.011981246,0.0030529452,0.006901718,0.9454781,0.005058988,0.019165676
+1281,MARISHA,Part Two,11,Dialogue,BEAU,Five gold? ,6,surprise,0.6104686,0.041891158,0.031520505,0.028728167,0.005677982,0.27742043,0.0042930967,0.6104686
+1282,ASHLEY,Part Two,11,Dialogue,YASHA,These arms are worth a lot. ,4,neutral,0.6774781,0.033983547,0.04239683,0.0074073393,0.21593894,0.6774781,0.009650653,0.013144635
+1283,TALIESIN,Part Two,11,Dialogue,MOLLY,It's a very swaddling hug. You've never experienced anything like it. ,3,joy,0.4962597,0.006836838,0.057340704,0.03822189,0.4962597,0.28105992,0.010177549,0.110103466
+1284,ASHLEY,Part Two,11,Dialogue,YASHA,"It's the best way to see the show, if that's how you want it. ",4,neutral,0.72466123,0.019039102,0.039742194,0.01029035,0.19609734,0.72466123,0.0057907095,0.004379052
+1285,MARISHA,Part Two,11,Dialogue,BEAU,I'll give you five silver just to have your shrug to sit on so my butt's not on the floor. ,4,neutral,0.7827018,0.036341995,0.14176422,0.013006612,0.004026567,0.7827018,0.014928999,0.0072298227
+1286,ASHLEY,Part Two,11,Dialogue,YASHA,I don't take off my shrug. ,4,neutral,0.3431271,0.28464535,0.23593058,0.08367241,0.016857125,0.3431271,0.03432778,0.0014396372
+1287,MARISHA,Part Two,11,Dialogue,BEAU,"Oh, sorry. ",5,sadness,0.39307693,0.024305565,0.15088935,0.26550734,0.0048889657,0.14339821,0.39307693,0.01793362
+1288,ASHLEY,Part Two,11,Dialogue,YASHA,How about you just keep your money and I'll put you in a chair and I'll just watch over your weapons. ,4,neutral,0.66335577,0.1562009,0.09101621,0.062322564,0.005797615,0.66335577,0.017497707,0.0038092195
+1289,MARISHA,Part Two,11,Dialogue,BEAU,Okay. ,4,neutral,0.40931255,0.22354643,0.20575903,0.1097004,0.01577321,0.40931255,0.034511797,0.0013965417
+1289,MARISHA,Part Two,11,Dialogue,BEAU,Okay. ,4,neutral,0.40931255,0.22354643,0.20575903,0.1097004,0.01577321,0.40931255,0.034511797,0.0013965417
+1289,MARISHA,Part Two,11,Dialogue,BEAU,Okay. ,4,neutral,0.40931255,0.22354643,0.20575903,0.1097004,0.01577321,0.40931255,0.034511797,0.0013965417
+1291,ASHLEY,Part Two,11,Dialogue,YASHA,"On the ground, I mean, because there's no chairs. ",1,disgust,0.80683887,0.04873152,0.80683887,0.02649466,0.0012818772,0.06285006,0.01323015,0.04057287
+1302,MATT,Part Two,11,Dialogue,GUSTAV,"Ladies and gentlemen of Trostenwald, I am Carnival Master Gustav Fletching, and allow me to welcome you to the Fletching and Moondrop's Traveling Carnival of Curiosities. (applause) ",3,joy,0.6245792,0.008230907,0.012043341,0.01568822,0.6245792,0.31813887,0.008596431,0.0127229905
+1303,MATT,Part Two,11,Dialogue,GUSTAV,"I ask you, each and every one of you--",4,neutral,0.73875344,0.124730386,0.026060862,0.042432535,0.013636122,0.73875344,0.01400959,0.040377017
+1305,MATT,Part Two,11,Dialogue,GUSTAV,"grant us your imaginations this eve but a trifle bit of time, and allow us to reveal a realm of laughter, mystery, danger, and beauty. I see you've already met Desmond. ",4,neutral,0.5905112,0.017127616,0.014568905,0.013233607,0.3413257,0.5905112,0.015764832,0.0074681784
+1307,MATT,Part Two,11,Dialogue,GUSTAV,"He'll be part of our story tonight, so keep a wily eye for the shifting fool. But first, I tell you a tale of two sisters of the Fey.",4,neutral,0.89401317,0.0070141046,0.02808333,0.043954037,0.014379831,0.89401317,0.006112505,0.006443041
+1309,MATT,Part Two,11,Dialogue,GUSTAV,Lost without form into the mazes of the underworld. ,2,fear,0.834341,0.016287254,0.03660036,0.834341,0.0013893646,0.04477349,0.04971675,0.016891744
+1310,MATT,Part Two,11,Dialogue,GUSTAV,"There, where the body would break, they found a teacher in a mystical serpent, and the gift they received was the ability to bend with this maze that captured them and slither their way back to the surface to reclaim their place in the world. ",4,neutral,0.7814293,0.014859506,0.104604766,0.060745906,0.008638388,0.7814293,0.006735997,0.022986187
+1311,MATT,Part Two,11,Dialogue,GUSTAV,"May I present to you Mona and Yuli, the Knot Sisters.",3,joy,0.7783125,0.002585424,0.004845079,0.0029347972,0.7783125,0.1626403,0.027399527,0.021282382
+1314,LAURA,Part Two,11,Dialogue,JESTER,"(whispers) It's like the serpent we fought, you guys! ",4,neutral,0.35230407,0.086986296,0.23330982,0.2311023,0.014755154,0.35230407,0.009307758,0.07223457
+1315,SAM,Part Two,11,Dialogue,NOTT,"I was expecting more Ringling Brothers, actually. ",6,surprise,0.67541975,0.013399871,0.005590413,0.04809871,0.017965604,0.23490515,0.0046205004,0.67541975
+1321,MATT,Part Two,11,Dialogue,GUSTAV,"In a flash, beyond the ash, the gods all went and gone. The darkness came to grasp, reclaim, and suffocate the dawn.",4,neutral,0.45150736,0.03591595,0.045651145,0.34989122,0.0064644925,0.45150736,0.05055179,0.060018055
+1323,MATT,Part Two,11,Dialogue,GUSTAV,"But from that night, a burning light doth keep back shadows' bane. The strength to fight will set alight the morning sun again. ",0,anger,0.7857815,0.7857815,0.04726771,0.059248473,0.004869349,0.04232132,0.059426356,0.0010852626
+1324,MATT,Part Two,11,Dialogue,GUSTAV,"Ladies and gentlemen, I present to you Ornna the fire fairy.",4,neutral,0.48765704,0.00685344,0.009508419,0.0033456949,0.46809345,0.48765704,0.0071313605,0.017410563
+1328,LAURA,Part Two,11,Dialogue,JESTER,This is really different than most carnivals that I've gone to. ,4,neutral,0.80371475,0.012099808,0.03868037,0.03356067,0.011174139,0.80371475,0.0034218922,0.09734837
+1329,SAM,Part Two,11,Dialogue,NOTT,"It's very artistic, yeah. ",3,joy,0.5920774,0.016469229,0.13504393,0.015473834,0.5920774,0.22005819,0.014790598,0.0060868966
+1331,MATT,Part Two,11,Dialogue,GUSTAV,"Even as the sun would rise anew, bellowing roars will quake the lands of Xhorhas and beyond. Terrible beasts, now freed from their dark masters, scattered into our world. (roars)  ",2,fear,0.9901246,0.0029862176,0.0023417396,0.9901246,0.0006686144,0.0009693819,0.002214473,0.00069508865
+1339,MATT,Part Two,11,Dialogue,GUSTAV,The devil-toad crawls hungrily--,0,anger,0.38921002,0.38921002,0.20582135,0.27353668,0.015950907,0.09335608,0.017466417,0.0046585365
+1341,MATT,Part Two,11,Dialogue,GUSTAV,"into the land of the free folk, lording over nightmares as they say, and what truth lies behind the eyes of this beast? What would be learned when the guiding heart of innocence pierces the hateful soul and brings it to see beauty for the first time? I present to you the vivid voice of Toya.",0,anger,0.52807605,0.52807605,0.09546247,0.15945438,0.011614733,0.1947008,0.005942057,0.0047495873
+1348,MATT,Part Two,11,Dialogue,BO,Everyone! Leave the tent now! Kylre-- ,0,anger,0.45420095,0.45420095,0.04402216,0.32390708,0.033443287,0.098013036,0.018657977,0.027755544
+1350,MATT,Part Two,11,Dialogue,BO,get her to safety.,4,neutral,0.8369872,0.0131376805,0.01002408,0.08203521,0.010111946,0.8369872,0.023569258,0.024134628
+1354,TRAVIS,Part Two,11,Dialogue,FJORD,Yasha? We're going to need those weapons back. ,4,neutral,0.7196894,0.06179271,0.111989416,0.027543431,0.0067282533,0.7196894,0.008613733,0.06364301
+1356,MARISHA,Part Two,11,Dialogue,BEAU,"Man, I thought it was kind of lame at first, but this is awesome! ",3,joy,0.71228784,0.040635716,0.114177495,0.011278326,0.71228784,0.09033108,0.0058734342,0.025416069
+1357,TALIESIN,Part Two,11,Dialogue,MOLLY,Everyone get out right now. ,4,neutral,0.8001676,0.047096826,0.038236648,0.089469,0.0064049526,0.8001676,0.011796728,0.00682819
+1358,MARISHA,Part Two,11,Dialogue,BEAU,This isn't part of the show? ,4,neutral,0.60973537,0.06522299,0.16081403,0.03473466,0.0013399017,0.60973537,0.009870418,0.11828262
+1359,TRAVIS,Part Two,11,Dialogue,FJORD,Not part of the show. ,1,disgust,0.5461881,0.039202254,0.5461881,0.03133484,0.0032171658,0.2946675,0.08186877,0.0035214024
+1360,SAM,Part Two,11,Dialogue,NOTT,It's too artsy. ,4,neutral,0.51818556,0.015785608,0.17729968,0.030797737,0.20228069,0.51818556,0.034668826,0.02098192
+1475,MARISHA,Part Two,12,Dialogue,BEAU,"Guys, no, it's part of the show. ",4,neutral,0.4874815,0.07200818,0.38435924,0.03422389,0.0048058024,0.4874815,0.011406015,0.0057153865
+1476,MARISHA,Part Two,12,Dialogue,BEAU,Molly said that people die. She was just a claque. Okay. ,4,neutral,0.57224816,0.076699235,0.30220565,0.01998812,0.003415129,0.57224816,0.019770578,0.0056731906
+1510,TALIESIN,Part Two,12,Dialogue,MOLLY,Open the tent wide! ,2,fear,0.50189817,0.29639703,0.014561831,0.50189817,0.022734744,0.09376442,0.0073397346,0.063304
+1539,LAURA,Part Two,12,Dialogue,JESTER,"Dude, are you here, because this is like the coolest shit we've ever seen! ",1,disgust,0.3377965,0.17606033,0.3377965,0.017824069,0.21642844,0.17324264,0.005872277,0.07277576
+1560,MARISHA,Part Two,12,Dialogue,BEAU,"I'm not a claque, this show's bullshit. ",1,disgust,0.57898265,0.38162115,0.57898265,0.006816253,0.0009978983,0.022063438,0.008100998,0.0014176116
+1596,ASHLEY,Part Two,12,Dialogue,YASHA,Get the fuck out of my tent! (laughter) ,0,anger,0.79364896,0.79364896,0.044117022,0.13870206,0.0072102384,0.009244751,0.0051086466,0.0019683864
+1619,LAURA,Part Two,12,Dialogue,JESTER,"Hi, Caleb. ",4,neutral,0.88053185,0.01060671,0.007675381,0.011552136,0.056281738,0.88053185,0.008771894,0.024580307
+1657,TALIESIN,Part Two,12,Dialogue,MOLLY,"Someone, anyone? Yep. ",4,neutral,0.64005303,0.05386801,0.13441968,0.0486919,0.009225132,0.64005303,0.0051820707,0.1085602
+1661,MARISHA,Part Two,12,Dialogue,BEAU,I thought you said you didn't let in the sick! ,0,anger,0.38938904,0.38938904,0.2343672,0.06192793,0.006444583,0.08422308,0.01572985,0.20791836
+1662,TALIESIN,Part Two,12,Dialogue,MOLLY,Just kill it! ,0,anger,0.89061207,0.89061207,0.025652967,0.06856106,0.0012719397,0.008606394,0.0041595846,0.0011359955
+1672,MARISHA,Part Two,12,Dialogue,BEAU,"Oh, come on. ",0,anger,0.34662178,0.34662178,0.19412601,0.3273238,0.008056142,0.08033587,0.030888325,0.012648014
+1676,MARISHA,Part Two,12,Dialogue,BEAU,"You were so pretty, too. ",4,neutral,0.45245823,0.010779559,0.28374204,0.020177037,0.18353157,0.45245823,0.012602966,0.03670859
+1690,MATT,Part Two,13,Dialogue,FLYNN,"You, you! Stay where you are! ",0,anger,0.7222483,0.7222483,0.023704499,0.18222828,0.009738253,0.04723418,0.0075771646,0.007269346
+1692,MATT,Part Two,13,Dialogue,GUSTAV,"Dear god, what's happened here? ",6,surprise,0.7780496,0.06919511,0.05964785,0.055452958,0.0024946367,0.013744965,0.021414865,0.7780496
+1694,MATT,Part Two,13,Dialogue,BO,"Sir, I don't know how he got in here.",6,surprise,0.76614535,0.014475122,0.023987897,0.011413597,0.002691649,0.16212435,0.019162042,0.76614535
+1696,MATT,Part Two,13,Dialogue,GUSTAV,What happened?,6,surprise,0.842855,0.051339332,0.011007861,0.02286926,0.0028841062,0.052311003,0.016733527,0.842855
+1697,TALIESIN,Part Two,13,Dialogue,MOLLY,One of them turned. I don't know what happened. ,6,surprise,0.68041843,0.034038715,0.042823423,0.065354064,0.0026210246,0.14198707,0.032757286,0.68041843
+1698,LAURA,Part Two,13,Dialogue,JESTER,There was a sick guy! There was an old sick guy and he turned into a zombie! ,1,disgust,0.85003424,0.03992808,0.85003424,0.027609093,0.0020420998,0.04521354,0.0058780066,0.029294988
+1700,MARISHA,Part Two,13,Dialogue,BEAU,"Oh, thank you, man. I'm really down. ",4,neutral,0.34798574,0.04280817,0.09541772,0.0679431,0.109058894,0.34798574,0.31201988,0.02476656
+1701,LAURA,Part Two,13,Dialogue,JESTER,Are you sick too? Did you get hurt? Hold on two seconds. I'm going to cure her and then I'll cure you too. ,2,fear,0.3395018,0.18834083,0.15404157,0.3395018,0.0038171955,0.20567398,0.049624175,0.05900047
+1702,TRAVIS,Part Two,13,Dialogue,FJORD,"Yasha, have you ever seen anything like this happen before? ",4,neutral,0.34031168,0.07093058,0.099347256,0.32119417,0.0054073427,0.34031168,0.006646396,0.15616259
+1703,ASHLEY,Part Two,13,Dialogue,YASHA,No. Never. ,4,neutral,0.5392185,0.06050565,0.0709664,0.2780749,0.0044534677,0.5392185,0.04246954,0.004311536
+1709,MATT,Part Two,13,Dialogue,FLYNN,Stay where you are. Don't go anywhere. ,2,fear,0.628354,0.17365332,0.02417581,0.628354,0.0047285403,0.13870113,0.027977096,0.0024101252
+1710,TALIESIN,Part Two,13,Dialogue,MOLLY,"Oh, wherever will I go. ",2,fear,0.45356047,0.03857548,0.03943781,0.45356047,0.0049313903,0.38918093,0.048704375,0.025609609
+1712,MATT,Part Two,13,Dialogue,FLYNN,"Sivelmen, find someone. Bring the rest of the guard. Please! ",2,fear,0.6574814,0.11145239,0.05009328,0.6574814,0.0039245724,0.14053816,0.028485466,0.0080247475
+1713,MATT,Part Two,13,Dialogue,SIVELMEN,"Right now, sir. ",4,neutral,0.64857864,0.049834456,0.1399476,0.12313886,0.006598516,0.64857864,0.028778128,0.0031237938
+1719,MATT,Part Two,13,Dialogue,FLYNN,Don't move.,2,fear,0.6378008,0.16461758,0.017532457,0.6378008,0.00533896,0.12416887,0.043712072,0.006829207
+1720,LAURA,Part Two,13,Dialogue,JESTER,Which one? ,4,neutral,0.63524,0.05843066,0.04869825,0.17303467,0.007150176,0.63524,0.008314571,0.06913164
+1721,MATT,Part Two,13,Dialogue,FLYNN,Both? Uh.,6,surprise,0.6244297,0.013228703,0.030622879,0.0049011633,0.0061565414,0.31268492,0.007976031,0.6244297
+1725,LAURA,Part Two,13,Dialogue,JESTER,Look at all the stuff that that one's finding over there! (laughter) ,1,disgust,0.3682037,0.33477348,0.3682037,0.029520515,0.07309563,0.11887172,0.0059466087,0.06958836
+1730,MATT,Part Two,13,Dialogue,FLYNN,"What, over there? ",6,surprise,0.7813619,0.06381334,0.05695739,0.040799342,0.0035913386,0.04386209,0.009614614,0.7813619
+1734,MATT,Part Two,13,Dialogue,GUSTAV,I'm terribly sorry. I-- this has never happened. I don't know what happened. What happened?! ,2,fear,0.32988217,0.044279635,0.04954794,0.32988217,0.0029464462,0.044005316,0.25780058,0.27153793
+1735,TALIESIN,Part Two,13,Dialogue,MOLLY,We've never seen anything like it before. He just-- he gripped his heart and fell over and turned into that thing. ,4,neutral,0.30047205,0.06368316,0.24044411,0.12944798,0.006220488,0.30047205,0.012999629,0.24673256
+1736,ASHLEY,Part Two,13,Dialogue,YASHA,It was when Toya started singing. ,2,fear,0.42998138,0.043602597,0.13076314,0.42998138,0.17736392,0.14922032,0.006935507,0.062133145
+1737,MARISHA,Part Two,13,Dialogue,BEAU,"Yeah, what's with the dwarven girl? Why-- ",4,neutral,0.3056935,0.19740567,0.21260089,0.121089175,0.0039331187,0.3056935,0.017130945,0.14214674
+1738,TALIESIN,Part Two,13,Dialogue,MOLLY,Nothing like this. ,1,disgust,0.62074786,0.12022627,0.62074786,0.14138024,0.0018669578,0.09262553,0.020318588,0.0028346723
+1739,MATT,Part Two,13,Dialogue,GUSTAV,"She's been singing with us for over two years, now.",4,neutral,0.8683427,0.009460418,0.011621825,0.0029827813,0.04716633,0.8683427,0.023986753,0.03643921
+1740,MARISHA,Part Two,13,Dialogue,BEAU,How'd she come to you? She's a pretty young girl. ,6,surprise,0.4251504,0.0680691,0.08610973,0.09928221,0.003195094,0.309128,0.0090654725,0.4251504
+1741,MATT,Part Two,13,Dialogue,GUSTAV,She had no family and she was singing in the street for change. There was an opportunity. ,4,neutral,0.7761449,0.037522703,0.05316322,0.035142258,0.022618875,0.7761449,0.010499736,0.06490821
+1742,MATT,Part Two,13,Dialogue,GUSTAV,We seized it. We gave her a family she didn't have.,4,neutral,0.6095274,0.28713027,0.06382286,0.0071002045,0.004598368,0.6095274,0.018762413,0.009058458
+1743,TRAVIS,Part Two,13,Dialogue,FJORD,Put your hands down. ,2,fear,0.38438192,0.2663951,0.1586953,0.38438192,0.003806974,0.13465467,0.050303515,0.0017624825
+1745,MATT,Part Two,13,Dialogue,FLYNN,"It's fine, just don't move. ",2,fear,0.47017664,0.24959949,0.094613455,0.47017664,0.004548473,0.14681703,0.03221602,0.0020289181
+1754,MATT,Part Two,13,Dialogue,ORNNA,I'm sorry. What has happened here?,5,sadness,0.60310423,0.023456285,0.057991214,0.059955653,0.004134956,0.06469878,0.60310423,0.18665889
+1755,LAURA,Part Two,13,Dialogue,JESTER,"Your little dwarf girl was singing, and she turns people into zombies. ",4,neutral,0.47882706,0.119787544,0.34402257,0.01409041,0.01926617,0.47882706,0.009894959,0.014111254
+1756,TALIESIN,Part Two,13,Dialogue,MOLLY,I feel that that was entirely coincidental. I'm really not sure that the two things were related. Something was wrong with this man. ,6,surprise,0.5542871,0.015222743,0.014334753,0.035190325,0.0032438561,0.37110925,0.0066119833,0.5542871
+1757,MARISHA,Part Two,13,Dialogue,BEAU,"See, it's interesting, because I would say the opposite. I would say it wasn't that coincidental, because-- ",4,neutral,0.5038185,0.021315997,0.060736008,0.018919868,0.017896816,0.5038185,0.003346782,0.37396595
+1758,LIAM,Part Two,13,Dialogue,CALEB,"I would agree, it seemed to happen with this-- ",4,neutral,0.7748793,0.053074796,0.10079183,0.039390795,0.012245582,0.7748793,0.010257675,0.009360042
+1759,TALIESIN,Part Two,13,Dialogue,MOLLY,"We've seen her sing dozens, hundreds of times. Nothing like this has ever happened. I've seen people sit in the front row hundreds of times. Nothing like this has ever happened. ",4,neutral,0.83795834,0.03345162,0.057954095,0.018006906,0.006020959,0.83795834,0.003745507,0.042862587
+1760,LIAM,Part Two,13,Dialogue,CALEB,Have you had the elderly or the sick in these tents before? ,1,disgust,0.37481943,0.030049164,0.37481943,0.19473298,0.0024049515,0.35816327,0.027899459,0.011930828
+1761,MARISHA,Part Two,13,Dialogue,BEAU,"Yeah, you also happen to be very explicit on your page that you don't want the sick, so. ",4,neutral,0.66026103,0.026134843,0.2778371,0.01652889,0.0030042282,0.66026103,0.010146994,0.006086992
+1762,TALIESIN,Part Two,13,Dialogue,MOLLY,Gustav. ,4,neutral,0.3927043,0.09924565,0.2801121,0.17332928,0.010881465,0.3927043,0.036009215,0.007717995
+1764,MATT,Part Two,13,Dialogue,GUSTAV,"It's generally just because we want to promote a space of welcoming cleanliness. When we're working amongst the outskirts of the Empire, we don't want to bring an element that reminds you of death and-- ",4,neutral,0.59767663,0.016711107,0.32026637,0.032686003,0.0075940583,0.59767663,0.02196668,0.0030991917
+1765,SAM,Part Two,13,Dialogue,NOTT,You hate old people so much. ,0,anger,0.6884003,0.6884003,0.24006487,0.016765237,0.0030515506,0.032185756,0.016844645,0.0026877392
+1766,MATT,Part Two,13,Dialogue,GUSTAV,"Well, we're in entertainment. We have to be cautious.",4,neutral,0.66435033,0.010714621,0.027931625,0.2639835,0.007953155,0.66435033,0.016374948,0.008691875
+1768,TALIESIN,Part Two,13,Dialogue,MOLLY,Hold up. I've never seen that one before. He looks really suspicious. ,2,fear,0.62807596,0.020965835,0.06929471,0.62807596,0.0022780139,0.19042107,0.008463012,0.080501415
+1771,LAURA,Part Two,13,Dialogue,JESTER,(gasps) He does look suspicious. ,2,fear,0.7846809,0.014444092,0.04388821,0.7846809,0.0022957362,0.13101184,0.008233307,0.015445932
+1775,MATT,Part Two,13,Dialogue,FLYNN,Don't try that on me. I've been doing this for over ten years. ,2,fear,0.5537955,0.13960612,0.060638774,0.5537955,0.006145236,0.2071191,0.029935516,0.0027596941
+1776,ASHLEY,Part Two,13,Dialogue,YASHA,"Oh wait, look at him! ",2,fear,0.3067679,0.23800983,0.27946454,0.3067679,0.028439283,0.085348636,0.027945157,0.034024596
+1782,LAURA,Part Two,13,Dialogue,JESTER,(coughing) There was some popcorn that I ate earlier. ,1,disgust,0.75836295,0.07865826,0.75836295,0.02118572,0.0057197846,0.08429034,0.04837696,0.0034060394
+1783,TRAVIS,Part Two,13,Dialogue,FJORD,"You should know that whatever happened to that first man when he attacked the woman, she caught whatever he had. ",4,neutral,0.65128493,0.1289337,0.17196612,0.030716801,0.0029689113,0.65128493,0.007962503,0.0061670803
+1784,MATT,Part Two,13,Dialogue,FLYNN,And that is extremely worrying. Nobody touch that body.,2,fear,0.5163614,0.04626796,0.03180753,0.5163614,0.0049040844,0.3352448,0.022199878,0.0432143
+1786,MATT,Part Two,13,Dialogue,FLYNN,Don't you touch that body! Are you sick? ,2,fear,0.7022647,0.15556291,0.09245241,0.7022647,0.0016996011,0.021563595,0.01676172,0.0096950075
+1788,MATT,Part Two,13,Dialogue,FLYNN,"Someone hold her down. If she's sick and turns into one of these, I will not--",2,fear,0.43970275,0.23074241,0.09585095,0.43970275,0.0034425138,0.16559978,0.060743786,0.0039178035
+1789,ASHLEY,Part Two,13,Dialogue,YASHA,She's fine. Just calm down. ,4,neutral,0.70874673,0.05490181,0.08552701,0.09455066,0.007499983,0.70874673,0.046604417,0.0021693762
+1790,TALIESIN,Part Two,13,Dialogue,MOLLY,"Well, we've already killed two of them. ",4,neutral,0.740585,0.10633659,0.09505167,0.027231824,0.0031145555,0.740585,0.022865882,0.004814522
+1791,SAM,Part Two,13,Dialogue,NOTT,She's definitely sick. ,1,disgust,0.33230433,0.017743584,0.33230433,0.22818348,0.0031488102,0.2307107,0.15572335,0.032185785
+1795,MATT,Part Two,13,Dialogue,FLYNN,Kill the thing! ,0,anger,0.7149011,0.7149011,0.031153167,0.2333075,0.0022496572,0.010495095,0.0058045303,0.002089015
+1799,ASHLEY,Part Two,13,Dialogue,JESTER,"Stop, stop. ",2,fear,0.47908238,0.45072076,0.018279478,0.47908238,0.0018977448,0.03119139,0.017053204,0.0017750561
+1801,MATT,Part Two,13,Dialogue,FLYNN,"Look, if she's going to become one of these things, we have to stop her now. ",0,anger,0.44468004,0.44468004,0.053059924,0.37051323,0.0026577797,0.11007388,0.014758838,0.0042562974
+1802,LAURA,Part Two,13,Dialogue,JESTER,"Yasha will totally kill me. Don't worry, you can leave. ",2,fear,0.8997217,0.05083195,0.005606903,0.8997217,0.0028634116,0.025808046,0.010698793,0.0044692834
+1803,MARISHA,Part Two,13,Dialogue,BEAU,"Jester. Jokes are great until they get you killed, man. She's joking. ",4,neutral,0.5588785,0.071917556,0.27821916,0.008442577,0.059910085,0.5588785,0.016071457,0.0065606553
+1804,LAURA,Part Two,13,Dialogue,JESTER,(weak laughter) ,3,joy,0.8657228,0.014568379,0.016569102,0.0036462361,0.8657228,0.08851446,0.008350641,0.0026283965
+1809,MARISHA,Part Two,13,Dialogue,BEAU,"What's your name, man? ",4,neutral,0.39071697,0.08426051,0.05241126,0.09840938,0.0044655735,0.39071697,0.010108074,0.35962832
+1812,MATT,Part Two,13,Dialogue,FLYNN,Flynn.,4,neutral,0.79760766,0.029068207,0.06364501,0.034931984,0.018608835,0.79760766,0.04330521,0.012833061
+1813,MARISHA,Part Two,13,Dialogue,BEAU,"Flynn. How long you been doing this, you said ten years? ",4,neutral,0.60744816,0.06660468,0.06544833,0.08361147,0.0027562724,0.60744816,0.011120919,0.16301022
+1814,MATT,Part Two,13,Dialogue,FLYNN,Ten years two months ago. ,2,fear,0.45385233,0.045731477,0.018044688,0.45385233,0.007820952,0.40559787,0.009537646,0.059415
+1815,MARISHA,Part Two,13,Dialogue,BEAU,"Oh. Happy ten year-i-versary. Yeah, congrats. Did you get a nice watch or like a commemorative tankard? ",3,joy,0.9334201,0.0047522555,0.0014997339,0.0017254533,0.9334201,0.03157822,0.004341538,0.022682589
+1818,MARISHA,Part Two,13,Dialogue,BEAU,Did you get a commemorative tankard? ,4,neutral,0.76776016,0.022864452,0.027711896,0.011835971,0.0024423585,0.76776016,0.0071890512,0.16019613
+1820,MATT,Part Two,13,Dialogue,FLYNN,No. Don't move. ,2,fear,0.8806644,0.046971135,0.014907957,0.8806644,0.0020526038,0.036692694,0.01700965,0.0017016171
+1821,MARISHA,Part Two,13,Dialogue,BEAU,"I'm not moving, man. Hey. Hey, Flynn. ",4,neutral,0.3204676,0.21509331,0.19359916,0.021995319,0.1855991,0.3204676,0.04317385,0.020071713
+1822,MARISHA,Part Two,13,Dialogue,BEAU,"Hey, man. How about first we put the swords down, because we helped? Yeah. ",4,neutral,0.3834743,0.21640706,0.27874863,0.05707082,0.04000169,0.3834743,0.016164387,0.008133149
+1825,MATT,Part Two,13,Dialogue,WATCHMASTER,I had a gut feeling that you were nothing but trouble when you came into our town. ,2,fear,0.9121883,0.01629724,0.027038882,0.9121883,0.0022111365,0.019549187,0.018807778,0.0039075017
+1827,MATT,Part Two,13,Dialogue,GUSTAV,"I guarantee to you, my friend, I have no idea-- ",2,fear,0.5747907,0.15493935,0.052206125,0.5747907,0.010938856,0.12970975,0.012267991,0.06514726
+1828,MATT,Part Two,13,Dialogue,WATCHMASTER,What happened here? ,6,surprise,0.36751208,0.11413155,0.03614197,0.33963338,0.0032694105,0.12601127,0.013300449,0.36751208
+1830,MATT,Part Two,13,Dialogue,FLYNN,"Sir, Flynn. There was a creature. This carnival seemed to create some sort of terrible entity that killed and then created a secondary beast. I watched it with my own eyes from the back row. ",1,disgust,0.8417024,0.010359161,0.8417024,0.120390266,0.00096772617,0.016776321,0.0038090583,0.0059950487
+1832,MATT,Part Two,13,Dialogue,WATCHMASTER,And who else saw that? ,6,surprise,0.43835708,0.10394405,0.07383776,0.018123413,0.003827115,0.35707724,0.0048333663,0.43835708
+1833,TRAVIS,Part Two,13,Dialogue,FJORD,We did. ,4,neutral,0.9007176,0.033942193,0.03175148,0.015615522,0.0036862565,0.9007176,0.011499618,0.0027873167
+1834,LAURA,Part Two,13,Dialogue,JESTER,"Well, we saw an old guy turn into a zombie. ",1,disgust,0.92699075,0.012415728,0.92699075,0.0049197157,0.0011522077,0.04798689,0.003391079,0.003143662
+1835,LAURA,Part Two,13,Dialogue,JESTER,"But it's possible that he just died because he was old, and then he had the zombie curse on him and just turned, you know? Because that happens a lot. ",4,neutral,0.7753377,0.032001406,0.123428926,0.014560341,0.0022522134,0.7753377,0.005400075,0.047019288
+1836,TALIESIN,Part Two,13,Dialogue,MOLLY,"(deadpan) Gustav, it's no use, we've been found out. Our terrible plot to make a zombie rampage through our carnival has been discovered. ",2,fear,0.8556023,0.0207646,0.085933484,0.8556023,0.0014913264,0.020507189,0.0075654886,0.008135593
+1837,TALIESIN,Part Two,13,Dialogue,MOLLY,Whatever will we do now that we've been discovered for our brilliant plot to make a zombie ruin our circus. My god. ,6,surprise,0.7579113,0.051507827,0.090232044,0.030381529,0.0033943837,0.020252248,0.046320636,0.7579113
+1839,MATT,Part Two,13,Dialogue,FLYNN,Put your weapons down or we'll arrest you immediately! ,2,fear,0.71490115,0.24568602,0.008901593,0.71490115,0.0017768266,0.017753394,0.008949695,0.00203134
+1840,TALIESIN,Part Two,13,Dialogue,MOLLY,I'm literally holding nothing but my hands. ,2,fear,0.653028,0.1686649,0.12460271,0.653028,0.001436453,0.01914648,0.029965466,0.0031560208
+1841,LIAM,Part Two,13,Dialogue,CALEB,"I mean, I'm sorry, but we're basically a group of strangers. Most of us don't know each other. We all have the same story. There was a show, an old man became a thing, and we helped destroy it. This one destroyed it. What more do you want from us? ",1,disgust,0.42355004,0.19656634,0.42355004,0.032348707,0.0021763116,0.30406874,0.020314077,0.020975815
+1842,TALIESIN,Part Two,13,Dialogue,MOLLY,It ruined our show. ,0,anger,0.5413642,0.5413642,0.15820229,0.042163756,0.002021133,0.03141676,0.22064503,0.004186851
+1844,MATT,Part Two,13,Dialogue,FLYNN,"Watchmaster, what should we do? ",2,fear,0.85458404,0.057289228,0.017597795,0.85458404,0.001048169,0.047260143,0.015471875,0.0067488193
+1846,MATT,Part Two,13,Dialogue,WATCHMASTER,"You, sir, and your orc, and your circus, are considered currently under arrest. Who else belongs to your merry band? ",4,neutral,0.39734033,0.16326448,0.04418481,0.22544882,0.004183323,0.39734033,0.16004147,0.0055367225
+1848,MATT,Part Two,13,Dialogue,GUSTAV,The orc. ,1,disgust,0.6278352,0.041635852,0.6278352,0.16622385,0.0021621545,0.13918424,0.014741295,0.008217367
+1850,MATT,Part Two,13,Dialogue,GUSTAV,"The rest of them are just purveyors of our performances. He was just joking earlier, right? ",4,neutral,0.9051515,0.016848067,0.050602574,0.005388341,0.0085051125,0.9051515,0.0033375071,0.010166885
+1854,MATT,Part Two,13,Dialogue,WATCHMASTER,"And you are also under arrest. The rest of you, what are your names?",4,neutral,0.4110184,0.05389562,0.049350765,0.13515969,0.0025861373,0.4110184,0.32198355,0.026005868
+1855,LAURA,Part Two,13,Dialogue,JESTER,Shirley. ,2,fear,0.5196448,0.013158902,0.09015245,0.5196448,0.010450268,0.3037765,0.05067799,0.012139071
+1856,SAM,Part Two,13,Dialogue,NOTT,Temple. ,4,neutral,0.36190873,0.061042383,0.22095962,0.27106544,0.011835114,0.36190873,0.06793083,0.0052578594
+1857,SAM,Part Two,13,Dialogue,NOTT,(muffled laughter) ,3,joy,0.7651338,0.10436007,0.057461984,0.008523769,0.7651338,0.055460613,0.0066640982,0.00239573
+1858,LIAM,Part Two,13,Dialogue,CALEB,Caleb Widogast. ,2,fear,0.7057769,0.057099547,0.025918663,0.7057769,0.0075552505,0.16676077,0.0332241,0.0036648242
+1859,MARISHA,Part Two,13,Dialogue,BEAU,"Beau, same as him. ",4,neutral,0.83553493,0.026653022,0.075176924,0.021290522,0.0043125227,0.83553493,0.016123613,0.020908484
+1860,TRAVIS,Part Two,13,Dialogue,FJORD,Bo. ,4,neutral,0.7454406,0.04024396,0.0722385,0.1049487,0.010396708,0.7454406,0.020507175,0.006224349
+1860,TRAVIS,Part Two,13,Dialogue,FJORD,Bo. ,4,neutral,0.7454406,0.04024396,0.0722385,0.1049487,0.010396708,0.7454406,0.020507175,0.006224349
+1861,TRAVIS,Part Two,13,Dialogue,FJORD,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1861,TRAVIS,Part Two,13,Dialogue,FJORD,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1861,TRAVIS,Part Two,13,Dialogue,FJORD,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1861,TRAVIS,Part Two,13,Dialogue,FJORD,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1861,TRAVIS,Part Two,13,Dialogue,FJORD,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1861,TRAVIS,Part Two,13,Dialogue,FJORD,(laughter) ,4,neutral,0.57814527,0.08658676,0.19109651,0.034801535,0.0815255,0.57814527,0.024517478,0.0033269166
+1861,TRAVIS,Part Two,13,Dialogue,FJORD,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1861,TRAVIS,Part Two,13,Dialogue,FJORD,(laughter) ,4,neutral,0.5781452,0.08658675,0.1910965,0.034801528,0.0815255,0.5781452,0.02451748,0.0033269164
+1865,ASHLEY,Part Two,13,Dialogue,YASHA,"Here's the thing. Oh, it's Mary by the way, but I think I know who might know what has happened here. ",4,neutral,0.57653856,0.021348083,0.050364207,0.018548042,0.013413824,0.57653856,0.010020468,0.3097668
+1866,MATT,Part Two,13,Dialogue,WATCHMASTER,Do you? Tell me.,0,anger,0.5146911,0.5146911,0.051957168,0.16753665,0.020709887,0.14758497,0.023825392,0.0736948
+1867,ASHLEY,Part Two,13,Dialogue,YASHA,I'll have to go get her. ,2,fear,0.36368057,0.10480971,0.09804594,0.36368057,0.010766991,0.25644425,0.16457817,0.0016742975
+1868,MATT,Part Two,13,Dialogue,WATCHMASTER,Who is this?,6,surprise,0.8751441,0.026879663,0.009560091,0.0069701704,0.0033786567,0.07332903,0.004738285,0.8751441
+1869,ASHLEY,Part Two,13,Dialogue,YASHA,She is the singer that made this all happen. ,4,neutral,0.80925554,0.036824606,0.023594227,0.023514152,0.051765554,0.80925554,0.007126178,0.047919698
+1870,MATT,Part Two,13,Dialogue,WATCHMASTER,"Flynn, escort this woman to retrieve this individual she speaks of.",1,disgust,0.36682355,0.18255559,0.36682355,0.08191206,0.0039061308,0.3455745,0.016406557,0.0028216152
+1872,LAURA,Part Two,13,Dialogue,JESTER,"She's really shy, though, and I hear she only talks to tieflings, so you should probably send-- ",4,neutral,0.55602896,0.011975221,0.090236194,0.31355065,0.0039919713,0.55602896,0.016232172,0.007984816
+1873,MATT,Part Two,13,Dialogue,WATCHMASTER,Stay where you are.,4,neutral,0.9670922,0.010435734,0.0035683056,0.0029237627,0.0048973276,0.9670922,0.008594794,0.0024878292
+1874,LAURA,Part Two,13,Dialogue,JESTER,"--my brother along, because he's really good with that stuff. ",4,neutral,0.48881283,0.0626974,0.030521689,0.033513542,0.28979358,0.48881283,0.022048727,0.07261224
+1875,TALIESIN,Part Two,13,Dialogue,MOLLY,"Try not to stab any random people on your way there, Flynn. You're doing good. ",4,neutral,0.7040117,0.121485434,0.08141105,0.046047196,0.034984313,0.7040117,0.009263194,0.0027971736
+1876,MATT,Part Two,13,Dialogue,WATCHMASTER,My men tell me that the rest of you helped destroy these fiends. Is that correct? ,4,neutral,0.53039116,0.18085168,0.21764432,0.043120302,0.0027453292,0.53039116,0.010246115,0.015001039
+1877,ALL,Part Two,13,Dialogue,MIGHTY NEIN,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+1877,ALL,Part Two,13,Dialogue,MIGHTY NEIN,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+1877,ALL,Part Two,13,Dialogue,MIGHTY NEIN,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+1877,ALL,Part Two,13,Dialogue,MIGHTY NEIN,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+1877,ALL,Part Two,13,Dialogue,MIGHTY NEIN,Yeah. ,4,neutral,0.55030656,0.040906493,0.2223379,0.14074954,0.0048911828,0.55030656,0.038033623,0.0027747895
+1878,MATT,Part Two,13,Dialogue,WATCHMASTER,"""Then on behalf of the Starosta, I appreciate your aid. But until this investigation is complete, you are all under investigation from us. Where are you staying?"" ",4,neutral,0.72177917,0.07975415,0.08260747,0.07438339,0.0095192995,0.72177917,0.028596677,0.0033598426
+1879,TRAVIS,Part Two,13,Dialogue,FJORD,The Nestled Nook Inn. ,4,neutral,0.56174797,0.0155146895,0.09775001,0.20613587,0.0756073,0.56174797,0.012187623,0.03105659
+1884,MATT,Part Two,13,Dialogue,WATCHMASTER,"Do not leave this city unless you are told otherwise. Should you do so, I have your names, and I can have the full might of the Cerberus Assembly track you down. You. Flynn. Free this girl.",0,anger,0.52994907,0.52994907,0.018592294,0.13387315,0.0052359393,0.27771905,0.030238135,0.004392326
+1886,MATT,Part Two,13,Dialogue,FLYNN,"All right, where is this girl you speak of? ",0,anger,0.6201282,0.6201282,0.1689233,0.042387668,0.0023487129,0.15344062,0.007811257,0.0049601267
+1887,ASHLEY,Part Two,13,Dialogue,YASHA,She's in the back in the tents. ,4,neutral,0.3391204,0.04068122,0.3028815,0.26532298,0.0023714392,0.3391204,0.013936981,0.035685513
+1888,MATT,Part Two,13,Dialogue,FLYNN,Show me.,4,neutral,0.83792776,0.048233606,0.021086488,0.021988817,0.032642484,0.83792776,0.01071786,0.027403053
+1889,ASHLEY,Part Two,13,Dialogue,YASHA,Follow me. ,2,fear,0.5095893,0.03923577,0.012736168,0.5095893,0.007262771,0.41683733,0.0071829706,0.0071557187
+1892,ASHLEY,Part Two,13,Dialogue,YASHA,Go get her. She won't talk to me. She's too scared of me. ,2,fear,0.87069315,0.07613526,0.01289658,0.87069315,0.0014989624,0.024266647,0.011745359,0.0027639812
+1893,MATT,Part Two,13,Dialogue,FLYNN,All right.,4,neutral,0.67855716,0.18501632,0.083250575,0.004387608,0.031998307,0.67855716,0.013777056,0.003012995
+1897,MATT,Part Two,13,Dialogue,FLYNN,The tent is empty. What are you talking about? Hello? Helloooo? (laughter) ,0,anger,0.3876331,0.3876331,0.30973977,0.067997456,0.004741968,0.073187865,0.03439672,0.12230323
+1902,MATT,Part Two,13,Dialogue,WATCHMASTER,"So. The investigation will begin. If any information comes to light that could alleviate you of the charges brought to this carnival, come to me and let me know. If you have no answers before we complete this investigation, then I believe you all will fall into the judgment. ",4,neutral,0.69673145,0.06448778,0.020207535,0.1753015,0.01101948,0.69673145,0.029369265,0.0028829924
+1903,LAURA,Part Two,13,Dialogue,JESTER,Next time we don't help. That's what it comes down to. ,4,neutral,0.53155035,0.1561515,0.08981276,0.18318126,0.0038746903,0.53155035,0.03104185,0.0043874537
+1904,MARISHA,Part Two,13,Dialogue,BEAU,"I know, we got paid the first time we helped, and then we got arrested the second time. ",4,neutral,0.53844863,0.1938844,0.21581654,0.02155595,0.011447734,0.53844863,0.010966717,0.007880013
+1905,MARISHA,Part Two,13,Dialogue,BEAU,I don't know what lesson to learn here. ,4,neutral,0.4425366,0.059340626,0.10249487,0.24127701,0.0050717923,0.4425366,0.07121966,0.07805941
+1906,SAM,Part Two,13,Dialogue,NOTT,Just say okay and let's leave. ,4,neutral,0.4508007,0.20988621,0.10996533,0.12366573,0.012200202,0.4508007,0.09188874,0.0015931621
+1907,LIAM,Part Two,13,Dialogue,CALEB,"Yeah, yeah. ",4,neutral,0.5022803,0.05142906,0.23968913,0.15784588,0.009560212,0.5022803,0.037278358,0.0019170891
+1907,LIAM,Part Two,13,Dialogue,CALEB,"Yeah, yeah. ",4,neutral,0.5022803,0.05142906,0.23968913,0.15784588,0.009560212,0.5022803,0.037278358,0.0019170891
+1910,MATT,Part Two,13,Dialogue,WATCHMASTER,"Remember, you flee, I'll find you. ",2,fear,0.53895175,0.100901574,0.011781831,0.53895175,0.0069424054,0.31217295,0.024850484,0.0043990547
