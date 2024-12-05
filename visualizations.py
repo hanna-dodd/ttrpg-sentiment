@@ -1,92 +1,41 @@
-import os
-import re
 import pandas as pd
 import numpy as np
-import plotly.graph_objects as go
+import seaborn as sns
+import matplotlib.pyplot as plt
 
-def import_data():
-    
-    df = pd.read_csv("c2e1results.csv")
-    
-    index = df['Index'].tolist()
-    emotion_labels = df["label"].tolist()
-    
-    return index, emotion_labels
-    
+file = 'c2e1_weighted.csv'
+df = pd.read_csv(file)
 
-def plot_emotions(index, emotion_labels):
-    
-    heatmap_data = []
-    for label in emotion_labels:
-        heatmap_data.append(label)
-        
-    custom_colorscale = [
-        [0.0, "#FFFFFF"],
-        [0.2, "#CCCCCC"],
-        [0.4, "#999999"],
-        [0.6, "#666666"],
-        [0.8, "#333333"],
-        [1.0, "#000000"],
-    ]
+emotion_columns = ["anger", "joy", "surprise", "disgust", "fear", "sadness"]
 
-    # Create the heatmap.
-    fig = go.Figure(
-        data=go.Heatmap(
-            z=heatmap_data,
-            x=index,
-            y=emotion_labels,
-            colorscale=custom_colorscale,
-            colorbar=dict(title="Emotion Score"),
-        )
+def categorical_emotions():
+    
+    emotion_data = df.groupby("Scene")[emotion_columns].mean()  # Average probabilities per scene
+
+    emotion_data = emotion_data.sort_index()
+
+    # Plot the heatmap
+    plt.figure(figsize=(12, 6))
+    sns.heatmap(
+        emotion_data.T,  # Transpose to make emotions the y-axis
+        cmap=sns.color_palette("rocket_r", as_cmap=True),
+        annot=True,      # Show values in cells
+        cbar_kws={"label": "Average Emotion Probability"},
+        linewidths=0.5
     )
 
-    # Layout and labels.
-    fig.update_layout(
-        title={
-            "text": "Title",
-            "x": 0.5,
-            "xanchor": "center",
-            "yanchor": "top",
-            "font": dict(size=28, family="Arial", weight="bold"),
-        },
-        xaxis=dict(
-            title="Time (minutes)",
-            title_font=dict(size=18, family="Arial", weight="bold"),
-            tickangle=45,
-            tickfont=dict(size=12, family="Arial"),
-            # Adjust the interval for x-axis ticks (every 5 minutes).
-            dtick=5,
-        ),
-        yaxis=dict(
-            title="Emotion",
-            title_font=dict(size=18, family="Arial", weight="bold"),
-            tickfont=dict(size=12, family="Arial"),
-        ),
-        height=1237.5,
-        width=2200,
-        margin=dict(l=50, r=50, t=100, b=150),
-        annotations=[
-            {
-                "x": 1,
-                "y": -0.15,
-                "xref": "paper",
-                "yref": "paper",
-                "showarrow": False,
-                "font": dict(size=12, color="gray"),
-                "align": "right",
-            }
-        ],
-    )
+    # Add labels and title
+    plt.xlabel("Scene")
+    plt.ylabel("Emotion")
+    plt.title("Character Emotions by Scene in Episode 1")
+    plt.xticks(rotation=45)
+    plt.tight_layout()
 
-    # Save as an HTML file.
-    fig.savefig("fig.png")
-    print(f"Graph saved as fig.png")
+    # Show the plot
+    plt.savefig("figures/heatmap_categorical.png")
+    
+def vad_plots():
+    
+    return
 
-    # Show the interactive chart in the browser.
-    fig.show()
-
-
-
-index, labels = import_data()
-
-plot_emotions(index, labels)
+categorical_emotions()
