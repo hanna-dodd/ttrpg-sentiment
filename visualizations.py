@@ -27,7 +27,7 @@ def categorical_emotions():
     # Add labels and title
     plt.xlabel("Scene")
     plt.ylabel("Emotion")
-    plt.title("Character Emotions by Scene in Episode 1")
+    plt.title("Emotions by Scene in Episode 1")
     plt.xticks(rotation=45)
     plt.tight_layout()
 
