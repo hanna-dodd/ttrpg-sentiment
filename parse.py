@@ -56,7 +56,7 @@ def parse_critrolec1():
     
         print(episode_num)
         
-    csv = 'c1.csv'
+    csv = 'data/c1.csv'
     critroledf.to_csv(csv, index=False)
     
 def parse_critrolec2():
@@ -115,7 +115,7 @@ def parse_critrolec2():
     
         print(episode_num)
         
-    csv = 'c2.csv'
+    csv = 'data/c2.csv'
     critroledf.to_csv(csv, index=False)
 
 def find_episode(input_text):

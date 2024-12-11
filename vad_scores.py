@@ -24,8 +24,8 @@ def calculate_weighted_vad(row, vad_scores, emotion_columns):
 
     return weighted_vad
 
-file = 'c2e1results.csv'
+file = 'data/c2e1results.csv'
 df = pd.read_csv(file)
 
 df["weighted_vad"] = df.apply(calculate_weighted_vad, axis=1, args=(vad_scores, emotion_columns))
-df.to_csv('c2e1_weighted.csv', index=False)
+df.to_csv('data/c2e1_weighted.csv', index=False)

@@ -9,7 +9,7 @@ def remove_arrows(line):
 
 def clean_c2():
     
-    df = pd.read_csv("c2.csv")
+    df = pd.read_csv("data/c2.csv")
 
     df.Line = df.Line.apply(remove_arrows)
     df.loc[df.Speaker == 'ALLURA', "Speaker"] = 'MATT'
@@ -43,7 +43,7 @@ def clean_c2():
 
     df = df[df['Episode_Num'] != 'E12']
 
-    csv = "c2clean.csv"
+    csv = "data/c2clean.csv"
     df.to_csv(csv, index=False)
     
 clean_c2()

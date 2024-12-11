@@ -3,7 +3,6 @@ import numpy as np
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trainer
 from transformers import pipeline
 
-# Create class for data preparation
 class SimpleDataset:
     def __init__(self, tokenized_texts):
         self.tokenized_texts = tokenized_texts
@@ -21,7 +20,7 @@ trainer = Trainer(model=model)
 
 def prepare_data():
     
-    df = pd.read_csv("c2E1.csv")
+    df = pd.read_csv("data/c2E1.csv")
     df_P1 = df.loc[df['Section'] == 'Part One']
     df_P2 = df.loc[df['Section'] == 'Part Two']
     frames = [df_P1, df_P2]
@@ -71,4 +70,4 @@ df_Dialogue, pred_texts = prepare_data()
 df = predict_sentiment(pred_texts)
 
 df_Results = pd.merge(df_Dialogue, df, on="text")
-df_Results.to_csv('c2e1results.csv', index=False)
+df_Results.to_csv('data/c2e1results.csv', index=False)
