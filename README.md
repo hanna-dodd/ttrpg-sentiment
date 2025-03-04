@@ -5,7 +5,7 @@ A sentiment analysis of Campaign 2, Episode 1: Curious Beginnings from Critical 
 ### Categorical Emotions
 
 Emotional statements made by each main character (with neutral statements removed).
-![image1](figures/'emotions by character.png')
+![image1](figures/emotions_by_character.png)
 
 Emotions by scene.
 ![image2](figures/heatmap_categorical.png)
